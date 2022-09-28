@@ -1,0 +1,160 @@
+@media screen and (max-width: 85.375em) and (orientation: landscape) {
+  main {
+    display: flex; 
+    flex-direction: column;
+    align-items: center;
+  }
+    
+    
+  li {
+    list-style: none;
+    font-size: 6rem;
+    margin-top: 110px;
+  }
+    
+  .icon-fifty--trophy{
+    height: 50px;
+    width: 50px;
+    margin-left: 3%;
+    margin-top: 2%;
+  } 
+    
+}
+
+@media screen and (max-width: 71.25em) and (orientation: landscape) {
+  main {
+    display: flex; 
+    flex-direction: column;
+    align-items: center;
+  }
+    
+    
+  li {
+    list-style: none;
+    font-size: 5.25rem;
+    margin-top: 110px;
+  }
+    
+  .icon-fifty--trophy{
+    height: 45px;
+    width: 45px;
+    margin-left: 3%;
+    margin-top: 2%;
+  } 
+    
+}
+
+@media screen and (max-width: 62em) and (orientation: landscape) {
+    main {
+      display: flex; 
+      flex-direction: column;
+      align-items: center;
+    }
+      
+      
+    li {
+      list-style: none;
+      font-size: 4rem;
+      margin-top: 110px;
+    }
+      
+    .icon-fifty--trophy{
+      height: 40px;
+      width: 40px;
+      margin-left: 3%;
+      margin-top: 2%;
+    } 
+      
+}
+
+@media screen and (max-width: 49.0625em) and (orientation: landscape) {
+    main {
+      display: flex; 
+      flex-direction: column;
+      align-items: center;
+    }
+      
+      
+    li {
+      list-style: none;
+      font-size: 3rem;
+      margin-top: 110px;
+    }
+      
+    .icon-fifty--trophy{
+      height: 30px;
+      width: 30px;
+      margin-left: 3%;
+      margin-top: 2%;
+    }
+      
+}
+
+@media screen and (max-width: 37.5em) and (orientation: landscape) {
+    main {
+      display: flex; 
+      flex-direction: column;
+      align-items: center;
+    }
+      
+      
+    li {
+      list-style: none;
+      font-size: 2.5rem;
+      margin-top: 110px;
+    }
+      
+    .icon-fifty--trophy{
+      height: 30px;
+      width: 30px;
+      margin-left: 3%;
+      margin-top: 2%;
+    }
+      
+}
+
+@media screen and (max-width: 31.25em) and (orientation: portrait) {
+    main {
+      display: flex; 
+      flex-direction: column;
+      align-items: center;
+    }
+      
+      
+    li {
+      list-style: none;
+      font-size: 2rem;
+      margin-top: 110px;
+    }
+      
+    .icon-fifty--trophy{
+      height: 20px;
+      width: 20px;
+      margin-left: 3%;
+      margin-top: 2%;
+    }
+      
+}
+
+@media screen and (max-width: 25em) and (orientation: portrait) {
+    main {
+      display: flex; 
+      flex-direction: column;
+      align-items: center;
+    }
+      
+      
+    li {
+      list-style: none;
+      font-size: 1.5rem;
+      margin-top: 110px;
+    }
+      
+    .icon-fifty--trophy{
+      height: 17.5px;
+      width: 17.5px;
+      margin-left: 3%;
+      margin-top: 2%;
+    }
+      
+}

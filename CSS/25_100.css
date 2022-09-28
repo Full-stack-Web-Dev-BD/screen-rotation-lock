@@ -1,0 +1,70 @@
+.icon--twentyfive-hundred {
+    height: 30px;
+    width: 30px;
+    margin-top: 15px;
+    margin-left: 4px;
+}
+  
+.icon--twentyfive-hundred:hover {
+    height: 35px;
+    width: 30px;
+    margin-top: 10px;
+    margin-left: 4px;
+}
+  
+.twenty-five--hundred {
+    display: grid;
+    justify-content: center;
+    grid-template-columns: repeat(2, 45%);
+    grid-gap: 10px;
+    margin-top: 27.5px;
+}
+  
+.btn--twenty {
+    font-family: inherit;
+    border: 4px double #5781ff;
+    border-radius: 5px;
+    background-color: #222;
+    color: #eee;
+    padding: 10px;
+    font-size: 6rem;
+    height: 270px;
+}
+  
+.btn--twenty:hover {
+    /* transform: scale(1.03);  */
+    border-radius: 5px;
+    border: 4px double #668dfa;
+    cursor: pointer;
+}
+  
+.btn--twenty:active {
+    transform: scale(1.02); 
+    border-radius: 5px;
+    border: 4px double #668dfa;
+}
+  
+.score-container--twenty-five {
+    display: flex; 
+    flex-direction: row;
+    justify-content: center;
+}
+  
+.score-design--twenty {
+    border: 4px ridge #5781ff;
+    margin-top: 5rem;
+    width: 45%;
+    height: 100px;
+    text-align: center;
+    padding-top: 40px;
+    font-size: 18px; 
+}  
+  
+.setting-icon--twenty {
+    color: #D3D3D3;
+    height: 30px;
+    width: 30px;
+    margin-top: 15px;
+    margin-left: 85%;
+}
+  

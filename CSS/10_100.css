@@ -1,0 +1,70 @@
+.icon--ten-hundred {
+    height: 30px;
+    width: 30px;
+    margin-top: 15px;
+    margin-left: 4px;
+}
+    
+.icon--ten-hundred:hover {
+    height: 35px;
+    width: 30px;
+    margin-top: 10px;
+    margin-left: 4px;
+}
+  
+.ten--hundred {
+    display: grid;
+    grid-template-columns: repeat(2, 45%);
+    justify-content: center;
+    grid-gap: 7.5px;
+    margin-top: 27.5px;
+}
+  
+.btn--ten {
+    font-family: inherit;
+    border: 4px dashed #c3f50f;
+    border-radius: 5px;
+    background-color: #222;
+    color: #eee;
+    padding: 10px;
+    font-size: 4.5rem;
+    height: 110px;
+}
+  
+.btn--ten:hover {
+     /* transform: scale(1.02);  */
+     border-radius: 7px;
+     cursor: pointer;
+}
+  
+.btn--ten:active {
+     transform: scale(1.01); 
+     border-radius: 7px;
+}
+  
+.score-container--ten-hundred {
+    display: flex; 
+    flex-direction: row;
+    justify-content: center;
+}
+    
+.score-design--ten {
+    border: 4px ridge #c3f50f;
+    margin-top: 3.75rem;
+    width: 45%;
+    height: 100px;
+    text-align: center;
+    padding-top: 40px;
+    font-size: 18px;
+}   
+  
+.setting-icon--ten {
+    color: #D3D3D3;
+    height: 30px;
+    width: 30px;
+    margin-top: 15px;
+    margin-left: 85%;
+}
+  
+
+  

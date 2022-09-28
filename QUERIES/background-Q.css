@@ -1,0 +1,3686 @@
+/****************/
+/* Below 1366px */
+/****************/
+  
+@media screen and (max-width: 85.375em) and (orientation: landscape) {
+
+  .background-title {
+    font-size: 5.5rem;
+  }
+  
+  .trophy-number--background {
+    font-size: 50px;
+    top: 20px;
+    right: 12%;
+  }
+      
+  .trophy-outline--background-select {
+    height: 60px;
+    width: 60px;
+    top: 10px;
+    right: 5%;
+  }
+  
+  .icon--background-select {
+    height: 60px; 
+    width: 60px;
+    top: 15px;
+    left: 5%;
+  }
+  
+  .simple-background {
+    font-size: 6.05rem;
+    margin-left: 32%; 
+    margin-top: 80px;
+  }
+  
+  .vibrant-background {
+    font-size: 5.192rem; 
+    margin-left: 32%;
+    margin-top: 300px;
+  }
+  
+  .premium-background {
+    font-size: 5.192rem; 
+    margin-left: 32%;
+    margin-top: 520px;
+  }
+  
+  .trophy-req--simple {
+    margin-left: 33.25%; 
+    margin-top: 15.75%;
+    font-size: 17.5px;
+  }
+  
+  .trophy-req-vibrant {
+    margin-left: 33.25%; 
+    margin-top: 31.75%;
+    font-size: 17.5px;
+  }
+  
+  .trophy-req--premium {
+    margin-left: 33.25%;
+    margin-top: 48.15%;  
+    font-size: 12.5px;
+  } 
+  
+  .trophy--background-simple {
+    margin-left: 34.5%;
+    margin-top: 14.9%;
+    height: 27.5px;
+    width: 27.5px;
+  }
+  
+  .trophy--background-vibrant {
+    margin-left: 35.5%;
+    margin-top: 30.9%;
+    height: 27.5px;
+    width: 27.5px;
+  }  
+    
+}
+
+/****************/
+
+@media screen and (max-width: 82.5em) and (orientation: landscape) {
+
+  .background-title {
+    font-size: 5.5rem;
+  }
+  
+  .trophy-number--background {
+    font-size: 50px;
+    top: 20px;
+    right: 12%;
+  }
+      
+  .trophy-outline--background-select {
+    height: 60px;
+    width: 60px;
+    top: 10px;
+    right: 5%;
+  }
+  
+  .icon--background-select {
+    height: 60px; 
+    width: 60px;
+    top: 15px;
+    left: 5%;
+  }
+  
+  .simple-background {
+    font-size: 6.05rem;
+    margin-left: 32%; 
+    margin-top: 80px;
+  }
+  
+  .vibrant-background {
+    font-size: 5.192rem; 
+    margin-left: 32%;
+    margin-top: 300px;
+  }
+  
+  .premium-background {
+    font-size: 5.192rem; 
+    margin-left: 32%;
+    margin-top: 520px;
+  }
+  
+  .trophy-req--simple {
+    margin-left: 33.25%; 
+    margin-top: 16.25%;
+    font-size: 17.5px;
+  }
+  
+  .trophy-req-vibrant {
+    margin-left: 33.25%; 
+    margin-top: 32.75%;
+    font-size: 17.5px;
+  }
+  
+  .trophy-req--premium {
+    margin-left: 33.25%;
+    margin-top: 49.75%;  
+    font-size: 12.5px;
+  } 
+  
+  .trophy--background-simple {
+    margin-left: 34.5%;
+    margin-top: 15.5%;
+    height: 27.5px;
+    width: 27.5px;
+  }
+  
+  .trophy--background-vibrant {
+    margin-left: 35.5%;
+    margin-top: 32%;
+    height: 27.5px;
+    width: 27.5px;
+  }  
+    
+}
+
+@media screen and (max-width: 80em) and (orientation: landscape) {
+
+  .background-title {
+    font-size: 5.5rem;
+  }
+  
+  .trophy-number--background {
+    font-size: 50px;
+    top: 20px;
+    right: 12%;
+  }
+      
+  .trophy-outline--background-select {
+    height: 60px;
+    width: 60px;
+    top: 10px;
+    right: 5%;
+  }
+  
+  .icon--background-select {
+    height: 60px; 
+    width: 60px;
+    top: 15px;
+    left: 5%;
+  }
+  
+  .simple-background {
+    font-size: 6.05rem;
+    margin-left: 32%; 
+    margin-top: 80px;
+  }
+  
+  .vibrant-background {
+    font-size: 5.192rem; 
+    margin-left: 32%;
+    margin-top: 300px;
+  }
+  
+  .premium-background {
+    font-size: 5.192rem; 
+    margin-left: 32%;
+    margin-top: 520px;
+  }
+  
+  .trophy-req--simple {
+    margin-left: 33.25%; 
+    margin-top: 16.75%;
+    font-size: 17.5px;
+  }
+  
+  .trophy-req-vibrant {
+    margin-left: 33.25%; 
+    margin-top: 33.9%;
+    font-size: 17.5px;
+  }
+  
+  .trophy-req--premium {
+    margin-left: 33.25%;
+    margin-top: 51.4%;  
+    font-size: 12.5px;
+  } 
+  
+  .trophy--background-simple {
+    margin-left: 34.5%;
+    margin-top: 15.9%;
+    height: 27.5px;
+    width: 27.5px;
+  }
+  
+  .trophy--background-vibrant {
+    margin-left: 35.5%;
+    margin-top: 33%;
+    height: 27.5px;
+    width: 27.5px;
+  }  
+    
+}
+
+@media screen and (max-width: 77.5em) and (orientation: landscape) {
+
+  .background-title {
+    font-size: 5.5rem;
+  }
+  
+  .trophy-number--background {
+    font-size: 50px;
+    top: 20px;
+    right: 12%;
+  }
+      
+  .trophy-outline--background-select {
+    height: 60px;
+    width: 60px;
+    top: 10px;
+    right: 5%;
+  }
+  
+  .icon--background-select {
+    height: 60px; 
+    width: 60px;
+    top: 15px;
+    left: 5%;
+  }
+  
+  .simple-background {
+    font-size: 6.05rem;
+    margin-left: 32%; 
+    margin-top: 80px;
+  }
+  
+  .vibrant-background {
+    font-size: 5.192rem; 
+    margin-left: 32%;
+    margin-top: 300px;
+  }
+  
+  .premium-background {
+    font-size: 5.192rem; 
+    margin-left: 32%;
+    margin-top: 520px;
+  }
+  
+  .trophy-req--simple {
+    margin-left: 33.25%; 
+    margin-top: 17.25%;
+    font-size: 17.5px;
+  }
+  
+  .trophy-req-vibrant {
+    margin-left: 33.25%; 
+    margin-top: 35%;
+    font-size: 17.5px;
+  }
+  
+  .trophy-req--premium {
+    margin-left: 33.25%;
+    margin-top: 53%;  
+    font-size: 12.5px;
+  } 
+  
+  .trophy--background-simple {
+    margin-left: 34.5%;
+    margin-top: 16.5%;
+    height: 27.5px;
+    width: 27.5px;
+  }
+  
+  .trophy--background-vibrant {
+    margin-left: 35.5%;
+    margin-top: 34.2%;
+    height: 27.5px;
+    width: 27.5px;
+  }  
+    
+}
+
+@media screen and (max-width: 75em) and (orientation: landscape) {
+
+  .background-title {
+    font-size: 5.5rem;
+  }
+  
+  .trophy-number--background {
+    font-size: 47.5px;
+    top: 20px;
+    right: 12%;
+  }
+      
+  .trophy-outline--background-select {
+    height: 57.5px;
+    width: 57.5px;
+    top: 10px;
+    right: 5%;
+  }
+  
+  .icon--background-select {
+    height: 57.5px; 
+    width: 57.5px;
+    top: 15px;
+    left: 5%;
+  }
+  
+  .simple-background {
+    font-size: 6.05rem;
+    margin-left: 30.5%; 
+    margin-top: 80px;
+  }
+  
+  .vibrant-background {
+    font-size: 5.192rem; 
+    margin-left: 30.5%;
+    margin-top: 300px;
+  }
+  
+  .premium-background {
+    font-size: 5.192rem; 
+    margin-left: 30.5%;
+    margin-top: 520px;
+  }
+  
+  .trophy-req--simple {
+    margin-left: 32%; 
+    margin-top: 17.9%;
+    font-size: 17.5px;
+  }
+  
+  .trophy-req-vibrant {
+    margin-left: 32%; 
+    margin-top: 36.15%;
+    font-size: 17.5px;
+  }
+  
+  .trophy-req--premium {
+    margin-left: 32%;
+    margin-top: 54.8%;  
+    font-size: 12.5px;
+  } 
+  
+  .trophy--background-simple {
+    margin-left: 33.25%;
+    margin-top: 17.1%;
+    height: 27.5px;
+    width: 27.5px;
+  }
+  
+  .trophy--background-vibrant {
+    margin-left: 34.5%;
+    margin-top: 35.2%;
+    height: 27.5px;
+    width: 27.5px;
+  }  
+    
+}
+
+@media screen and (max-width: 72.5em) and (orientation: landscape) {
+
+  .background-title {
+    font-size: 5.5rem;
+  }
+  
+  .trophy-number--background {
+    font-size: 47.5px;
+    top: 20px;
+    right: 12%;
+  }
+      
+  .trophy-outline--background-select {
+    height: 57.5px;
+    width: 57.5px;
+    top: 10px;
+    right: 5%;
+  }
+  
+  .icon--background-select {
+    height: 57.5px; 
+    width: 57.5px;
+    top: 15px;
+    left: 5%;
+  }
+  
+  .simple-background {
+    font-size: 6.05rem;
+    margin-left: 30.5%; 
+    margin-top: 80px;
+  }
+  
+  .vibrant-background {
+    font-size: 5.192rem; 
+    margin-left: 30.5%;
+    margin-top: 300px;
+  }
+  
+  .premium-background {
+    font-size: 5.192rem; 
+    margin-left: 30.5%;
+    margin-top: 520px;
+  }
+  
+  .trophy-req--simple {
+    margin-left: 32%; 
+    margin-top: 18.5%;
+    font-size: 17.5px;
+  }
+  
+  .trophy-req-vibrant {
+    margin-left: 32%; 
+    margin-top: 37.4%;
+    font-size: 17.5px;
+  }
+  
+  .trophy-req--premium {
+    margin-left: 32%;
+    margin-top: 56.7%;  
+    font-size: 12.5px;
+  } 
+  
+  .trophy--background-simple {
+    margin-left: 33.25%;
+    margin-top: 17.65%;
+    height: 27.5px;
+    width: 27.5px;
+  }
+  
+  .trophy--background-vibrant {
+    margin-left: 34.5%;
+    margin-top: 36.5%;
+    height: 27.5px;
+    width: 27.5px;
+  }  
+    
+}
+
+@media screen and (max-width: 70em) and (orientation: landscape) {
+
+  .background-title {
+    font-size: 5.5rem;
+  }
+  
+  .trophy-number--background {
+    font-size: 47.5px;
+    top: 20px;
+    right: 12%;
+  }
+      
+  .trophy-outline--background-select {
+    height: 57.5px;
+    width: 57.5px;
+    top: 10px;
+    right: 5%;
+  }
+  
+  .icon--background-select {
+    height: 57.5px; 
+    width: 57.5px;
+    top: 15px;
+    left: 5%;
+  }
+  
+  .simple-background {
+    font-size: 6.05rem;
+    margin-left: 30.5%; 
+    margin-top: 80px;
+  }
+  
+  .vibrant-background {
+    font-size: 5.192rem; 
+    margin-left: 30.5%;
+    margin-top: 300px;
+  }
+  
+  .premium-background {
+    font-size: 5.192rem; 
+    margin-left: 30.5%;
+    margin-top: 520px;
+  }
+  
+  .trophy-req--simple {
+    margin-left: 32%; 
+    margin-top: 19.2%;
+    font-size: 17.5px;
+  }
+  
+  .trophy-req-vibrant {
+    margin-left: 32%; 
+    margin-top: 38.7%;
+    font-size: 17.5px;
+  }
+  
+  .trophy-req--premium {
+    margin-left: 32%;
+    margin-top: 58.7%;  
+    font-size: 12.5px;
+  } 
+  
+  .trophy--background-simple {
+    margin-left: 33.25%;
+    margin-top: 18.25%;
+    height: 27.5px;
+    width: 27.5px;
+  }
+  
+  .trophy--background-vibrant {
+    margin-left: 34.5%;
+    margin-top: 37.75%;
+    height: 27.5px;
+    width: 27.5px;
+  }  
+    
+}
+
+@media screen and (max-width: 67.5em) and (orientation: landscape) {
+
+  .background-title {
+    font-size: 5.5rem;
+  }
+  
+  .trophy-number--background {
+    font-size: 45px;
+    top: 20px;
+    right: 12%;
+  }
+      
+  .trophy-outline--background-select {
+    height: 55px;
+    width: 55px;
+    top: 10px;
+    right: 5%;
+  }
+  
+  .icon--background-select {
+    height: 55px; 
+    width: 55px;
+    top: 15px;
+    left: 5%;
+  }
+  
+  .simple-background {
+    font-size: 6.05rem;
+    margin-left: 28.5%; 
+    margin-top: 80px;
+  }
+  
+  .vibrant-background {
+    font-size: 5.192rem; 
+    margin-left: 28.5%;
+    margin-top: 300px;
+  }
+  
+  .premium-background {
+    font-size: 5.192rem; 
+    margin-left: 28.5%;
+    margin-top: 520px;
+  }
+  
+  .trophy-req--simple {
+    margin-left: 30.5%; 
+    margin-top: 19.9%;
+    font-size: 17.5px;
+  }
+  
+  .trophy-req-vibrant {
+    margin-left: 30.5%; 
+    margin-top: 40.2%;
+    font-size: 17.5px;
+  }
+  
+  .trophy-req--premium {
+    margin-left: 30.5%;
+    margin-top: 60.9%;  
+    font-size: 12.5px;
+  } 
+  
+  .trophy--background-simple {
+    margin-left: 32%;
+    margin-top: 19%;
+    height: 27.5px;
+    width: 27.5px;
+  }
+  
+  .trophy--background-vibrant {
+    margin-left: 33.2%;
+    margin-top: 39.2%;
+    height: 27.5px;
+    width: 27.5px;
+  }  
+    
+}
+
+@media screen and (max-width: 65.3125em) and (orientation: landscape) {
+
+  .background-title {
+    font-size: 5.5rem;
+  }
+  
+  .trophy-number--background {
+    font-size: 45px;
+    top: 20px;
+    right: 12%;
+  }
+      
+  .trophy-outline--background-select {
+    height: 55px;
+    width: 55px;
+    top: 10px;
+    right: 5%;
+  }
+  
+  .icon--background-select {
+    height: 55px; 
+    width: 55px;
+    top: 15px;
+    left: 5%;
+  }
+  
+  .simple-background {
+    font-size: 6.05rem;
+    margin-left: 28.5%; 
+    margin-top: 80px;
+  }
+  
+  .vibrant-background {
+    font-size: 5.192rem; 
+    margin-left: 28.5%;
+    margin-top: 300px;
+  }
+  
+  .premium-background {
+    font-size: 5.192rem; 
+    margin-left: 28.5%;
+    margin-top: 520px;
+  }
+  
+  .trophy-req--simple {
+    margin-left: 30.5%; 
+    margin-top: 20.5%;
+    font-size: 17.5px;
+  }
+  
+  .trophy-req-vibrant {
+    margin-left: 30.5%; 
+    margin-top: 41.5%;
+    font-size: 17.5px;
+  }
+  
+  .trophy-req--premium {
+    margin-left: 30.5%;
+    margin-top: 63%;  
+    font-size: 12.5px;
+  } 
+  
+  .trophy--background-simple {
+    margin-left: 32%;
+    margin-top: 19.6%;
+    height: 27.5px;
+    width: 27.5px;
+  }
+  
+  .trophy--background-vibrant {
+    margin-left: 33.2%;
+    margin-top: 40.5%;
+    height: 27.5px;
+    width: 27.5px;
+  }  
+    
+}
+
+@media screen and (max-width: 63.125em) and (orientation: landscape) {
+
+  .background-title {
+    font-size: 5.5rem;
+  }
+  
+  .trophy-number--background {
+    font-size: 45px;
+    top: 20px;
+    right: 12%;
+  }
+      
+  .trophy-outline--background-select {
+    height: 55px;
+    width: 55px;
+    top: 10px;
+    right: 5%;
+  }
+  
+  .icon--background-select {
+    height: 55px; 
+    width: 55px;
+    top: 15px;
+    left: 5%;
+  }
+  
+  .simple-background {
+    font-size: 6.05rem;
+    margin-left: 28.5%; 
+    margin-top: 80px;
+  }
+  
+  .vibrant-background {
+    font-size: 5.192rem; 
+    margin-left: 28.5%;
+    margin-top: 300px;
+  }
+  
+  .premium-background {
+    font-size: 5.192rem; 
+    margin-left: 28.5%;
+    margin-top: 520px;
+  }
+  
+  .trophy-req--simple {
+    margin-left: 30.5%; 
+    margin-top: 21.2%;
+    font-size: 17.5px;
+  }
+  
+  .trophy-req-vibrant {
+    margin-left: 30.5%; 
+    margin-top: 42.75%;
+    font-size: 17.5px;
+  }
+  
+  .trophy-req--premium {
+    margin-left: 30.5%;
+    margin-top: 65%;  
+    font-size: 12.5px;
+  } 
+  
+  .trophy--background-simple {
+    margin-left: 32%;
+    margin-top: 20.2%;
+    height: 27.5px;
+    width: 27.5px;
+  }
+  
+  .trophy--background-vibrant {
+    margin-left: 33.2%;
+    margin-top: 41.75%;
+    height: 27.5px;
+    width: 27.5px;
+  }  
+    
+}
+
+/****************/
+
+/****************/
+/* Below 992px */
+/****************/
+  
+@media screen and (max-width: 62em) and (orientation: landscape) {
+
+.background-title {
+  font-size: 4.5rem;
+}
+
+.trophy-number--background {
+  font-size: 30px;
+  top: 20px;
+  right: 11%;
+}
+    
+.trophy-outline--background-select {
+  height: 40px;
+  width: 40px;
+  top: 10px;
+  right: 5%;
+}
+
+.icon--background-select {
+  height: 40px; 
+  width: 40px;
+  top: 15px;
+  left: 5%;
+}
+
+.simple-background {
+  font-size: 5.5rem;
+  margin-left: 29.5%; 
+  margin-top: 80px;
+}
+
+.vibrant-background {
+  font-size: 4.72rem; 
+  margin-left: 29.5%;
+  margin-top: 300px;
+}
+
+.premium-background {
+  font-size: 4.72rem; 
+  margin-left: 29.5%;
+  margin-top: 520px;
+}
+
+.trophy-req--simple {
+  margin-left: 31.75%; 
+  margin-top: 20.75%;
+  font-size: 15px;
+}
+
+.trophy-req-vibrant {
+  margin-left: 30.9%; 
+  margin-top: 42.9%;
+  font-size: 15px;
+}
+
+.trophy-req--premium {
+  margin-left: 31%;
+  margin-top: 65.4%;  
+  font-size: 11px;
+} 
+
+.trophy--background-simple {
+  margin-left: 34%;
+  margin-top: 20%;
+  height: 25px;
+  width: 25px;
+}
+
+.trophy--background-vibrant {
+  margin-left: 34%;
+  margin-top: 42.1%;
+  height: 25px;
+  width: 25px;
+}  
+  
+}
+
+/*****************/
+
+@media screen and (max-width: 60.9375em) and (orientation: landscape) {
+
+  .background-title {
+    font-size: 4.5rem;
+  }
+  
+  .trophy-number--background {
+    font-size: 30px;
+    top: 20px;
+    right: 11%;
+  }
+      
+  .trophy-outline--background-select {
+    height: 40px;
+    width: 40px;
+    top: 10px;
+    right: 5%;
+  }
+  
+  .icon--background-select {
+    height: 40px; 
+    width: 40px;
+    top: 15px;
+    left: 5%;
+  }
+  
+  .simple-background {
+    font-size: 5.5rem;
+    margin-left: 29%; 
+    margin-top: 80px;
+  }
+  
+  .vibrant-background {
+    font-size: 4.72rem; 
+    margin-left: 29%;
+    margin-top: 300px;
+  }
+  
+  .premium-background {
+    font-size: 4.72rem; 
+    margin-left: 29%;
+    margin-top: 520px;
+  }
+  
+  .trophy-req--simple {
+    margin-left: 31.75%; 
+    margin-top: 21.3%;
+    font-size: 15px;
+  }
+  
+  .trophy-req-vibrant {
+    margin-left: 30.9%; 
+    margin-top: 43.75%;
+    font-size: 15px;
+  }
+  
+  .trophy-req--premium {
+    margin-left: 31%;
+    margin-top: 66.5%;  
+    font-size: 11px;
+  } 
+  
+  .trophy--background-simple {
+    margin-left: 34%;
+    margin-top: 20.4%;
+    height: 25px;
+    width: 25px;
+  }
+  
+  .trophy--background-vibrant {
+    margin-left: 34%;
+    margin-top: 42.9%;
+    height: 25px;
+    width: 25px;
+  }  
+    
+}
+  
+@media screen and (max-width: 59.875em) and (orientation: landscape) {
+
+  .background-title {
+    font-size: 4.5rem;
+  }
+  
+  .trophy-number--background {
+    font-size: 30px;
+    top: 20px;
+    right: 11%;
+  }
+      
+  .trophy-outline--background-select {
+    height: 40px;
+    width: 40px;
+    top: 10px;
+    right: 5%;
+  }
+  
+  .icon--background-select {
+    height: 40px; 
+    width: 40px;
+    top: 15px;
+    left: 5%;
+  }
+  
+  .simple-background {
+    font-size: 5.5rem;
+    margin-left: 28%; 
+    margin-top: 80px;
+  }
+  
+  .vibrant-background {
+    font-size: 4.72rem; 
+    margin-left: 28%;
+    margin-top: 300px;
+  }
+  
+  .premium-background {
+    font-size: 4.72rem; 
+    margin-left: 28%;
+    margin-top: 520px;
+  }
+  
+  .trophy-req--simple {
+    margin-left: 29.5%; 
+    margin-top: 21.6%;
+    font-size: 15px;
+  }
+  
+  .trophy-req-vibrant {
+    margin-left: 29.5%; 
+    margin-top: 44.5%;
+    font-size: 15px;
+  }
+  
+  .trophy-req--premium {
+    margin-left: 29.5%;
+    margin-top: 68%;  
+    font-size: 11px;
+  } 
+  
+  .trophy--background-simple {
+    margin-left: 31.5%;
+    margin-top: 20.5%;
+    height: 25px;
+    width: 25px;
+  }
+  
+  .trophy--background-vibrant {
+    margin-left: 32.3%;
+    margin-top: 43.4%;
+    height: 25px;
+    width: 25px;
+  }  
+    
+}
+
+@media screen and (max-width: 58.4735em) and (orientation: landscape) {
+
+  .background-title {
+    font-size: 4.5rem;
+  }
+  
+  .trophy-number--background {
+    font-size: 30px;
+    top: 20px;
+    right: 11%;
+  }
+      
+  .trophy-outline--background-select {
+    height: 40px;
+    width: 40px;
+    top: 10px;
+    right: 5%;
+  }
+  
+  .icon--background-select {
+    height: 40px; 
+    width: 40px;
+    top: 15px;
+    left: 5%;
+  }
+  
+  .simple-background {
+    font-size: 5.5rem;
+    margin-left: 28%; 
+    margin-top: 80px;
+  }
+  
+  .vibrant-background {
+    font-size: 4.72rem; 
+    margin-left: 28%;
+    margin-top: 300px;
+  }
+  
+  .premium-background {
+    font-size: 4.72rem; 
+    margin-left: 28%;
+    margin-top: 520px;
+  }
+  
+  .trophy-req--simple {
+    margin-left: 29.5%; 
+    margin-top: 22%;
+    font-size: 15px;
+  }
+  
+  .trophy-req-vibrant {
+    margin-left: 29.5%; 
+    margin-top: 45.5%;
+    font-size: 15px;
+  }
+  
+  .trophy-req--premium {
+    margin-left: 29.5%;
+    margin-top: 69.5%;  
+    font-size: 11px;
+  } 
+  
+  .trophy--background-simple {
+    margin-left: 31%;
+    margin-top: 21%;
+    height: 25px;
+    width: 25px;
+  }
+  
+  .trophy--background-vibrant {
+    margin-left: 32.5%;
+    margin-top: 44.5%;
+    height: 25px;
+    width: 25px;
+  }  
+    
+}
+
+@media screen and (max-width: 56.875em) and (orientation: landscape) {
+
+  .background-title {
+    font-size: 4.5rem;
+  }
+  
+  .trophy-number--background {
+    font-size: 30px;
+    top: 20px;
+    right: 11%;
+  }
+      
+  .trophy-outline--background-select {
+    height: 40px;
+    width: 40px;
+    top: 10px;
+    right: 5%;
+  }
+  
+  .icon--background-select {
+    height: 40px; 
+    width: 40px;
+    top: 15px;
+    left: 5%;
+  }
+  
+  .simple-background {
+    font-size: 5.5rem;
+    margin-left: 27%; 
+    margin-top: 80px;
+  }
+  
+  .vibrant-background {
+    font-size: 4.72rem; 
+    margin-left: 27%;
+    margin-top: 300px;
+  }
+  
+  .premium-background {
+    font-size: 4.72rem; 
+    margin-left: 27%;
+    margin-top: 520px;
+  }
+  
+  .trophy-req--simple {
+    margin-left: 28.5%; 
+    margin-top: 22.75%;
+    font-size: 15px;
+  }
+  
+  .trophy-req-vibrant {
+    margin-left: 28.5%; 
+    margin-top: 46.75%;
+    font-size: 15px;
+  }
+  
+  .trophy-req--premium {
+    margin-left: 28.5%;
+    margin-top: 71.5%;  
+    font-size: 11px;
+  } 
+  
+  .trophy--background-simple {
+    margin-left: 30%;
+    margin-top: 21.75%;
+    height: 25px;
+    width: 25px;
+  }
+  
+  .trophy--background-vibrant {
+    margin-left: 31.5%;
+    margin-top: 45.9%;
+    height: 25px;
+    width: 25px;
+  }  
+    
+}
+
+@media screen and (max-width: 55.3125em) and (orientation: landscape) {
+
+  .background-title {
+    font-size: 4.5rem;
+  }
+  
+  .trophy-number--background {
+    font-size: 30px;
+    top: 20px;
+    right: 11%;
+  }
+      
+  .trophy-outline--background-select {
+    height: 40px;
+    width: 40px;
+    top: 10px;
+    right: 5%;
+  }
+  
+  .icon--background-select {
+    height: 40px; 
+    width: 40px;
+    top: 15px;
+    left: 5%;
+  }
+  
+  .simple-background {
+    font-size: 5.5rem;
+    margin-left: 26%; 
+    margin-top: 80px;
+  }
+  
+  .vibrant-background {
+    font-size: 4.72rem; 
+    margin-left: 26%;
+    margin-top: 300px;
+  }
+  
+  .premium-background {
+    font-size: 4.72rem; 
+    margin-left: 26%;
+    margin-top: 520px;
+  }
+  
+  .trophy-req--simple {
+    margin-left: 27.5%; 
+    margin-top: 23.5%;
+    font-size: 15px;
+  }
+  
+  .trophy-req-vibrant {
+    margin-left: 27.5%; 
+    margin-top: 48.3%;
+    font-size: 15px;
+  }
+  
+  .trophy-req--premium {
+    margin-left: 27.5%;
+    margin-top: 73.75%;  
+    font-size: 11px;
+  } 
+  
+  .trophy--background-simple {
+    margin-left: 29%;
+    margin-top: 22.3%;
+    height: 25px;
+    width: 25px;
+  }
+  
+  .trophy--background-vibrant {
+    margin-left: 30.5%;
+    margin-top: 47.15%;
+    height: 25px;
+    width: 25px;
+  }  
+    
+}
+
+@media screen and (max-width: 53.75em) and (orientation: landscape) {
+
+  .background-title {
+    font-size: 4.5rem;
+  }
+  
+  .trophy-number--background {
+    font-size: 30px;
+    top: 20px;
+    right: 11%;
+  }
+      
+  .trophy-outline--background-select {
+    height: 40px;
+    width: 40px;
+    top: 10px;
+    right: 5%;
+  }
+  
+  .icon--background-select {
+    height: 40px; 
+    width: 40px;
+    top: 15px;
+    left: 5%;
+  }
+  
+  .simple-background {
+    font-size: 5.5rem;
+    margin-left: 25%; 
+    margin-top: 80px;
+  }
+  
+  .vibrant-background {
+    font-size: 4.72rem; 
+    margin-left: 25%;
+    margin-top: 300px;
+  }
+  
+  .premium-background {
+    font-size: 4.72rem; 
+    margin-left: 25%;
+    margin-top: 520px;
+  }
+  
+  .trophy-req--simple {
+    margin-left: 26.5%; 
+    margin-top: 24.25%;
+    font-size: 15px;
+  }
+  
+  .trophy-req-vibrant {
+    margin-left: 26.5%; 
+    margin-top: 49.75%;
+    font-size: 15px;
+  }
+  
+  .trophy-req--premium {
+    margin-left: 26.5%;
+    margin-top: 75.75%;  
+    font-size: 11px;
+  } 
+  
+  .trophy--background-simple {
+    margin-left: 28%;
+    margin-top: 23.15%;
+    height: 25px;
+    width: 25px;
+  }
+  
+  .trophy--background-vibrant {
+    margin-left: 29.5%;
+    margin-top: 48.6%;
+    height: 25px;
+    width: 25px;
+  }  
+    
+}
+
+@media screen and (max-width: 52.1875em) and (orientation: landscape) {
+
+  .background-title {
+    font-size: 4.5rem;
+  }
+  
+  .trophy-number--background {
+    font-size: 30px;
+    top: 20px;
+    right: 11%;
+  }
+      
+  .trophy-outline--background-select {
+    height: 40px;
+    width: 40px;
+    top: 10px;
+    right: 5%;
+  }
+  
+  .icon--background-select {
+    height: 40px; 
+    width: 40px;
+    top: 15px;
+    left: 5%;
+  }
+  
+  .simple-background {
+    font-size: 5.5rem;
+    margin-left: 25%; 
+    margin-top: 80px;
+  }
+  
+  .vibrant-background {
+    font-size: 4.72rem; 
+    margin-left: 25%;
+    margin-top: 300px;
+  }
+  
+  .premium-background {
+    font-size: 4.72rem; 
+    margin-left: 25%;
+    margin-top: 520px;
+  }
+  
+  .trophy-req--simple {
+    margin-left: 26.5%; 
+    margin-top: 24.9%;
+    font-size: 15px;
+  }
+  
+  .trophy-req-vibrant {
+    margin-left: 26.5%; 
+    margin-top: 51.2%;
+    font-size: 15px;
+  }
+  
+  .trophy-req--premium {
+    margin-left: 26.5%;
+    margin-top: 78%;  
+    font-size: 11px;
+  } 
+  
+  .trophy--background-simple {
+    margin-left: 28%;
+    margin-top: 23.75%;
+    height: 25px;
+    width: 25px;
+  }
+  
+  .trophy--background-vibrant {
+    margin-left: 29.5%;
+    margin-top: 50%;
+    height: 25px;
+    width: 25px;
+  }  
+    
+}
+
+@media screen and (max-width: 50.625em) and (orientation: landscape) {
+
+  .background-title {
+    font-size: 4.25rem;
+  }
+  
+  .trophy-number--background {
+    font-size: 30px;
+    top: 20px;
+    right: 12%;
+  }
+      
+  .trophy-outline--background-select {
+    height: 40px;
+    width: 40px;
+    top: 10px;
+    right: 5%;
+  }
+  
+  .icon--background-select {
+    height: 40px; 
+    width: 40px;
+    top: 15px;
+    left: 5%;
+  }
+  
+  .simple-background {
+    font-size: 5.5rem;
+    margin-left: 25%; 
+    margin-top: 80px;
+  }
+  
+  .vibrant-background {
+    font-size: 4.72rem; 
+    margin-left: 25%;
+    margin-top: 300px;
+  }
+  
+  .premium-background {
+    font-size: 4.72rem; 
+    margin-left: 25%;
+    margin-top: 520px;
+  }
+  
+  .trophy-req--simple {
+    margin-left: 26.5%; 
+    margin-top: 25.65%;
+    font-size: 15px;
+  }
+  
+  .trophy-req-vibrant {
+    margin-left: 26.5%; 
+    margin-top: 52.75%;
+    font-size: 15px;
+  }
+  
+  .trophy-req--premium {
+    margin-left: 26.5%;
+    margin-top: 80.4%;  
+    font-size: 11px;
+  } 
+  
+  .trophy--background-simple {
+    margin-left: 28%;
+    margin-top: 24.5%;
+    height: 25px;
+    width: 25px;
+  }
+  
+  .trophy--background-vibrant {
+    margin-left: 29.5%;
+    margin-top: 51.6%;
+    height: 25px;
+    width: 25px;
+  }  
+    
+}
+
+@media screen and (max-width: 49.0625em) and (orientation: landscape) {
+
+  .background-title {
+    font-size: 4.25rem;
+  }
+  
+  .trophy-number--background {
+    font-size: 30px;
+    top: 20px;
+    right: 12%;
+  }
+      
+  .trophy-outline--background-select {
+    height: 40px;
+    width: 40px;
+    top: 10px;
+    right: 5%;
+  }
+  
+  .icon--background-select {
+    height: 40px; 
+    width: 40px;
+    top: 15px;
+    left: 5%;
+  }
+  
+  .simple-background {
+    font-size: 5.5rem;
+    margin-left: 23.5%; 
+    margin-top: 80px;
+  }
+  
+  .vibrant-background {
+    font-size: 4.72rem; 
+    margin-left: 23.5%;
+    margin-top: 300px;
+  }
+  
+  .premium-background {
+    font-size: 4.72rem; 
+    margin-left: 23.5%;
+    margin-top: 520px;
+  }
+  
+  .trophy-req--simple {
+    margin-left: 25.25%; 
+    margin-top: 26.5%;
+    font-size: 15px;
+  }
+  
+  .trophy-req-vibrant {
+    margin-left: 25.25%; 
+    margin-top: 54.475%;
+    font-size: 15px;
+  }
+  
+  .trophy-req--premium {
+    margin-left: 25.25%;
+    margin-top: 82.75%;  
+    font-size: 11px;
+  } 
+  
+  .trophy--background-simple {
+    margin-left: 27%;
+    margin-top: 25.3%;
+    height: 25px;
+    width: 25px;
+  }
+  
+  .trophy--background-vibrant {
+    margin-left: 28.5%;
+    margin-top: 53.2%;
+    height: 25px;
+    width: 25px;
+  }  
+    
+}
+
+@media screen and (max-width: 47.5em) and (orientation: landscape) {
+
+  .background-title {
+    font-size: 4.25rem;
+  }
+  
+  .trophy-number--background {
+    font-size: 30px;
+    top: 20px;
+    right: 12%;
+  }
+      
+  .trophy-outline--background-select {
+    height: 40px;
+    width: 40px;
+    top: 10px;
+    right: 5%;
+  }
+  
+  .icon--background-select {
+    height: 40px; 
+    width: 40px;
+    top: 15px;
+    left: 5%;
+  }
+  
+  .simple-background {
+    font-size: 5.5rem;
+    margin-left: 23%; 
+    margin-top: 80px;
+  }
+  
+  .vibrant-background {
+    font-size: 4.72rem; 
+    margin-left: 23%;
+    margin-top: 300px;
+  }
+  
+  .premium-background {
+    font-size: 4.72rem; 
+    margin-left: 23%;
+    margin-top: 520px;
+  }
+  
+  .trophy-req--simple {
+    margin-left: 24.75%; 
+    margin-top: 27.5%;
+    font-size: 15px;
+  }
+  
+  .trophy-req-vibrant {
+    margin-left: 24.75%; 
+    margin-top: 56.3%;
+    font-size: 15px;
+  }
+  
+  .trophy-req--premium {
+    margin-left: 24.75%;
+    margin-top: 85.75%;  
+    font-size: 11px;
+  } 
+  
+  .trophy--background-simple {
+    margin-left: 26.75%;
+    margin-top: 26.1%;
+    height: 25px;
+    width: 25px;
+  }
+  
+  .trophy--background-vibrant {
+    margin-left: 28.25%;
+    margin-top: 54.9%;
+    height: 25px;
+    width: 25px;
+  }  
+    
+}
+
+@media screen and (max-width: 45.9375em) and (orientation: landscape) {
+
+  .background-title {
+    font-size: 4.25rem;
+  }
+  
+  .trophy-number--background {
+    font-size: 30px;
+    top: 20px;
+    right: 12%;
+  }
+      
+  .trophy-outline--background-select {
+    height: 40px;
+    width: 40px;
+    top: 10px;
+    right: 5%;
+  }
+  
+  .icon--background-select {
+    height: 40px; 
+    width: 40px;
+    top: 15px;
+    left: 5%;
+  }
+  
+  .simple-background {
+    font-size: 5.5rem;
+    margin-left: 22%; 
+    margin-top: 80px;
+  }
+  
+  .vibrant-background {
+    font-size: 4.72rem; 
+    margin-left: 22%;
+    margin-top: 300px;
+  }
+  
+  .premium-background {
+    font-size: 4.72rem; 
+    margin-left: 22%;
+    margin-top: 520px;
+  }
+  
+  .trophy-req--simple {
+    margin-left: 24%; 
+    margin-top: 28.4%;
+    font-size: 15px;
+  }
+  
+  .trophy-req-vibrant {
+    margin-left: 24%; 
+    margin-top: 58.2%;
+    font-size: 15px;
+  }
+  
+  .trophy-req--premium {
+    margin-left: 24%;
+    margin-top: 88.6%;  
+    font-size: 11px;
+  } 
+  
+  .trophy--background-simple {
+    margin-left: 26.2%;
+    margin-top: 27%;
+    height: 25px;
+    width: 25px;
+  }
+  
+  .trophy--background-vibrant {
+    margin-left: 28%;
+    margin-top: 56.85%;
+    height: 25px;
+    width: 25px;
+  }  
+    
+}
+
+/*****************/
+
+/****************/
+/* Below 713px */
+/****************/
+
+@media screen and (max-width: 44.5625em) and (orientation: landscape) {
+
+  .background-title {
+    font-size: 3.5rem;
+  }
+  
+  .trophy-number--background {
+    font-size: 25px;
+    top: 20px;
+    right: 11%;
+  }
+      
+  .trophy-outline--background-select {
+    height: 35px;
+    width: 35px;
+    top: 10px;
+    right: 4%;
+  }
+  
+  .icon--background-select {
+    height: 35px; 
+    width: 35px;
+    top: 15px;
+    left: 5%;
+  }
+  
+  .simple-background {
+    font-size: 4.95rem;
+    margin-left: 24%; 
+    margin-top: 80px;
+  }
+  
+  .vibrant-background {
+    font-size: 4.248rem; 
+    margin-left: 24%;
+    margin-top: 300px;
+  }
+  
+  .premium-background {
+    font-size: 4.248rem; 
+    margin-left: 24%;
+    margin-top: 520px;
+  }
+  
+  .trophy-req--simple {
+    margin-left: 27%; 
+    margin-top: 28.5%;
+    font-size: 13px;
+  }
+  
+  .trophy-req-vibrant {
+    margin-left: 26%; 
+    margin-top: 59.4%;
+    font-size: 13px;
+  }
+  
+  .trophy-req--premium {
+    margin-left: 26%;
+    margin-top: 90.6%;  
+    font-size: 9px;
+  } 
+  
+  .trophy--background-simple {
+    margin-left: 30%;
+    margin-top: 27.5%;
+    height: 20px;
+    width: 20px;
+  }
+  
+  .trophy--background-vibrant {
+    margin-left: 30%;
+    margin-top: 58.35%;
+    height: 20px;
+    width: 20px;
+  }  
+
+}
+
+
+/*****************/
+
+@media screen and (max-width: 43.75em) and (orientation: landscape) {
+
+  .background-title {
+    font-size: 3.5rem;
+  }
+  
+  .trophy-number--background {
+    font-size: 25px;
+    top: 20px;
+    right: 11%;
+  }
+      
+  .trophy-outline--background-select {
+    height: 35px;
+    width: 35px;
+    top: 10px;
+    right: 4%;
+  }
+  
+  .icon--background-select {
+    height: 35px; 
+    width: 35px;
+    top: 15px;
+    left: 5%;
+  }
+  
+  .simple-background {
+    font-size: 4.95rem;
+    margin-left: 22%; 
+    margin-top: 80px;
+  }
+  
+  .vibrant-background {
+    font-size: 4.248rem; 
+    margin-left: 22%;
+    margin-top: 300px;
+  }
+  
+  .premium-background {
+    font-size: 4.248rem; 
+    margin-left: 22%;
+    margin-top: 520px;
+  }
+  
+  .trophy-req--simple {
+    margin-left: 24.5%; 
+    margin-top: 29.25%;
+    font-size: 13px;
+  }
+  
+  .trophy-req-vibrant {
+    margin-left: 24.5%; 
+    margin-top: 60.75%;
+    font-size: 13px;
+  }
+  
+  .trophy-req--premium {
+    margin-left: 24.5%;
+    margin-top: 92.75%;  
+    font-size: 9px;
+  } 
+  
+  .trophy--background-simple {
+    margin-left: 26.5%;
+    margin-top: 28.25%;
+    height: 20px;
+    width: 20px;
+  }
+  
+  .trophy--background-vibrant {
+    margin-left: 28%;
+    margin-top: 59.7%;
+    height: 20px;
+    width: 20px;
+  }  
+
+}
+
+@media screen and (max-width: 42.5em) and (orientation: landscape) {
+
+  .background-title {
+    font-size: 3.5rem;
+  }
+  
+  .trophy-number--background {
+    font-size: 25px;
+    top: 20px;
+    right: 11%;
+  }
+      
+  .trophy-outline--background-select {
+    height: 35px;
+    width: 35px;
+    top: 10px;
+    right: 4%;
+  }
+  
+  .icon--background-select {
+    height: 35px; 
+    width: 35px;
+    top: 15px;
+    left: 5%;
+  }
+  
+  .simple-background {
+    font-size: 4.95rem;
+    margin-left: 22%; 
+    margin-top: 80px;
+  }
+  
+  .vibrant-background {
+    font-size: 4.248rem; 
+    margin-left: 22%;
+    margin-top: 300px;
+  }
+  
+  .premium-background {
+    font-size: 4.248rem; 
+    margin-left: 22%;
+    margin-top: 520px;
+  }
+  
+  .trophy-req--simple {
+    margin-left: 24.5%; 
+    margin-top: 30.15%;
+    font-size: 13px;
+  }
+  
+  .trophy-req-vibrant {
+    margin-left: 24.5%; 
+    margin-top: 62.5%;
+    font-size: 13px;
+  }
+  
+  .trophy-req--premium {
+    margin-left: 24.5%;
+    margin-top: 95.4%;  
+    font-size: 9px;
+  } 
+  
+  .trophy--background-simple {
+    margin-left: 26.5%;
+    margin-top: 29.1%;
+    height: 20px;
+    width: 20px;
+  }
+  
+  .trophy--background-vibrant {
+    margin-left: 28%;
+    margin-top: 61.5%;
+    height: 20px;
+    width: 20px;
+  }  
+
+}
+
+@media screen and (max-width: 41.25em) and (orientation: landscape) {
+
+  .background-title {
+    font-size: 3.5rem;
+  }
+  
+  .trophy-number--background {
+    font-size: 25px;
+    top: 20px;
+    right: 11%;
+  }
+      
+  .trophy-outline--background-select {
+    height: 35px;
+    width: 35px;
+    top: 10px;
+    right: 4%;
+  }
+  
+  .icon--background-select {
+    height: 35px; 
+    width: 35px;
+    top: 15px;
+    left: 5%;
+  }
+  
+  .simple-background {
+    font-size: 4.95rem;
+    margin-left: 21%; 
+    margin-top: 80px;
+  }
+  
+  .vibrant-background {
+    font-size: 4.248rem; 
+    margin-left: 21%;
+    margin-top: 300px;
+  }
+  
+  .premium-background {
+    font-size: 4.248rem; 
+    margin-left: 21%;
+    margin-top: 520px;
+  }
+  
+  .trophy-req--simple {
+    margin-left: 24%; 
+    margin-top: 31.05%;
+    font-size: 13px;
+  }
+  
+  .trophy-req-vibrant {
+    margin-left: 24%; 
+    margin-top: 64.4%;
+    font-size: 13px;
+  }
+  
+  .trophy-req--premium {
+    margin-left: 24%;
+    margin-top: 98.25%;  
+    font-size: 9px;
+  } 
+  
+  .trophy--background-simple {
+    margin-left: 26%;
+    margin-top: 30%;
+    height: 20px;
+    width: 20px;
+  }
+  
+  .trophy--background-vibrant {
+    margin-left: 27.75%;
+    margin-top: 63.25%;
+    height: 20px;
+    width: 20px;
+  }  
+
+}
+
+@media screen and (max-width: 40em) and (orientation: landscape) {
+
+  .background-title {
+    font-size: 3.5rem;
+  }
+  
+  .trophy-number--background {
+    font-size: 25px;
+    top: 20px;
+    right: 11%;
+  }
+      
+  .trophy-outline--background-select {
+    height: 35px;
+    width: 35px;
+    top: 10px;
+    right: 4%;
+  }
+  
+  .icon--background-select {
+    height: 35px; 
+    width: 35px;
+    top: 15px;
+    left: 5%;
+  }
+  
+  .simple-background {
+    font-size: 4.95rem;
+    margin-left: 21%; 
+    margin-top: 80px;
+  }
+  
+  .vibrant-background {
+    font-size: 4.248rem; 
+    margin-left: 21%;
+    margin-top: 300px;
+  }
+  
+  .premium-background {
+    font-size: 4.248rem; 
+    margin-left: 21%;
+    margin-top: 520px;
+  }
+  
+  .trophy-req--simple {
+    margin-left: 24%; 
+    margin-top: 32%;
+    font-size: 13px;
+  }
+  
+  .trophy-req-vibrant {
+    margin-left: 24%; 
+    margin-top: 66.4%;
+    font-size: 13px;
+  }
+  
+  .trophy-req--premium {
+    margin-left: 24%;
+    margin-top: 101.3%;  
+    font-size: 9px;
+  } 
+  
+  .trophy--background-simple {
+    margin-left: 26%;
+    margin-top: 30.9%;
+    height: 20px;
+    width: 20px;
+  }
+  
+  .trophy--background-vibrant {
+    margin-left: 27.75%;
+    margin-top: 65.3%;
+    height: 20px;
+    width: 20px;
+  }  
+
+}
+
+@media screen and (max-width: 38.75em) and (orientation: landscape) {
+
+  .background-title {
+    font-size: 3.25rem;
+  }
+  
+  .trophy-number--background {
+    font-size: 25px;
+    top: 20px;
+    right: 12%;
+  }
+      
+  .trophy-outline--background-select {
+    height: 35px;
+    width: 35px;
+    top: 10px;
+    right: 4%;
+  }
+  
+  .icon--background-select {
+    height: 35px; 
+    width: 35px;
+    top: 15px;
+    left: 5%;
+  }
+  
+  .simple-background {
+    font-size: 4.95rem;
+    margin-left: 19.25%; 
+    margin-top: 80px;
+  }
+  
+  .vibrant-background {
+    font-size: 4.248rem; 
+    margin-left: 19.25%;
+    margin-top: 300px;
+  }
+  
+  .premium-background {
+    font-size: 4.248rem; 
+    margin-left: 19.25%;
+    margin-top: 520px;
+  }
+  
+  .trophy-req--simple {
+    margin-left: 22.5%; 
+    margin-top: 33.1%;
+    font-size: 13px;
+  }
+  
+  .trophy-req-vibrant {
+    margin-left: 22.5%; 
+    margin-top: 68.55%;
+    font-size: 13px;
+  }
+  
+  .trophy-req--premium {
+    margin-left: 22.5%;
+    margin-top: 104.7%;  
+    font-size: 9px;
+  } 
+  
+  .trophy--background-simple {
+    margin-left: 24.5%;
+    margin-top: 31.9%;
+    height: 20px;
+    width: 20px;
+  }
+  
+  .trophy--background-vibrant {
+    margin-left: 26.5%;
+    margin-top: 67.5%;
+    height: 20px;
+    width: 20px;
+  }  
+
+}
+
+@media screen and (max-width: 37.5em) and (orientation: landscape) {
+
+  .background-title {
+    font-size: 3.25rem;
+  }
+  
+  .trophy-number--background {
+    font-size: 25px;
+    top: 20px;
+    right: 12%;
+  }
+      
+  .trophy-outline--background-select {
+    height: 35px;
+    width: 35px;
+    top: 10px;
+    right: 4%;
+  }
+  
+  .icon--background-select {
+    height: 35px; 
+    width: 35px;
+    top: 15px;
+    left: 5%;
+  }
+  
+  .simple-background {
+    font-size: 4.95rem;
+    margin-left: 19.25%; 
+    margin-top: 80px;
+  }
+  
+  .vibrant-background {
+    font-size: 4.248rem; 
+    margin-left: 19.25%;
+    margin-top: 300px;
+  }
+  
+  .premium-background {
+    font-size: 4.248rem; 
+    margin-left: 19.25%;
+    margin-top: 520px;
+  }
+  
+  .trophy-req--simple {
+    margin-left: 22.5%; 
+    margin-top: 34.2%;
+    font-size: 13px;
+  }
+  
+  .trophy-req-vibrant {
+    margin-left: 22.5%; 
+    margin-top: 70.8%;
+    font-size: 13px;
+  }
+  
+  .trophy-req--premium {
+    margin-left: 22.5%;
+    margin-top: 108.2%;  
+    font-size: 9px;
+  } 
+  
+  .trophy--background-simple {
+    margin-left: 24.5%;
+    margin-top: 33%;
+    height: 20px;
+    width: 20px;
+  }
+  
+  .trophy--background-vibrant {
+    margin-left: 26.5%;
+    margin-top: 69.75%;
+    height: 20px;
+    width: 20px;
+  }  
+
+}
+
+@media screen and (max-width: 36.25em) and (orientation: landscape) {
+
+  .background-title {
+    font-size: 3.25rem;
+  }
+  
+  .trophy-number--background {
+    font-size: 25px;
+    top: 20px;
+    right: 12%;
+  }
+      
+  .trophy-outline--background-select {
+    height: 35px;
+    width: 35px;
+    top: 10px;
+    right: 4%;
+  }
+  
+  .icon--background-select {
+    height: 35px; 
+    width: 35px;
+    top: 15px;
+    left: 5%;
+  }
+  
+  .simple-background {
+    font-size: 4.95rem;
+    margin-left: 17%; 
+    margin-top: 80px;
+  }
+  
+  .vibrant-background {
+    font-size: 4.248rem; 
+    margin-left: 17%;
+    margin-top: 300px;
+  }
+  
+  .premium-background {
+    font-size: 4.248rem; 
+    margin-left: 17%;
+    margin-top: 520px;
+  }
+  
+  .trophy-req--simple {
+    margin-left: 21%; 
+    margin-top: 35.5%;
+    font-size: 13px;
+  }
+  
+  .trophy-req-vibrant {
+    margin-left: 21%; 
+    margin-top: 73.4%;
+    font-size: 13px;
+  }
+  
+  .trophy-req--premium {
+    margin-left: 21%;
+    margin-top: 112%;  
+    font-size: 9px;
+  } 
+  
+  .trophy--background-simple {
+    margin-left: 23.5%;
+    margin-top: 34.25%;
+    height: 20px;
+    width: 20px;
+  }
+  
+  .trophy--background-vibrant {
+    margin-left: 25.5%;
+    margin-top: 72.1%;
+    height: 20px;
+    width: 20px;
+  }  
+
+}
+
+@media screen and (max-width: 35em) and (orientation: landscape) {
+
+  .background-title {
+    font-size: 3rem;
+  }
+  
+  .trophy-number--background {
+    font-size: 25px;
+    top: 20px;
+    right: 12%;
+  }
+      
+  .trophy-outline--background-select {
+    height: 35px;
+    width: 35px;
+    top: 10px;
+    right: 4%;
+  }
+  
+  .icon--background-select {
+    height: 35px; 
+    width: 35px;
+    top: 15px;
+    left: 5%;
+  }
+  
+  .simple-background {
+    font-size: 4.95rem;
+    margin-left: 17%; 
+    margin-top: 80px;
+  }
+  
+  .vibrant-background {
+    font-size: 4.248rem; 
+    margin-left: 17%;
+    margin-top: 300px;
+  }
+  
+  .premium-background {
+    font-size: 4.248rem; 
+    margin-left: 17%;
+    margin-top: 520px;
+  }
+  
+  .trophy-req--simple {
+    margin-left: 21%; 
+    margin-top: 36.6%;
+    font-size: 13px;
+  }
+  
+  .trophy-req-vibrant {
+    margin-left: 21%; 
+    margin-top: 75.9%;
+    font-size: 13px;
+  }
+  
+  .trophy-req--premium {
+    margin-left: 21%;
+    margin-top: 116%;  
+    font-size: 9px;
+  } 
+  
+  .trophy--background-simple {
+    margin-left: 23.5%;
+    margin-top: 35.4%;
+    height: 20px;
+    width: 20px;
+  }
+  
+  .trophy--background-vibrant {
+    margin-left: 25.5%;
+    margin-top: 74.75%;
+    height: 20px;
+    width: 20px;
+  }  
+
+}
+
+/*****************/ 
+
+
+/****************/
+/* Below 544px */
+/****************/
+
+@media screen and (max-width: 34em) and (orientation: portrait) {
+
+  .background-title {
+    font-size: 2.5rem;
+  }
+    
+  .trophy-number--background {
+    font-size: 20px;
+    top: 20px;
+    right: 12%;
+  }
+        
+  .trophy-outline--background-select {
+    height: 30px;
+    width: 30px;
+    top: 10px;
+    right: 4%;
+  }
+    
+  .icon--background-select {
+    height: 30px; 
+    width: 30px;
+    top: 15px;
+    left: 5%;
+  }
+    
+  .simple-background {
+    font-size: 4.455rem;
+    margin-left: 18.5%; 
+    margin-top: 80px;
+  }
+    
+  .vibrant-background {
+    font-size: 3.8232rem; 
+    margin-left: 18.5%;
+    margin-top: 300px;
+  }
+    
+  .premium-background {
+    font-size: 3.8232rem; 
+    margin-left: 18.5%;
+    margin-top: 520px;
+  }
+    
+  .trophy-req--simple {
+    margin-left: 21.5%; 
+    margin-top: 36.5%;
+    font-size: 13px;
+  }
+    
+  .trophy-req-vibrant {
+    margin-left: 20.5%; 
+    margin-top: 77%;
+    font-size: 13px;
+  }
+    
+  .trophy-req--premium {
+    margin-left: 21%;
+    margin-top: 118%;  
+    font-size: 9px;
+  } 
+    
+  .trophy--background-simple {
+    margin-left: 25%;
+    margin-top: 35.2%;
+    height: 20px;
+    width: 20px;
+  }
+    
+  .trophy--background-vibrant {
+    margin-left: 25%;
+    margin-top: 75.7%;
+    height: 20px;
+    width: 20px;
+  }  
+}
+
+
+/*****************/ 
+
+@media screen and (max-width: 32.8125em) and (orientation: portrait) {
+
+  .background-title {
+    font-size: 2.5rem;
+  }
+    
+  .trophy-number--background {
+    font-size: 20px;
+    top: 20px;
+    right: 12%;
+  }
+        
+  .trophy-outline--background-select {
+    height: 30px;
+    width: 30px;
+    top: 10px;
+    right: 4%;
+  }
+    
+  .icon--background-select {
+    height: 30px; 
+    width: 30px;
+    top: 15px;
+    left: 5%;
+  }
+    
+  .simple-background {
+    font-size: 4.455rem;
+    margin-left: 16%; 
+    margin-top: 80px;
+  }
+    
+  .vibrant-background {
+    font-size: 3.8232rem; 
+    margin-left: 16%;
+    margin-top: 300px;
+  }
+    
+  .premium-background {
+    font-size: 3.8232rem; 
+    margin-left: 16%;
+    margin-top: 520px;
+  }
+    
+  .trophy-req--simple {
+    margin-left: 20%; 
+    margin-top: 38%;
+    font-size: 13px;
+  }
+    
+  .trophy-req-vibrant {
+    margin-left: 20%; 
+    margin-top: 80.25%;
+    font-size: 13px;
+  }
+    
+  .trophy-req--premium {
+    margin-left: 20%;
+    margin-top: 122.75%;  
+    font-size: 9px;
+  } 
+    
+  .trophy--background-simple {
+    margin-left: 22.5%;
+    margin-top: 36.75%;
+    height: 20px;
+    width: 20px;
+  }
+    
+  .trophy--background-vibrant {
+    margin-left: 25%;
+    margin-top: 78.75%;
+    height: 20px;
+    width: 20px;
+  }  
+}
+
+@media screen and (max-width: 31.5625em) and (orientation: portrait) {
+
+  .background-title {
+    font-size: 2.5rem;
+  }
+    
+  .trophy-number--background {
+    font-size: 20px;
+    top: 20px;
+    right: 12%;
+  }
+        
+  .trophy-outline--background-select {
+    height: 30px;
+    width: 30px;
+    top: 10px;
+    right: 4%;
+  }
+    
+  .icon--background-select {
+    height: 30px; 
+    width: 30px;
+    top: 15px;
+    left: 5%;
+  }
+    
+  .simple-background {
+    font-size: 4.455rem;
+    margin-left: 16%; 
+    margin-top: 80px;
+  }
+    
+  .vibrant-background {
+    font-size: 3.8232rem; 
+    margin-left: 16%;
+    margin-top: 300px;
+  }
+    
+  .premium-background {
+    font-size: 3.8232rem; 
+    margin-left: 16%;
+    margin-top: 520px;
+  }
+    
+  .trophy-req--simple {
+    margin-left: 20%; 
+    margin-top: 39.75%;
+    font-size: 13px;
+  }
+    
+  .trophy-req-vibrant {
+    margin-left: 20%; 
+    margin-top: 83.5%;
+    font-size: 13px;
+  }
+    
+  .trophy-req--premium {
+    margin-left: 20%;
+    margin-top: 127.5%;  
+    font-size: 9px;
+  } 
+    
+  .trophy--background-simple {
+    margin-left: 22.5%;
+    margin-top: 38.25%;
+    height: 20px;
+    width: 20px;
+  }
+    
+  .trophy--background-vibrant {
+    margin-left: 25%;
+    margin-top: 82%;
+    height: 20px;
+    width: 20px;
+  }  
+}
+
+@media screen and (max-width: 30.625em) and (orientation: portrait) {
+
+  .background-title {
+    font-size: 2.5rem;
+  }
+    
+  .trophy-number--background {
+    font-size: 20px;
+    top: 20px;
+    right: 12%;
+  }
+        
+  .trophy-outline--background-select {
+    height: 30px;
+    width: 30px;
+    top: 10px;
+    right: 4%;
+  }
+    
+  .icon--background-select {
+    height: 30px; 
+    width: 30px;
+    top: 15px;
+    left: 5%;
+  }
+    
+  .simple-background {
+    font-size: 4.455rem;
+    margin-left: 13%; 
+    margin-top: 80px;
+  }
+    
+  .vibrant-background {
+    font-size: 3.8232rem; 
+    margin-left: 13%;
+    margin-top: 300px;
+  }
+    
+  .premium-background {
+    font-size: 3.8232rem; 
+    margin-left: 13%;
+    margin-top: 520px;
+  }
+    
+  .trophy-req--simple {
+    margin-left: 18%; 
+    margin-top: 41%;
+    font-size: 13px;
+  }
+    
+  .trophy-req-vibrant {
+    margin-left: 18%; 
+    margin-top: 86%;
+    font-size: 13px;
+  }
+    
+  .trophy-req--premium {
+    margin-left: 18%;
+    margin-top: 131.5%;  
+    font-size: 9px;
+  } 
+    
+  .trophy--background-simple {
+    margin-left: 21.25%;
+    margin-top: 39.5%;
+    height: 20px;
+    width: 20px;
+  }
+    
+  .trophy--background-vibrant {
+    margin-left: 23.5%;
+    margin-top: 84.5%;
+    height: 20px;
+    width: 20px;
+  }  
+}
+
+@media screen and (max-width: 29.6875em) and (orientation: portrait) {
+
+  .background-title {
+    font-size: 2.5rem;
+  }
+    
+  .trophy-number--background {
+    font-size: 20px;
+    top: 20px;
+    right: 12%;
+  }
+        
+  .trophy-outline--background-select {
+    height: 30px;
+    width: 30px;
+    top: 10px;
+    right: 4%;
+  }
+    
+  .icon--background-select {
+    height: 30px; 
+    width: 30px;
+    top: 15px;
+    left: 5%;
+  }
+    
+  .simple-background {
+    font-size: 4.455rem;
+    margin-left: 13%; 
+    margin-top: 80px;
+  }
+    
+  .vibrant-background {
+    font-size: 3.8232rem; 
+    margin-left: 13%;
+    margin-top: 300px;
+  }
+    
+  .premium-background {
+    font-size: 3.8232rem; 
+    margin-left: 13%;
+    margin-top: 520px;
+  }
+    
+  .trophy-req--simple {
+    margin-left: 18%; 
+    margin-top: 42.25%;
+    font-size: 13px;
+  }
+    
+  .trophy-req-vibrant {
+    margin-left: 18%; 
+    margin-top: 89.5%;
+    font-size: 13px;
+  }
+    
+  .trophy-req--premium {
+    margin-left: 18%;
+    margin-top: 137%;  
+    font-size: 9px;
+  } 
+    
+  .trophy--background-simple {
+    margin-left: 21%;
+    margin-top: 41.1%;
+    height: 20px;
+    width: 20px;
+  }
+    
+  .trophy--background-vibrant {
+    margin-left: 23%;
+    margin-top: 88%;
+    height: 20px;
+    width: 20px;
+  }  
+}
+
+@media screen and (max-width: 28.4375em) and (orientation: portrait) {
+
+  .background-title {
+    font-size: 2.5rem;
+  }
+    
+  .trophy-number--background {
+    font-size: 20px;
+    top: 20px;
+    right: 12%;
+  }
+        
+  .trophy-outline--background-select {
+    height: 30px;
+    width: 30px;
+    top: 10px;
+    right: 4%;
+  }
+    
+  .icon--background-select {
+    height: 30px; 
+    width: 30px;
+    top: 15px;
+    left: 5%;
+  }
+    
+  .simple-background {
+    font-size: 4.455rem;
+    margin-left: 11%; 
+    margin-top: 80px;
+  }
+    
+  .vibrant-background {
+    font-size: 3.8232rem; 
+    margin-left: 11%;
+    margin-top: 300px;
+  }
+    
+  .premium-background {
+    font-size: 3.8232rem; 
+    margin-left: 11%;
+    margin-top: 520px;
+  }
+    
+  .trophy-req--simple {
+    margin-left: 16%; 
+    margin-top: 44.1%;
+    font-size: 13px;
+  }
+    
+  .trophy-req-vibrant {
+    margin-left: 16%; 
+    margin-top: 92.5%;
+    font-size: 13px;
+  }
+    
+  .trophy-req--premium {
+    margin-left: 16%;
+    margin-top: 141.6%;  
+    font-size: 9px;
+  } 
+    
+  .trophy--background-simple {
+    margin-left: 19%;
+    margin-top: 42.5%;
+    height: 20px;
+    width: 20px;
+  }
+    
+  .trophy--background-vibrant {
+    margin-left: 21.2%;
+    margin-top: 90.9%;
+    height: 20px;
+    width: 20px;
+  }  
+}
+
+@media screen and (max-width: 27.5em) and (orientation: portrait) {
+
+  .background-title {
+    font-size: 2.25rem;
+  }
+    
+  .trophy-number--background {
+    font-size: 15px;
+    top: 20px;
+    right: 11.5%;
+  }
+        
+  .trophy-outline--background-select {
+    height: 25px;
+    width: 25px;
+    top: 10px;
+    right: 4%;
+  }
+    
+  .icon--background-select {
+    height: 25px; 
+    width: 25px;
+    top: 15px;
+    left: 5%;
+  }
+    
+  .simple-background {
+    font-size: 4.455rem;
+    margin-left: 11%; 
+    margin-top: 80px;
+  }
+    
+  .vibrant-background {
+    font-size: 3.8232rem; 
+    margin-left: 11%;
+    margin-top: 300px;
+  }
+    
+  .premium-background {
+    font-size: 3.8232rem; 
+    margin-left: 11%;
+    margin-top: 520px;
+  }
+    
+  .trophy-req--simple {
+    margin-left: 16%; 
+    margin-top: 45.6%;
+    font-size: 13px;
+  }
+    
+  .trophy-req-vibrant {
+    margin-left: 16%; 
+    margin-top: 95.75%;
+    font-size: 13px;
+  }
+    
+  .trophy-req--premium {
+    margin-left: 16%;
+    margin-top: 146.5%;  
+    font-size: 9px;
+  } 
+    
+  .trophy--background-simple {
+    margin-left: 19%;
+    margin-top: 44%;
+    height: 20px;
+    width: 20px;
+  }
+    
+  .trophy--background-vibrant {
+    margin-left: 21.2%;
+    margin-top: 94%;
+    height: 20px;
+    width: 20px;
+  }  
+}
+
+@media screen and (max-width: 26.5625em) and (orientation: portrait) {
+
+  .background-title {
+    font-size: 2.25rem;
+  }
+    
+  .trophy-number--background {
+    font-size: 15px;
+    top: 20px;
+    right: 11.5%;
+  }
+        
+  .trophy-outline--background-select {
+    height: 25px;
+    width: 25px;
+    top: 10px;
+    right: 4%;
+  }
+    
+  .icon--background-select {
+    height: 25px; 
+    width: 25px;
+    top: 15px;
+    left: 5%;
+  }
+    
+  .simple-background {
+    font-size: 4.455rem;
+    margin-left: 8%; 
+    margin-top: 80px;
+  }
+    
+  .vibrant-background {
+    font-size: 3.8232rem; 
+    margin-left: 8%;
+    margin-top: 300px;
+  }
+    
+  .premium-background {
+    font-size: 3.8232rem; 
+    margin-left: 8%;
+    margin-top: 520px;
+  }
+    
+  .trophy-req--simple {
+    margin-left: 14%; 
+    margin-top: 47.25%;
+    font-size: 13px;
+  }
+    
+  .trophy-req-vibrant {
+    margin-left: 14%; 
+    margin-top: 100%;
+    font-size: 13px;
+  }
+    
+  .trophy-req--premium {
+    margin-left: 14%;
+    margin-top: 152.5%;  
+    font-size: 9px;
+  } 
+    
+  .trophy--background-simple {
+    margin-left: 17%;
+    margin-top: 45.5%;
+    height: 20px;
+    width: 20px;
+  }
+    
+  .trophy--background-vibrant {
+    margin-left: 20%;
+    margin-top: 98.25%;
+    height: 20px;
+    width: 20px;
+  }  
+}
+
+@media screen and (max-width: 25.625em) and (orientation: portrait) {
+
+  .background-title {
+    font-size: 2rem;
+  }
+    
+  .trophy-number--background {
+    font-size: 15px;
+    top: 20px;
+    right: 12%;
+  }
+        
+  .trophy-outline--background-select {
+    height: 25px;
+    width: 25px;
+    top: 10px;
+    right: 4%;
+  }
+    
+  .icon--background-select {
+    height: 25px; 
+    width: 25px;
+    top: 15px;
+    left: 5%;
+  }
+    
+  .simple-background {
+    font-size: 3.564rem;
+    margin-left: 11%; 
+    margin-top: 80px;
+  }
+    
+  .vibrant-background {
+    font-size: 3.05856rem; 
+    margin-left: 11%;
+    margin-top: 300px;
+  }
+    
+  .premium-background {
+    font-size: 3.05856rem; 
+    margin-left: 11%;
+    margin-top: 520px;
+  }
+    
+  .trophy-req--simple {
+    margin-left: 16%; 
+    margin-top: 47.25%;
+    font-size: 10.4px;
+  }
+    
+  .trophy-req-vibrant {
+    margin-left: 16%; 
+    margin-top: 101.3%;
+    font-size: 10.4px;
+  }
+    
+  .trophy-req--premium {
+    margin-left: 16%;
+    margin-top: 155.75%;  
+    font-size: 7.2px;
+  } 
+    
+  .trophy--background-simple {
+    margin-left: 18.5%;
+    margin-top: 45.9%;
+    height: 16px;
+    width: 16px;
+  }
+    
+  .trophy--background-vibrant {
+    margin-left: 21%;
+    margin-top: 100%;
+    height: 16px;
+    width: 16px;
+  }  
+}
+
+@media screen and (max-width: 24.6875em) and (orientation: portrait) {
+
+  .background-title {
+    font-size: 2rem;
+  }
+    
+  .trophy-number--background {
+    font-size: 15px;
+    top: 20px;
+    right: 12%;
+  }
+        
+  .trophy-outline--background-select {
+    height: 25px;
+    width: 25px;
+    top: 10px;
+    right: 4%;
+  }
+    
+  .icon--background-select {
+    height: 25px; 
+    width: 25px;
+    top: 15px;
+    left: 5%;
+  }
+    
+  .simple-background {
+    font-size: 3.564rem;
+    margin-left: 11%; 
+    margin-top: 80px;
+  }
+    
+  .vibrant-background {
+    font-size: 3.05856rem; 
+    margin-left: 11%;
+    margin-top: 300px;
+  }
+    
+  .premium-background {
+    font-size: 3.05856rem; 
+    margin-left: 11%;
+    margin-top: 520px;
+  }
+    
+  .trophy-req--simple {
+    margin-left: 16%; 
+    margin-top: 49%;
+    font-size: 10.4px;
+  }
+    
+  .trophy-req-vibrant {
+    margin-left: 16%; 
+    margin-top: 105.25%;
+    font-size: 10.4px;
+  }
+    
+  .trophy-req--premium {
+    margin-left: 16%;
+    margin-top: 161.75%;  
+    font-size: 7.2px;
+  } 
+    
+  .trophy--background-simple {
+    margin-left: 18.5%;
+    margin-top: 47.6%;
+    height: 16px;
+    width: 16px;
+  }
+    
+  .trophy--background-vibrant {
+    margin-left: 21%;
+    margin-top: 103.75%;
+    height: 16px;
+    width: 16px;
+  }  
+}
+
+@media screen and (max-width: 23.75em) and (orientation: portrait) {
+
+  .background-title {
+    font-size: 2rem;
+  }
+    
+  .trophy-number--background {
+    font-size: 15px;
+    top: 20px;
+    right: 12%;
+  }
+        
+  .trophy-outline--background-select {
+    height: 25px;
+    width: 25px;
+    top: 10px;
+    right: 4%;
+  }
+    
+  .icon--background-select {
+    height: 25px; 
+    width: 25px;
+    top: 15px;
+    left: 5%;
+  }
+    
+  .simple-background {
+    font-size: 3.564rem;
+    margin-left: 9%; 
+    margin-top: 80px;
+  }
+    
+  .vibrant-background {
+    font-size: 3.05856rem; 
+    margin-left: 9%;
+    margin-top: 300px;
+  }
+    
+  .premium-background {
+    font-size: 3.05856rem; 
+    margin-left: 9%;
+    margin-top: 520px;
+  }
+    
+  .trophy-req--simple {
+    margin-left: 14.5%; 
+    margin-top: 50.9%;
+    font-size: 10.4px;
+  }
+    
+  .trophy-req-vibrant {
+    margin-left: 14.5%; 
+    margin-top: 109.5%;
+    font-size: 10.4px;
+  }
+    
+  .trophy-req--premium {
+    margin-left: 14.5%;
+    margin-top: 168.25%;  
+    font-size: 7.2px;
+  } 
+    
+  .trophy--background-simple {
+    margin-left: 17.5%;
+    margin-top: 49.5%;
+    height: 16px;
+    width: 16px;
+  }
+    
+  .trophy--background-vibrant {
+    margin-left: 19.5%;
+    margin-top: 107.9%;
+    height: 16px;
+    width: 16px;
+  }  
+}
+
+@media screen and (max-width: 22.875em) and (orientation: portrait) {
+
+  .background-title {
+    font-size: 2rem;
+  }
+    
+  .trophy-number--background {
+    font-size: 12.5px;
+    top: 20px;
+    right: 12%;
+  }
+        
+  .trophy-outline--background-select {
+    height: 20px;
+    width: 20px;
+    top: 12.5px;
+    right: 4%;
+  }
+    
+  .icon--background-select {
+    height: 20px; 
+    width: 20px;
+    top: 15px;
+    left: 5%;
+  }
+    
+  .simple-background {
+    font-size: 3.1185rem;
+    margin-left: 11%; 
+    margin-top: 80px;
+  }
+    
+  .vibrant-background {
+    font-size: 2.67624rem; 
+    margin-left: 11%;
+    margin-top: 300px;
+  }
+    
+  .premium-background {
+    font-size: 2.67624rem; 
+    margin-left: 11%;
+    margin-top: 520px;
+  }
+    
+  .trophy-req--simple {
+    margin-left: 16.5%; 
+    margin-top: 51.75%;
+    font-size: 10.4px;
+  }
+    
+  .trophy-req-vibrant {
+    margin-left: 16.5%; 
+    margin-top: 112.5%;
+    font-size: 10.4px;
+  }
+    
+  .trophy-req--premium {
+    margin-left: 16.5%;
+    margin-top: 173.5%;  
+    font-size: 7.2px;
+  } 
+    
+  .trophy--background-simple {
+    margin-left: 19.25%;
+    margin-top: 50.2%;
+    height: 16px;
+    width: 16px;
+  }
+    
+  .trophy--background-vibrant {
+    margin-left: 21.75%;
+    margin-top: 111%;
+    height: 16px;
+    width: 16px;
+  }  
+}
+
+@media screen and (max-width: 22.25em) and (orientation: portrait) {
+
+  .background-title {
+    font-size: 2rem;
+  }
+    
+  .trophy-number--background {
+    font-size: 12.5px;
+    top: 20px;
+    right: 12%;
+  }
+        
+  .trophy-outline--background-select {
+    height: 20px;
+    width: 20px;
+    top: 12.5px;
+    right: 4%;
+  }
+    
+  .icon--background-select {
+    height: 20px; 
+    width: 20px;
+    top: 15px;
+    left: 5%;
+  }
+    
+  .simple-background {
+    font-size: 3.1185rem;
+    margin-left: 11%; 
+    margin-top: 80px;
+  }
+    
+  .vibrant-background {
+    font-size: 2.67624rem; 
+    margin-left: 11%;
+    margin-top: 300px;
+  }
+    
+  .premium-background {
+    font-size: 2.67624rem; 
+    margin-left: 11%;
+    margin-top: 520px;
+  }
+    
+  .trophy-req--simple {
+    margin-left: 16.5%; 
+    margin-top: 53.2%;
+    font-size: 10.4px;
+  }
+    
+  .trophy-req-vibrant {
+    margin-left: 16.5%; 
+    margin-top: 115.75%;
+    font-size: 10.4px;
+  }
+    
+  .trophy-req--premium {
+    margin-left: 16.5%;
+    margin-top: 178.5%;  
+    font-size: 7.2px;
+  } 
+    
+  .trophy--background-simple {
+    margin-left: 19.25%;
+    margin-top: 51.5%;
+    height: 16px;
+    width: 16px;
+  }
+    
+  .trophy--background-vibrant {
+    margin-left: 21.75%;
+    margin-top: 114.2%;
+    height: 16px;
+    width: 16px;
+  }  
+}
+
+@media screen and (max-width: 21.625em) and (orientation: portrait) {
+
+  .background-title {
+    font-size: 2rem;
+  }
+    
+  .trophy-number--background {
+    font-size: 12.5px;
+    top: 20px;
+    right: 12%;
+  }
+        
+  .trophy-outline--background-select {
+    height: 20px;
+    width: 20px;
+    top: 12.5px;
+    right: 4%;
+  }
+    
+  .icon--background-select {
+    height: 20px; 
+    width: 20px;
+    top: 15px;
+    left: 5%;
+  }
+    
+  .simple-background {
+    font-size: 3.1185rem;
+    margin-left: 11%; 
+    margin-top: 80px;
+  }
+    
+  .vibrant-background {
+    font-size: 2.67624rem; 
+    margin-left: 11%;
+    margin-top: 300px;
+  }
+    
+  .premium-background {
+    font-size: 2.67624rem; 
+    margin-left: 11%;
+    margin-top: 520px;
+  }
+    
+  .trophy-req--simple {
+    margin-left: 16.5%; 
+    margin-top: 54.7%;
+    font-size: 10.4px;
+  }
+    
+  .trophy-req-vibrant {
+    margin-left: 16.5%; 
+    margin-top: 119.1%;
+    font-size: 10.4px;
+  }
+    
+  .trophy-req--premium {
+    margin-left: 16.5%;
+    margin-top: 183.5%;  
+    font-size: 7.2px;
+  } 
+    
+  .trophy--background-simple {
+    margin-left: 19.25%;
+    margin-top: 53%;
+    height: 16px;
+    width: 16px;
+  }
+    
+  .trophy--background-vibrant {
+    margin-left: 21.75%;
+    margin-top: 117.5%;
+    height: 16px;
+    width: 16px;
+  }  
+}
+
+@media screen and (max-width: 21em) and (orientation: portrait) {
+
+  .background-title {
+    font-size: 2rem;
+  }
+    
+  .trophy-number--background {
+    font-size: 12.5px;
+    top: 20px;
+    right: 12%;
+  }
+        
+  .trophy-outline--background-select {
+    height: 20px;
+    width: 20px;
+    top: 12.5px;
+    right: 4%;
+  }
+    
+  .icon--background-select {
+    height: 20px; 
+    width: 20px;
+    top: 15px;
+    left: 5%;
+  }
+    
+  .simple-background {
+    font-size: 3.1185rem;
+    margin-left: 8.5%; 
+    margin-top: 80px;
+  }
+    
+  .vibrant-background {
+    font-size: 2.67624rem; 
+    margin-left: 8.5%;
+    margin-top: 300px;
+  }
+    
+  .premium-background {
+    font-size: 2.67624rem; 
+    margin-left: 8.5%;
+    margin-top: 520px;
+  }
+    
+  .trophy-req--simple {
+    margin-left: 15%; 
+    margin-top: 56.325%;
+    font-size: 10.4px;
+  }
+    
+  .trophy-req-vibrant {
+    margin-left: 15%; 
+    margin-top: 122.75%;
+    font-size: 10.4px;
+  }
+    
+  .trophy-req--premium {
+    margin-left: 15%;
+    margin-top: 189.1%;  
+    font-size: 7.2px;
+  } 
+    
+  .trophy--background-simple {
+    margin-left: 18%;
+    margin-top: 54.55%;
+    height: 16px;
+    width: 16px;
+  }
+    
+  .trophy--background-vibrant {
+    margin-left: 21%;
+    margin-top: 121%;
+    height: 16px;
+    width: 16px;
+  }  
+}
+
+@media screen and (max-width: 20.375em) and (orientation: portrait) {
+
+  .background-title {
+    font-size: 2rem;
+  }
+    
+  .trophy-number--background {
+    font-size: 12.5px;
+    top: 20px;
+    right: 12%;
+  }
+        
+  .trophy-outline--background-select {
+    height: 20px;
+    width: 20px;
+    top: 12.5px;
+    right: 4%;
+  }
+    
+  .icon--background-select {
+    height: 20px; 
+    width: 20px;
+    top: 15px;
+    left: 5%;
+  }
+    
+  .simple-background {
+    font-size: 3.1185rem;
+    margin-left: 8.5%; 
+    margin-top: 80px;
+  }
+    
+  .vibrant-background {
+    font-size: 2.67624rem; 
+    margin-left: 8.5%;
+    margin-top: 300px;
+  }
+    
+  .premium-background {
+    font-size: 2.67624rem; 
+    margin-left: 8.5%;
+    margin-top: 520px;
+  }
+    
+  .trophy-req--simple {
+    margin-left: 15%; 
+    margin-top: 58.1%;
+    font-size: 10.4px;
+  }
+    
+  .trophy-req-vibrant {
+    margin-left: 15%; 
+    margin-top: 126.5%;
+    font-size: 10.4px;
+  }
+    
+  .trophy-req--premium {
+    margin-left: 15%;
+    margin-top: 195%;  
+    font-size: 7.2px;
+  } 
+    
+  .trophy--background-simple {
+    margin-left: 18%;
+    margin-top: 56.35%;
+    height: 16px;
+    width: 16px;
+  }
+    
+  .trophy--background-vibrant {
+    margin-left: 21%;
+    margin-top: 124.7%;
+    height: 16px;
+    width: 16px;
+  }  
+}
+
+
+/*****************/ 
+

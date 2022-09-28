@@ -1,0 +1,125 @@
+.text-title {
+	position: relative;
+	text-align: center;
+	font-size: 70px;
+	text-transform: uppercase;
+	margin-top: 15px;
+}
+
+.trophy-number--text {
+	position: absolute;
+	color: #b2bf22;
+	font-size: 30px;
+	top: 5%;
+	right: 10%;
+}
+
+.trophy-outline--text-select {
+	color: #b2bf22;
+	height: 40px;
+	width: 40px;
+	position: absolute;
+	top: 4%;
+	right: 4%;
+}
+
+.icon--text-select {
+	height: 40px;
+	width: 40px;
+	position: absolute;
+	top: 4%;
+	left: 5%;
+}
+
+.text-main {
+	position: relative;
+}
+
+.btn--text {
+	position: absolute;
+	border: 7.5px ridge #e3e3e3;
+	color: #eee;
+	background-color: #222;
+	font-family: inherit;
+}
+
+.btn--text:active {
+	transform: scale(1.02);
+	border-radius: 5px;
+}
+
+.excess-text {
+	font-size: 5rem;
+	padding: 4rem 3rem;
+	width: 405px;
+	font-family: 'Bowlby One', cursive;
+	margin-left: 21.5%;
+	margin-top: 80px;
+}
+
+.elderly-text {
+	font-size: 5rem;
+	padding: 4rem 3rem;
+	width: 405px;
+	font-family: 'Rubik Moonrocks', cursive;
+	margin-left: 21.5%;
+	margin-top: 300px;
+}
+
+.nuclear-text {
+	font-size: 4.72rem;
+	padding: 4rem 3rem;
+	width: 390px;
+	font-family: 'Monoton', cursive;
+	margin-left: 21.5%;
+	margin-top: 520px;
+}
+
+.trophy-outline {
+	position: absolute;
+	color: #b2bf22;
+}
+
+.trophy--text-excess {
+	margin-left: 27.5%;
+	margin-top: 31.5%;
+	height: 18px;
+	width: 18px;
+}
+
+.trophy--text-elderly {
+	margin-left: 27.5%;
+	margin-top: 62.4%;
+	height: 18px;
+	width: 18px;
+}
+
+.trophy--text-nuclear {
+	margin-left: 27.5%;
+	margin-top: 92.5%;
+	height: 18px;
+	width: 18px;
+}
+
+.trophy-req {
+	color: #b2bf22;
+	position: absolute;
+}
+
+.trophy-req--excess {
+	margin-left: 23%;
+	margin-top: 32%;
+	font-size: 15px;
+}
+
+.trophy-req--elderly {
+	margin-left: 23%;
+	margin-top: 62.85%;
+	font-size: 15px;
+}
+
+.trophy-req--nuclear {
+	margin-left: 23%;
+	margin-top: 93%;
+	font-size: 15px;
+}

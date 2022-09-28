@@ -1,0 +1,18 @@
+main {
+    display: flex; 
+    flex-direction: column;
+    align-items: center;
+  }
+    
+  li {
+    list-style: none;
+    font-size: 5rem;
+    margin-top: 110px;
+  }
+    
+  .icon-ten--trophy{
+    height: 40px;
+    width: 40px;
+    margin-left: 3%;
+    margin-top: 2%;
+  }

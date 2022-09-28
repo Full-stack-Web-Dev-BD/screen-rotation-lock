@@ -1,0 +1,70 @@
+main {
+    display: flex; 
+    flex-direction: column;
+    align-items: center;
+}
+  
+header {
+   position: relative;
+}
+  
+.btn--game {
+    font-size: 5rem;
+    margin-top: 90px;
+    padding: 50px;
+    background-color: #222;
+    color: #eee;
+    font-family: inherit;
+}
+  
+.btn--game:hover {
+    transform: scale(1.05); 
+}
+  
+.btn--game:active {
+    transform: scale(1.04); 
+}
+  
+.set--fifty-fifty {
+    border: 4px solid #eee;
+    width: 41rem;
+    text-align: center;
+}
+  
+.set--twentyfive-onehundred {
+    border: 4px double #5781ff;
+}
+  
+.set--ten-onehundred {
+    border: 4px dashed #c3f50f; 
+} 
+  
+  .icon--game-select {
+    position: absolute;
+    margin-top: 2.8%;
+    margin-left: 5%; 
+    height: 40px;
+    width: 40px;
+  }
+  
+  .icon--extra-select:hover {
+    height: 45px; 
+    width: 45px;
+  }
+  
+  .trophy-number {
+    color: #d1e312; 
+    position: absolute;
+    margin-left: 85.5%;
+    margin-top: 4%;
+    font-size: 30px;
+  }
+  
+  .trophy-outline--select-menu {
+    position: absolute;  
+    color: #d1e312;
+    margin-left: 90%;
+    margin-top: 2.8%;
+    height: 40px;
+    width: 40px;
+  }  

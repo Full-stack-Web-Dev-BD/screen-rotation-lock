@@ -1,0 +1,55 @@
+.main-header {
+    position: relative;  
+}
+  
+.main-title {
+    font-size: 7.5rem;
+    text-align: center;
+    margin-top: 40px;
+}
+  
+.btn--main {
+    color: #eee;
+    background-color: #222;
+    border: 7.5px solid #eee;
+    font-family: inherit;
+}
+  
+.btn--main:hover {
+    color: #222;
+    background-color: #eee;
+    transform: scale(1.15);
+    border: 7.5px solid #222;
+}
+  
+.btn--main:active {
+    color: #222;
+    background-color: #eee;
+    transform: scale(1.10);
+    border: 7.5px solid #222;
+}
+  
+.btn--play {
+    font-size: 7rem;
+    position: absolute;
+    bottom: 52.5%;
+    right: 25.5%;
+    padding: 2rem 3rem;
+}
+  
+.btn--shop {
+    font-size: 7rem;
+    position: absolute;
+    bottom: 32%;
+    right: 25.5%;
+    padding: 2rem 3rem;
+}
+  
+.author-name {
+     color: #eee; 
+     font-size: 2rem;
+     text-transform: uppercase;
+     position: absolute;
+     bottom: 5%;
+     right: 5%;
+} 

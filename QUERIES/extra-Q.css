@@ -1,0 +1,959 @@
+/****************/
+/* Below 1366px */
+/****************/
+  
+@media screen and (max-width: 85.375em) and (orientation: landscape) {
+  .extra-title {
+    font-size: 70px; 
+  }
+
+  .trophy-number--extra {
+    font-size: 50px;
+    right: 11%;
+  }
+
+  .trophy-outline--extra-select {
+    height: 60px;
+    width: 60px;
+    right: 4%;
+  }
+     
+  .icon--extra-select {
+    height: 60px; 
+    width: 60px;
+    left: 5%;
+  }
+
+  .extra-level {
+    font-size: 125px;
+    margin-left: 22.25%;
+  }
+
+  .trophy-outline--extra-req {
+    height: 35px;
+    width: 35px;
+    margin-left: 26.75%;
+    margin-top: 34%;
+  }
+    
+  .extra-level--trophy-req {
+    font-size: 20px;
+    margin-left: 24%;
+    margin-top: -22.5px;
+  } 
+    
+}
+
+/****************/
+
+@media screen and (max-width: 79.375em) and (orientation: landscape) {
+  .extra-title {
+    font-size: 70px; 
+  }
+
+  .trophy-number--extra {
+    font-size: 50px;
+    right: 11.5%;
+  }
+
+  .trophy-outline--extra-select {
+    height: 60px;
+    width: 60px;
+    right: 4%;
+  }
+     
+  .icon--extra-select {
+    height: 60px; 
+    width: 60px;
+    left: 5%;
+  }
+
+  .extra-level {
+    font-size: 125px;
+    margin-left: 20%;
+  }
+
+  .trophy-outline--extra-req {
+    height: 35px;
+    width: 35px;
+    margin-left: 25.5%;
+    margin-top: 35%;
+  }
+    
+  .extra-level--trophy-req {
+    font-size: 20px;
+    margin-left: 22.5%;
+    margin-top: -22.5px;
+  } 
+    
+}
+
+@media screen and (max-width: 74.375em) and (orientation: landscape) {
+  .extra-title {
+    font-size: 70px; 
+  }
+
+  .trophy-number--extra {
+    font-size: 47.5px;
+    right: 12%;
+  }
+
+  .trophy-outline--extra-select {
+    height: 57.5px;
+    width: 57.5px;
+    right: 4%;
+  }
+     
+  .icon--extra-select {
+    height: 57.5px; 
+    width: 57.5px;
+    left: 5%;
+  }
+
+  .extra-level {
+    font-size: 125px;
+    margin-left: 17.5%;
+  }
+
+  .trophy-outline--extra-req {
+    height: 35px;
+    width: 35px;
+    margin-left: 23%;
+    margin-top: 36%;
+  }
+    
+  .extra-level--trophy-req {
+    font-size: 20px;
+    margin-left: 20%;
+    margin-top: -22.5px;
+  } 
+    
+}
+
+@media screen and (max-width: 68.75em) and (orientation: landscape) {
+  .extra-title {
+    font-size: 70px; 
+  }
+
+  .trophy-number--extra {
+    font-size: 47.5px;
+    right: 12.5%;
+  }
+
+  .trophy-outline--extra-select {
+    height: 57.5px;
+    width: 57.5px;
+    right: 4%;
+  }
+     
+  .icon--extra-select {
+    height: 57.5px; 
+    width: 57.5px;
+    left: 5%;
+  }
+
+  .extra-level {
+    font-size: 125px;
+    margin-left: 15%;
+  }
+
+  .trophy-outline--extra-req {
+    height: 35px;
+    width: 35px;
+    margin-left: 21%;
+    margin-top: 37.5%;
+  }
+    
+  .extra-level--trophy-req {
+    font-size: 20px;
+    margin-left: 18%;
+    margin-top: -22.5px;
+  } 
+    
+}
+
+@media screen and (max-width: 64.375em) and (orientation: landscape) {
+  .extra-title {
+    font-size: 70px; 
+  }
+
+  .trophy-number--extra {
+    font-size: 45px;
+    right: 13%;
+  }
+
+  .trophy-outline--extra-select {
+    height: 55px;
+    width: 55px;
+    right: 4%;
+  }
+     
+  .icon--extra-select {
+    height: 55px; 
+    width: 55px;
+    left: 5%;
+  }
+
+  .extra-level {
+    font-size: 125px;
+    margin-left: 14%;
+  }
+
+  .trophy-outline--extra-req {
+    height: 35px;
+    width: 35px;
+    margin-left: 20%;
+    margin-top: 38.5%;
+  }
+    
+  .extra-level--trophy-req {
+    font-size: 20px;
+    margin-left: 16.5%;
+    margin-top: -22.5px;
+  } 
+    
+}
+
+/****************/
+
+/****************/
+/* Below 992px */
+/****************/
+  
+@media screen and (max-width: 62em) and (orientation: landscape) {
+    .extra-title {
+      font-size: 70px; 
+    }
+
+    .trophy-number--extra {
+      font-size: 30px;
+      right: 11%;
+    }
+
+    .trophy-outline--extra-select {
+      height: 40px;
+      width: 40px;
+      right: 4%;
+    }
+       
+    .icon--extra-select {
+      height: 40px; 
+      width: 40px;
+      left: 5%;
+    }
+
+    .extra-level {
+      font-size: 100px;
+      margin-left: 19%;
+    }
+
+    .trophy-outline--extra-req {
+      height: 35px;
+      width: 35px;
+      margin-left: 26.25%;
+      margin-top: 36.3%;
+    }
+      
+    .extra-level--trophy-req {
+      font-size: 20px;
+      margin-left: 21.5%;
+      margin-top: -22.5px;
+    } 
+      
+}
+  
+/********************************/
+
+@media screen and (max-width: 59.375em) and (orientation: landscape) {
+  .extra-title {
+    font-size: 70px; 
+  }
+
+  .trophy-number--extra {
+    font-size: 30px;
+    right: 11.5%;
+  }
+
+  .trophy-outline--extra-select {
+    height: 40px;
+    width: 40px;
+    right: 4%;
+  }
+     
+  .icon--extra-select {
+    height: 40px; 
+    width: 40px;
+    left: 5%;
+  }
+
+  .extra-level {
+    font-size: 100px;
+    margin-left: 19%;
+  }
+
+  .trophy-outline--extra-req {
+    height: 35px;
+    width: 35px;
+    margin-left: 26.25%;
+    margin-top: 37.25%;
+  }
+    
+  .extra-level--trophy-req {
+    font-size: 20px;
+    margin-left: 21.5%;
+    margin-top: -22.5px;
+  } 
+    
+}
+
+@media screen and (max-width: 56.25em) and (orientation: landscape) {
+  .extra-title {
+    font-size: 70px; 
+  }
+
+  .trophy-number--extra {
+    font-size: 30px;
+    right: 12%;
+  }
+
+  .trophy-outline--extra-select {
+    height: 40px;
+    width: 40px;
+    right: 4%;
+  }
+     
+  .icon--extra-select {
+    height: 40px; 
+    width: 40px;
+    left: 5%;
+  }
+
+  .extra-level {
+    font-size: 100px;
+    margin-left: 17%;
+  }
+
+  .trophy-outline--extra-req {
+    height: 35px;
+    width: 35px;
+    margin-left: 24%;
+    margin-top: 38%;
+  }
+    
+  .extra-level--trophy-req {
+    font-size: 20px;
+    margin-left: 19.5%;
+    margin-top: -20px;
+  } 
+    
+}
+
+@media screen and (max-width: 53.125em) and (orientation: landscape) {
+  .extra-title {
+    font-size: 70px; 
+  }
+
+  .trophy-number--extra {
+    font-size: 30px;
+    right: 12.5%;
+  }
+
+  .trophy-outline--extra-select {
+    height: 40px;
+    width: 40px;
+    right: 4%;
+  }
+     
+  .icon--extra-select {
+    height: 40px; 
+    width: 40px;
+    left: 5%;
+  }
+
+  .extra-level {
+    font-size: 100px;
+    margin-left: 14.5%;
+  }
+
+  .trophy-outline--extra-req {
+    height: 35px;
+    width: 35px;
+    margin-left: 22%;
+    margin-top: 39.5%;
+  }
+    
+  .extra-level--trophy-req {
+    font-size: 20px;
+    margin-left: 17.5%;
+    margin-top: -2.5%;
+  } 
+    
+}
+
+@media screen and (max-width: 50em) and (orientation: landscape) {
+  .extra-title {
+    font-size: 70px; 
+  }
+
+  .trophy-number--extra {
+    font-size: 30px;
+    right: 13%;
+  }
+
+  .trophy-outline--extra-select {
+    height: 40px;
+    width: 40px;
+    right: 4%;
+  }
+     
+  .icon--extra-select {
+    height: 40px; 
+    width: 40px;
+    left: 5%;
+  }
+
+  .extra-level {
+    font-size: 100px;
+    margin-left: 13%;
+  }
+
+  .trophy-outline--extra-req {
+    height: 35px;
+    width: 35px;
+    margin-left: 21%;
+    margin-top: 40.75%;
+  }
+    
+  .extra-level--trophy-req {
+    font-size: 20px;
+    margin-left: 16.5%;
+    margin-top: -3%;
+  } 
+    
+}
+
+@media screen and (max-width: 46.875em) and (orientation: landscape) {
+  .extra-title {
+    font-size: 70px; 
+  }
+
+  .trophy-number--extra {
+    font-size: 30px;
+    right: 13.5%;
+  }
+
+  .trophy-outline--extra-select {
+    height: 40px;
+    width: 40px;
+    right: 4%;
+  }
+     
+  .icon--extra-select {
+    height: 40px; 
+    width: 40px;
+    left: 5%;
+  }
+
+  .extra-level {
+    font-size: 100px;
+    margin-left: 10%;
+  }
+
+  .trophy-outline--extra-req {
+    height: 35px;
+    width: 35px;
+    margin-left: 18.5%;
+    margin-top: 42%;
+  }
+    
+  .extra-level--trophy-req {
+    font-size: 20px;
+    margin-left: 13.5%;
+    margin-top: -3%;
+  } 
+    
+}
+
+/********************************/
+  
+/****************/
+/* Below 713px */
+/****************/
+  
+  @media screen and (max-width: 44.5625em) and (orientation: landscape) {
+    .extra-title {
+      font-size: 55px; 
+    }
+  
+    .trophy-number--extra {
+      font-size: 25px;
+      right: 11.5%;
+    }
+  
+    .trophy-outline--extra-select {
+      height: 35px;
+      width: 35px;
+      right: 4%;
+    }
+         
+    .icon--extra-select {
+      height: 35px; 
+      width: 35px;
+      left: 5%;
+    }
+  
+    .extra-level {
+      font-size: 60px;
+      margin-left: 21%;
+      top: 21%;
+    }
+  
+    .trophy-outline--extra-req {
+      height: 25px;
+      width: 25px;
+      margin-left: 29%;
+      margin-top: 49.25%;
+    }
+        
+    .extra-level--trophy-req {
+      font-size: 15px;
+      margin-left: 24%;
+      margin-top: -17px;
+    } 
+}
+
+/********************************/
+
+@media screen and (max-width: 41.4375em) and (orientation: landscape) {
+  .extra-title {
+    font-size: 55px; 
+  }
+
+  .trophy-number--extra {
+    font-size: 25px;
+    right: 12%;
+  }
+
+  .trophy-outline--extra-select {
+    height: 35px;
+    width: 35px;
+    right: 4%;
+  }
+       
+  .icon--extra-select {
+    height: 35px; 
+    width: 35px;
+    left: 5%;
+  }
+
+  .extra-level {
+    font-size: 60px;
+    margin-left: 19%;
+    top: 21%;
+  }
+
+  .trophy-outline--extra-req {
+    height: 25px;
+    width: 25px;
+    margin-left: 26.5%;
+    margin-top: 52%;
+  }
+      
+  .extra-level--trophy-req {
+    font-size: 15px;
+    margin-left: 22%;
+    margin-top: -17px;
+  } 
+}
+
+@media screen and (max-width: 38.3125em) and (orientation: landscape) {
+  .extra-title {
+    font-size: 55px; 
+  }
+
+  .trophy-number--extra {
+    font-size: 25px;
+    right: 12.5%;
+  }
+
+  .trophy-outline--extra-select {
+    height: 35px;
+    width: 35px;
+    right: 4%;
+  }
+       
+  .icon--extra-select {
+    height: 35px; 
+    width: 35px;
+    left: 5%;
+  }
+
+  .extra-level {
+    font-size: 60px;
+    margin-left: 17%;
+    top: 21%;
+  }
+
+  .trophy-outline--extra-req {
+    height: 25px;
+    width: 25px;
+    margin-left: 24.75%;
+    margin-top: 54%;
+  }
+      
+  .extra-level--trophy-req {
+    font-size: 15px;
+    margin-left: 20%;
+    margin-top: -17px;
+  } 
+}
+
+@media screen and (max-width: 35.1875em) and (orientation: landscape) {
+  .extra-title {
+    font-size: 55px; 
+  }
+
+  .trophy-number--extra {
+    font-size: 25px;
+    right: 13%;
+  }
+
+  .trophy-outline--extra-select {
+    height: 35px;
+    width: 35px;
+    right: 4%;
+  }
+       
+  .icon--extra-select {
+    height: 35px; 
+    width: 35px;
+    left: 5%;
+  }
+
+  .extra-level {
+    font-size: 60px;
+    margin-left: 14%;
+    top: 21%;
+  }
+
+  .trophy-outline--extra-req {
+    height: 25px;
+    width: 25px;
+    margin-left: 23%;
+    margin-top: 56.5%;
+  }
+      
+  .extra-level--trophy-req {
+    font-size: 15px;
+    margin-left: 18%;
+    margin-top: -17px;
+  } 
+}
+
+/********************************/
+  
+  
+/****************/
+/* Below 544px */
+/****************/
+  
+@media screen and (max-width: 34em) and (orientation: portrait) {
+    .extra-title {
+      font-size: 42.5px; 
+    }
+  
+    .trophy-number--extra {
+      font-size: 20px;
+      right: 11.5%;
+    }
+  
+    .trophy-outline--extra-select {
+      height: 30px;
+      width: 30px;
+      right: 4%;
+    }
+         
+    .icon--extra-select {
+      height: 30px; 
+      width: 30px;
+      left: 5%;
+    }
+  
+    .extra-level {
+      font-size: 35px;
+      margin-left: 24.5%;
+      top: 40%;
+    }
+  
+    .trophy-outline--extra-req {
+      height: 20px;
+      width: 20px;
+      margin-left: 32%;
+      margin-top: 69%;
+    }
+      
+    .extra-level--trophy-req {
+      font-size: 10px;
+      margin-left: 27.5%;
+      margin-top: -12px;
+    } 
+}
+  
+
+/********************************/
+
+@media screen and (max-width: 31.875em) and (orientation: portrait) {
+  .extra-title {
+    font-size: 42.5px; 
+  }
+
+  .trophy-number--extra {
+    font-size: 20px;
+    right: 12%;
+  }
+
+  .trophy-outline--extra-select {
+    height: 30px;
+    width: 30px;
+    right: 4%;
+  }
+       
+  .icon--extra-select {
+    height: 30px; 
+    width: 30px;
+    left: 5%;
+  }
+
+  .extra-level {
+    font-size: 35px;
+    margin-left: 22.5%;
+    top: 40%;
+  }
+
+  .trophy-outline--extra-req {
+    height: 20px;
+    width: 20px;
+    margin-left: 30%;
+    margin-top: 73%;
+  }
+    
+  .extra-level--trophy-req {
+    font-size: 10px;
+    margin-left: 26%;
+    margin-top: -12px;
+  } 
+} 
+
+@media screen and (max-width: 30em) and (orientation: portrait) {
+  .extra-title {
+    font-size: 42.5px; 
+  }
+
+  .trophy-number--extra {
+    font-size: 20px;
+    right: 12.5%;
+  }
+
+  .trophy-outline--extra-select {
+    height: 30px;
+    width: 30px;
+    right: 4%;
+  }
+       
+  .icon--extra-select {
+    height: 30px; 
+    width: 30px;
+    left: 5%;
+  }
+
+  .extra-level {
+    font-size: 35px;
+    margin-left: 19%;
+    top: 40%;
+  }
+
+  .trophy-outline--extra-req {
+    height: 20px;
+    width: 20px;
+    margin-left: 27%;
+    margin-top: 75.5%;
+  }
+    
+  .extra-level--trophy-req {
+    font-size: 10px;
+    margin-left: 23%;
+    margin-top: -12px;
+  } 
+}
+
+@media screen and (max-width: 26.875em) and (orientation: portrait) {
+  .extra-title {
+    font-size: 42.5px; 
+  }
+
+  .trophy-number--extra {
+    font-size: 20px;
+    right: 13%;
+  }
+
+  .trophy-outline--extra-select {
+    height: 30px;
+    width: 30px;
+    right: 4%;
+  }
+       
+  .icon--extra-select {
+    height: 30px; 
+    width: 30px;
+    left: 5%;
+  }
+
+  .extra-level {
+    font-size: 35px;
+    margin-left: 16%;
+    top: 40%;
+  }
+
+  .trophy-outline--extra-req {
+    height: 20px;
+    width: 20px;
+    margin-left: 24.5%;
+    margin-top: 80.25%;
+  }
+    
+  .extra-level--trophy-req {
+    font-size: 10px;
+    margin-left: 20%;
+    margin-top: -12px;
+  } 
+}
+
+@media screen and (max-width: 24.375em) and (orientation: portrait) {
+  .extra-title {
+    font-size: 35px; 
+  }
+
+  .trophy-number--extra {
+    font-size: 15px;
+    right: 13.5%;
+    top: 45%;
+  }
+
+  .trophy-outline--extra-select {
+    height: 25px;
+    width: 25px;
+    right: 4%;
+  }
+       
+  .icon--extra-select {
+    height: 25px; 
+    width: 25px;
+    left: 5%;
+  }
+
+  .extra-level {
+    font-size: 25px;
+    margin-left: 19%;
+    top: 40%;
+  }
+
+  .trophy-outline--extra-req {
+    height: 20px;
+    width: 20px;
+    margin-left: 28.5%;
+    margin-top: 80%;
+  }
+    
+  .extra-level--trophy-req {
+    font-size: 10px;
+    margin-left: 23.5%;
+    margin-top: -12px;
+  } 
+}
+
+@media screen and (max-width: 21.875em) and (orientation: portrait) {
+  .extra-title {
+    font-size: 35px; 
+  }
+
+  .trophy-number--extra {
+    font-size: 15px;
+    right: 14%;
+    top: 45%;
+  }
+
+  .trophy-outline--extra-select {
+    height: 25px;
+    width: 25px;
+    right: 4%;
+  }
+       
+  .icon--extra-select {
+    height: 25px; 
+    width: 25px;
+    left: 5%;
+  }
+
+  .extra-level {
+    font-size: 25px;
+    margin-left: 16%;
+    top: 40%;
+  }
+
+  .trophy-outline--extra-req {
+    height: 20px;
+    width: 20px;
+    margin-left: 26.5%;
+    margin-top: 86%;
+  }
+    
+  .extra-level--trophy-req {
+    font-size: 10px;
+    margin-left: 21%;
+    margin-top: -12px;
+  } 
+}
+
+@media screen and (max-width: 18.75em) and (orientation: portrait) {
+  .extra-title {
+    font-size: 25px; 
+  }
+
+  .trophy-number--extra {
+    font-size: 10px;
+    right: 14.5%;
+    top: 60%;
+  }
+
+  .trophy-outline--extra-select {
+    height: 20px;
+    width: 20px;
+    right: 4%;
+  }
+       
+  .icon--extra-select {
+    height: 20px; 
+    width: 20px;
+    left: 5%;
+  }
+
+  .extra-level {
+    font-size: 20px;
+    margin-left: 16%;
+    top: 40%;
+  }
+
+  .trophy-outline--extra-req {
+    height: 20px;
+    width: 20px;
+    margin-left: 26.5%;
+    margin-top: 93%;
+  }
+    
+  .extra-level--trophy-req {
+    font-size: 10px;
+    margin-left: 21%;
+    margin-top: -12px;
+  } 
+}
+/********************************/

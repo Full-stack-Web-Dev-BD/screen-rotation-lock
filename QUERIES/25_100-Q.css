@@ -1,0 +1,157 @@
+/****************/
+/* Below 1366px */
+/****************/
+
+@media screen and (max-width: 85.375em) and (orientation: landscape) {
+    .icon--twentyfive-hundred {
+      height: 50px;
+      width: 50px;
+    }
+
+    .setting-icon--twenty {
+      height: 50px;
+      width: 50px;
+    }
+
+    .btn--twenty {
+      font-size: 8.5rem;
+    }
+
+    .score-design--twenty {
+      font-size: 22px; 
+    }  
+} 
+
+
+/****************/
+/* Below 1010px */
+/****************/
+
+@media screen and (max-width: 63.125em) and (orientation: landscape) {
+    .icon--twentyfive-hundred {
+      height: 45px;
+      width: 45px;
+    }
+  
+    .setting-icon--twenty {
+      height: 45px;
+      width: 45px;
+    }
+  
+    .btn--twenty {
+      font-size: 8.25rem;
+    }
+  
+    .score-design--twenty {
+      font-size: 20px; 
+    }   
+}
+
+
+/****************/
+/* Below 992px */
+/****************/
+
+@media screen and (max-width: 62em) and (orientation: landscape) {
+    .icon--twentyfive-hundred {
+      height: 40px;
+      width: 40px;
+    }
+  
+    .setting-icon--twenty {
+      height: 40px;
+      width: 40px;
+    }
+  
+    .btn--twenty {
+      font-size: 8rem;
+    }
+  
+    .score-design--twenty {
+      font-size: 19px; 
+    }   
+}
+
+
+/****************/
+/* Below 713px */
+/****************/
+
+@media screen and (max-width: 44.5625em) and (orientation: landscape) {
+    .icon--twentyfive-hundred {
+      height: 30px;
+      width: 30px;
+    }
+  
+    .setting-icon--twenty {
+      height: 30px;
+      width: 30px;
+    }
+  
+    .btn--twenty {
+      font-size: 6rem;
+    }
+  
+    .score-design--twenty {
+      font-size: 18px; 
+    }   
+
+    .twenty-five--hundred {
+      grid-gap: 6px;
+  }
+}
+
+
+/****************/
+/* Below 544px */
+/****************/
+
+@media screen and (max-width: 34em) and (orientation: portrait) {
+    .icon--twentyfive-hundred {
+      height: 22.5px;
+      width: 22.5px;
+    }
+  
+    .setting-icon--twenty {
+      height: 22.5px;
+      width: 22.5px;
+    }
+  
+    .btn--twenty {
+      font-size: 5rem;
+    }
+  
+    .score-design--twenty {
+      font-size: 13px; 
+    }   
+
+    .twenty-five--hundred {
+      grid-gap: 6px;
+  }
+}
+
+
+@media screen and (max-width: 24.625em) and (orientation: portrait) {
+  .icon--twentyfive-hundred {
+    height: 22.5px;
+    width: 22.5px;
+  }
+
+  .setting-icon--twenty {
+    height: 22.5px;
+    width: 22.5px;
+    margin-left: 80%;
+  }
+
+  .btn--twenty {
+    font-size: 5rem;
+  }
+
+  .score-design--twenty {
+    font-size: 13px; 
+  }   
+
+  .twenty-five--hundred {
+    grid-gap: 6px;
+}
+}

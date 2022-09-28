@@ -1,0 +1,169 @@
+/****************/
+/* Below 1366px */
+/****************/
+
+@media screen and (max-width: 85.375em) and (orientation: landscape) {
+    .icon--one-hundred {
+      height: 50px;
+      width: 50px;
+    }
+
+    .setting-icon--one {
+      height: 50px;
+      width: 50px;
+    }
+
+    .btn--one {
+      font-size: 30px;
+    }
+
+    .score-design--one {
+      font-size: 22px; 
+    }  
+} 
+
+
+/****************/
+/* Below 1010px */
+/****************/
+
+@media screen and (max-width: 63.125em) and (orientation: landscape) {
+    .icon--one-hundred {
+      height: 45px;
+      width: 45px;
+    }
+  
+    .setting-icon--one {
+      height: 45px;
+      width: 45px;
+    }
+  
+    .btn--one {
+      font-size: 25px;
+    }
+  
+    .score-design--one {
+      font-size: 20px; 
+    }   
+} 
+
+
+
+/****************/
+/* Below 992px */
+/****************/
+
+@media screen and (max-width: 62em) and (orientation: landscape) {
+    .icon--one-hundred {
+      height: 40px;
+      width: 40px;
+    }
+  
+    .setting-icon--one {
+      height: 40px;
+      width: 40px;
+    }
+  
+    .btn--one {
+      font-size: 20px;
+    }
+  
+    .score-design--one {
+      font-size: 19px; 
+    }   
+}
+
+
+/****************/
+/* Below 713px */
+/****************/
+
+@media screen and (max-width: 44.5625em) and (orientation: landscape) {
+    .icon--one-hundred {
+      height: 30px;
+      width: 30px;
+    }
+  
+    .setting-icon--one {
+      height: 30px;
+      width: 30px;
+    }
+  
+    .btn--one {
+      font-size: 15px
+    }
+  
+    .score-design--one {
+      font-size: 18px; 
+    }   
+}
+
+
+/****************/
+/* Below 544px */
+/****************/
+
+@media screen and (max-width: 34em) and (orientation: portrait) {
+    .icon--one-hundred {
+      height: 22.5px;
+      width: 22.5px;
+    }
+  
+    .setting-icon--one {
+      height: 22.5px;
+      width: 22.5px;
+    }
+  
+    .btn--one {
+      font-size: 8px;
+      height: 60px;
+    }
+  
+    .score-design--one {
+      font-size: 13px; 
+    }   
+}
+
+
+
+@media screen and (max-width: 27.125em) and (orientation: portrait) {
+  .icon--one-hundred {
+    height: 22.5px;
+    width: 22.5px;
+  }
+
+  .setting-icon--one {
+    height: 22.5px;
+    width: 22.5px;
+    margin-left: 79%;
+  }
+
+  .btn--one {
+    font-size: 5.5px;
+  }
+
+  .score-design--one {
+    font-size: 13px; 
+  }   
+}
+
+@media screen and (max-width: 24.5625em) and (orientation: portrait) {
+  .icon--one-hundred {
+    height: 22.5px;
+    width: 22.5px;
+  }
+
+  .setting-icon--one {
+    height: 22.5px;
+    width: 22.5px;
+    margin-left: 79%;
+  }
+
+  .btn--one {
+    font-size: 4.5px;
+  }
+
+  .score-design--one {
+    font-size: 13px; 
+  }   
+}

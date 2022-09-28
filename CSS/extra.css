@@ -1,0 +1,74 @@
+.extra-header {
+    position: relative; 
+}
+  
+.extra-title {
+    text-align: center;
+    font-size: 70px; 
+    text-transform: uppercase;
+    margin-top: 20px;
+}
+
+.trophy-number--extra {
+    position: absolute; 
+    color: #b2bf22;
+    font-size: 30px;
+    top: 20px;
+    right: 11%;
+}
+   
+.trophy-outline--extra-select {
+    color: #b2bf22;  
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    top: 8px;
+    right: 4%;
+}
+   
+.icon--extra-select {
+    height: 40px; 
+    width: 40px;
+    position: absolute;
+    top: 15px;
+    left: 5%;
+}
+  
+.extra-main {
+    position: relative;  
+}
+  
+.extra-level {
+    border: 7.5px groove #cf1b1b;
+    background-color: inherit;
+    color: #eee;
+    font-size: 100px;
+    font-family: inherit;
+    padding: 4.5rem 4.5rem;
+    position: absolute;
+    margin-left: 8%;
+    margin-top: 20%;
+}
+  
+.extra-level:hover {
+    transform: scale(1.01);  
+}
+  
+.extra-level:active {
+    transform: scale(1.005);  
+}
+  
+.trophy-outline--extra-req {
+    color: #d1e312;  
+    height: 32.5px;
+    width: 32.5px;
+    margin-left: 15.5%;
+    margin-top: 53%;
+}
+  
+.extra-level--trophy-req {
+     color: #d1e312; 
+     font-size: 20px;
+     margin-left: 9.75%;
+     margin-top: -22.5px;
+}  

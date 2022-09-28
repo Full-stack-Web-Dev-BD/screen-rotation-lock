@@ -1,0 +1,172 @@
+/****************/
+/* Below 1366px */
+/****************/
+
+@media screen and (max-width: 85.375em) and (orientation: landscape) {
+    .icon--fifty {
+      height: 50px;
+      width: 50px;
+    }
+
+    .btn--five {
+      font-size: 8.5rem;
+    }
+
+    .score-design--five {
+      height: 100px;
+      font-size: 22px;
+    }  
+
+    .setting-icon--fifty {
+      height: 50px;
+      width: 50px;
+    }
+} 
+
+/****************/
+/* Below 1010px */
+/****************/
+
+@media screen and (max-width: 63.125em) and (orientation: landscape) {
+    .icon--fifty {
+      height: 50px;
+      width: 50px;
+    }
+
+    .btn--five {
+      font-size: 8.5rem;
+    }
+
+    .score-design--five {
+      height: 100px;
+      font-size: 22px;
+    }  
+
+    .setting-icon--fifty {
+      height: 50px;
+      width: 50px;
+    }
+} 
+
+
+/****************/
+/* Below 992px */
+/****************/
+
+@media screen and (max-width: 62em) and (orientation: landscape) {
+    .icon--fifty {
+      height: 45px;
+      width: 45px;
+    }
+  
+    .btn--five {
+      font-size: 8.25rem;
+    }
+  
+    .score-design--five {
+      height: 100px;
+      font-size: 20px;
+    }  
+  
+    .setting-icon--fifty {
+      height: 45px;
+      width: 45px;
+    }
+}
+
+
+/****************/
+/* Below 713px-width */
+/****************/
+
+@media screen and (max-width: 44.5625em) and (orientation: landscape) {
+    .icon--fifty {
+      height: 30px;
+      width: 30px;
+    }
+    
+    .btn--five {
+      font-size: 8rem;
+    }
+    
+    .score-design--five {
+       font-size: 18px; 
+    }  
+    
+    .setting-icon--fifty {
+      height: 30px;
+      width: 30px;
+    }
+}
+
+
+/****************/
+/* Below 600px */
+/****************/
+
+@media screen and (max-width: 37.5em) and (orientation: landscape) {
+    .icon--fifty {
+      height: 25px;
+      width: 25px;
+    }
+      
+    .btn--five {
+      font-size: 7.25rem;
+    }
+      
+    .score-design--five {
+      font-size: 15px; 
+    }  
+      
+    .setting-icon--fifty {
+      height: 25px;
+      width: 25px;
+    }
+}
+
+
+/****************/
+/* Below 533px */
+/****************/
+
+@media screen and (max-width: 33.3125em) and (orientation: portrait) {
+    .icon--fifty {
+        height: 20px;
+        width: 20px;
+    }
+        
+    .btn--five {
+        font-size: 6.5rem;
+    }
+      
+    .score-design--five {
+        font-size: 10px; 
+    }  
+        
+    .setting-icon--fifty {
+        height: 20px;
+        width: 20px;
+    }
+}
+
+
+@media screen and (max-width: 25em) and (orientation: portrait) {
+  .icon--fifty {
+      height: 20px;
+      width: 20px;
+  }
+      
+  .btn--five {
+      font-size: 6.5rem;
+  }
+    
+  .score-design--five {
+      font-size: 10px; 
+  }  
+      
+  .setting-icon--fifty {
+      height: 20px;
+      width: 20px;
+      margin-left: 80%;
+  }
+}

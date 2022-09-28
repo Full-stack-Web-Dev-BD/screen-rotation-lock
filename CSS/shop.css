@@ -1,0 +1,87 @@
+.shop-header {
+    position: relative;  
+}
+  
+.shop-title {
+    text-align: center; 
+    font-size: 75px;
+    text-transform: uppercase;
+    margin-top: 20px;
+}
+  
+.trophy-number--menu {
+    position: absolute; 
+    color: #b2bf22;
+    font-size: 30px;
+    top: 14%;
+    right: 10%;
+}
+  
+.trophy-outline--shop-menu {
+    position: absolute;
+    color: #b2bf22;  
+    height: 40px;
+    width: 40px;
+    top: 4%;
+    right: 4%;
+}
+  
+.icon--shop-menu {
+    height: 40px; 
+    width: 40px;
+    position: absolute;
+    top: 2.5%;
+    left: 5%;
+}
+  
+.shop-main {
+    position: relative;  
+}
+  
+.btn--shop {
+    position: absolute;  
+    background-color: inherit;
+    color: #eee; 
+    border: 7.5px solid #eee;
+    font-family: inherit;
+}
+  
+.btn--shop:hover {
+    transform: scale(1.03);
+    background-color: #eee;
+    color: #222;
+    border: 7.5px solid #222;
+}
+  
+.btn--shop:active {
+    transform: scale(1.02);
+    background-color: #eee;
+    color: #222;
+}
+  
+.menu-background {
+    font-size: 3rem;
+    padding: 4rem 3rem;
+    width: 400px;
+    height: 150px;
+    margin-left: 21.5%;
+    margin-top: 80px;
+} 
+  
+.menu-text {
+    font-size: 6rem;
+    padding: 2rem 3rem;
+    width: 400px;
+    height: 150px;
+    margin-left: 21.5%;
+    margin-top: 300px;
+} 
+  
+.menu-extra {
+    font-size: 4.85rem;
+    padding: 2rem 3rem; 
+    width: 400px;
+    height: 150px;
+    margin-left: 21.5%;
+    margin-top: 520px;
+}  

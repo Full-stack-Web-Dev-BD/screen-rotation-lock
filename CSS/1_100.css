@@ -1,0 +1,68 @@
+.hundred-container {
+    display: grid; 
+    grid-template-columns: repeat(10, 7.75%);
+    justify-content: center;
+    grid-gap: 4px;
+    margin-top: 27.5px;
+}
+  
+.btn--one {
+    font-family: inherit;
+    border: 4px ridge #cf1b1b;
+    border-radius: 5px;
+    background-color: #222;
+    color: #eee;
+    padding: 1.5rem 1rem;
+    font-size: 15px;
+    height: 60px;
+}
+  
+.btn--one:hover {
+    border-radius: 7.5px;  
+    border: 4px ridge #fc0505;
+    cursor: pointer;
+}
+  
+.btn--one:active {
+    transform: scale(1.05);
+    border-radius: 7.5px;  
+    border: 4px ridge #fc0505;
+}
+  
+.score-container--ten-hundred {
+    display: flex; 
+    flex-direction: row;
+    justify-content: center;
+}
+      
+.score-design--one {
+    border: 4px ridge #cf1b1b;
+    margin-top: 1.5rem;
+    width: 41.4%;
+    height: 100px;
+    text-align: center;
+    padding-top: 40px;
+    font-size: 18px;
+}  
+  
+.icon--one-hundred {
+    height: 26px;
+    width: 26px;
+    margin-top: 8px;
+    margin-left: 10px;
+}
+      
+.icon--one-hundred:hover {
+    height: 28px;
+    width: 28px;
+    margin-top: 6px;
+    margin-left: 12px;
+}   
+
+.setting-icon--one {
+    color: #D3D3D3;
+    height: 30px;
+    width: 30px;
+    margin-top: 15px;
+    margin-left: 85%;
+}

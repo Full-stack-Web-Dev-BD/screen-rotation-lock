@@ -1,0 +1,3130 @@
+/****************/
+/* Below 1366px */
+/****************/
+  
+@media screen and (max-width: 85.375em) and (orientation: landscape) {
+
+  .text-title {
+    font-size: 70px; 
+    margin-top: 15px;
+  }
+     
+  .trophy-number--text {
+    font-size: 50px;
+    right: 11%;
+  }
+    
+  .trophy-outline--text-select {
+    height: 60px;
+    width: 60px;
+    right: 4%;
+  }
+    
+  .icon--text-select {
+    height: 60px; 
+    width: 60px;
+    left: 5%;
+  }
+  
+  .excess-text {
+    font-size: 5rem;
+    width: 550px;
+    margin-left: 28.5%; 
+    margin-top: 80px;
+  }
+      
+  .elderly-text {
+    font-size: 5rem; 
+    width: 550px;
+    margin-left: 28.5%;
+    margin-top: 300px;
+  }
+      
+  .nuclear-text {
+    font-size: 4.72rem; 
+    width: 550px;
+    margin-left: 28.5%;
+    margin-top: 520px;
+  }  
+
+  .trophy--text-excess {
+    margin-left: 32.5%;
+    margin-top: 16.2%;
+    height: 27.5px;
+    width: 27.5px;
+  }
+    
+  .trophy--text-elderly {
+    margin-left: 32.5%;
+    margin-top: 32.35%;
+    height: 27.5px;
+    width: 27.5px;
+  }
+    
+  .trophy--text-nuclear {
+    margin-left: 32.5%;
+    margin-top: 48.1%;
+    height: 27.5px;
+    width: 27.5px;
+  }
+
+  .trophy-req--excess {
+    margin-left: 30%;
+    margin-top: 17%;
+    font-size: 17.75px;
+  }
+    
+  .trophy-req--elderly {
+    margin-left: 30%;
+    margin-top: 33%;
+    font-size: 17.75px;
+  }
+    
+  .trophy-req--nuclear {
+    margin-left: 30%;
+    margin-top: 48.75%;
+    font-size: 17.5px;
+  }
+    
+}
+
+/****************/
+
+@media screen and (max-width: 82.5em) and (orientation: landscape) {
+
+  .text-title {
+    font-size: 70px; 
+    margin-top: 15px;
+  }
+     
+  .trophy-number--text {
+    font-size: 50px;
+    right: 11%;
+  }
+    
+  .trophy-outline--text-select {
+    height: 60px;
+    width: 60px;
+    right: 4%;
+  }
+    
+  .icon--text-select {
+    height: 60px; 
+    width: 60px;
+    left: 5%;
+  }
+  
+  .excess-text {
+    font-size: 5rem;
+    width: 550px;
+    margin-left: 28.5%; 
+    margin-top: 80px;
+  }
+      
+  .elderly-text {
+    font-size: 5rem; 
+    width: 550px;
+    margin-left: 28.5%;
+    margin-top: 300px;
+  }
+      
+  .nuclear-text {
+    font-size: 4.72rem; 
+    width: 550px;
+    margin-left: 28.5%;
+    margin-top: 520px;
+  }  
+
+  .trophy--text-excess {
+    margin-left: 32.5%;
+    margin-top: 16.7%;
+    height: 27.5px;
+    width: 27.5px;
+  }
+    
+  .trophy--text-elderly {
+    margin-left: 32.5%;
+    margin-top: 33.4%;
+    height: 27.5px;
+    width: 27.5px;
+  }
+    
+  .trophy--text-nuclear {
+    margin-left: 32.5%;
+    margin-top: 49.7%;
+    height: 27.5px;
+    width: 27.5px;
+  }
+
+  .trophy-req--excess {
+    margin-left: 30%;
+    margin-top: 17.5%;
+    font-size: 17.75px;
+  }
+    
+  .trophy-req--elderly {
+    margin-left: 30%;
+    margin-top: 34.2%;
+    font-size: 17.75px;
+  }
+    
+  .trophy-req--nuclear {
+    margin-left: 30%;
+    margin-top: 50.5%;
+    font-size: 17.5px;
+  }
+    
+}
+
+@media screen and (max-width: 79.375em) and (orientation: landscape) {
+
+  .text-title {
+    font-size: 70px; 
+    margin-top: 15px;
+  }
+     
+  .trophy-number--text {
+    font-size: 50px;
+    right: 11%;
+  }
+    
+  .trophy-outline--text-select {
+    height: 60px;
+    width: 60px;
+    right: 4%;
+  }
+    
+  .icon--text-select {
+    height: 60px; 
+    width: 60px;
+    left: 5%;
+  }
+  
+  .excess-text {
+    font-size: 5rem;
+    width: 550px;
+    margin-left: 28.5%; 
+    margin-top: 80px;
+  }
+      
+  .elderly-text {
+    font-size: 5rem; 
+    width: 550px;
+    margin-left: 28.5%;
+    margin-top: 300px;
+  }
+      
+  .nuclear-text {
+    font-size: 4.72rem; 
+    width: 550px;
+    margin-left: 28.5%;
+    margin-top: 520px;
+  }  
+
+  .trophy--text-excess {
+    margin-left: 32.5%;
+    margin-top: 17.4%;
+    height: 27.5px;
+    width: 27.5px;
+  }
+    
+  .trophy--text-elderly {
+    margin-left: 32.5%;
+    margin-top: 34.75%;
+    height: 27.5px;
+    width: 27.5px;
+  }
+    
+  .trophy--text-nuclear {
+    margin-left: 32.5%;
+    margin-top: 51.6%;
+    height: 27.5px;
+    width: 27.5px;
+  }
+
+  .trophy-req--excess {
+    margin-left: 30%;
+    margin-top: 18.2%;
+    font-size: 17.75px;
+  }
+    
+  .trophy-req--elderly {
+    margin-left: 30%;
+    margin-top: 35.5%;
+    font-size: 17.75px;
+  }
+    
+  .trophy-req--nuclear {
+    margin-left: 30%;
+    margin-top: 52.5%;
+    font-size: 17.75px;
+  }
+    
+}
+
+@media screen and (max-width: 75.625em) and (orientation: landscape) {
+
+  .text-title {
+    font-size: 70px; 
+    margin-top: 15px;
+  }
+     
+  .trophy-number--text {
+    font-size: 47.5px;
+    right: 11.5%;
+  }
+    
+  .trophy-outline--text-select {
+    height: 57.5px;
+    width: 57.5px;
+    right: 4%;
+  }
+    
+  .icon--text-select {
+    height: 57.5px; 
+    width: 57.5px;
+    left: 5%;
+  }
+  
+  .excess-text {
+    font-size: 5rem;
+    width: 550px;
+    margin-left: 26.5%; 
+    margin-top: 80px;
+  }
+      
+  .elderly-text {
+    font-size: 5rem; 
+    width: 550px;
+    margin-left: 26.5%;
+    margin-top: 300px;
+  }
+      
+  .nuclear-text {
+    font-size: 4.72rem; 
+    width: 550px;
+    margin-left: 26.5%;
+    margin-top: 520px;
+  }  
+
+  .trophy--text-excess {
+    margin-left: 30.75%;
+    margin-top: 18.2%;
+    height: 27.5px;
+    width: 27.5px;
+  }
+    
+  .trophy--text-elderly {
+    margin-left: 30.75%;
+    margin-top: 36.4%;
+    height: 27.5px;
+    width: 27.5px;
+  }
+    
+  .trophy--text-nuclear {
+    margin-left: 30.75%;
+    margin-top: 54.2%;
+    height: 27.5px;
+    width: 27.5px;
+  }
+
+  .trophy-req--excess {
+    margin-left: 28%;
+    margin-top: 19%;
+    font-size: 17.75px;
+  }
+    
+  .trophy-req--elderly {
+    margin-left: 28%;
+    margin-top: 37.2%;
+    font-size: 17.75px;
+  }
+    
+  .trophy-req--nuclear {
+    margin-left: 28%;
+    margin-top: 55%;
+    font-size: 17.75px;
+  }
+    
+}
+
+@media screen and (max-width: 72.5em) and (orientation: landscape) {
+
+  .text-title {
+    font-size: 70px; 
+    margin-top: 15px;
+  }
+     
+  .trophy-number--text {
+    font-size: 47.5px;
+    right: 11.5%;
+  }
+    
+  .trophy-outline--text-select {
+    height: 57.5px;
+    width: 57.5px;
+    right: 4%;
+  }
+    
+  .icon--text-select {
+    height: 57.5px; 
+    width: 57.5px;
+    left: 5%;
+  }
+  
+  .excess-text {
+    font-size: 5rem;
+    width: 550px;
+    margin-left: 24.5%; 
+    margin-top: 80px;
+  }
+      
+  .elderly-text {
+    font-size: 5rem; 
+    width: 550px;
+    margin-left: 24.5%;
+    margin-top: 300px;
+  }
+      
+  .nuclear-text {
+    font-size: 4.72rem; 
+    width: 550px;
+    margin-left: 24.5%;
+    margin-top: 520px;
+  }  
+
+  .trophy--text-excess {
+    margin-left: 28.75%;
+    margin-top: 19%;
+    height: 27.5px;
+    width: 27.5px;
+  }
+    
+  .trophy--text-elderly {
+    margin-left: 28.75%;
+    margin-top: 38%;
+    height: 27.5px;
+    width: 27.5px;
+  }
+    
+  .trophy--text-nuclear {
+    margin-left: 28.75%;
+    margin-top: 56.5%;
+    height: 27.5px;
+    width: 27.5px;
+  }
+
+  .trophy-req--excess {
+    margin-left: 26%;
+    margin-top: 20%;
+    font-size: 15.75px;
+  }
+    
+  .trophy-req--elderly {
+    margin-left: 26%;
+    margin-top: 39%;
+    font-size: 15.75px;
+  }
+    
+  .trophy-req--nuclear {
+    margin-left: 26%;
+    margin-top: 57.5%;
+    font-size: 15.75px;
+  }
+    
+}
+
+@media screen and (max-width: 66.25em) and (orientation: landscape) {
+
+  .text-title {
+    font-size: 70px; 
+    margin-top: 15px;
+  }
+     
+  .trophy-number--text {
+    font-size: 45px;
+    right: 12%;
+  }
+    
+  .trophy-outline--text-select {
+    height: 55px;
+    width: 55px;
+    right: 4%;
+  }
+    
+  .icon--text-select {
+    height: 55px; 
+    width: 55px;
+    left: 5%;
+  }
+  
+  .excess-text {
+    font-size: 5rem;
+    width: 550px;
+    margin-left: 24.5%; 
+    margin-top: 80px;
+  }
+      
+  .elderly-text {
+    font-size: 5rem; 
+    width: 550px;
+    margin-left: 24.5%;
+    margin-top: 300px;
+  }
+      
+  .nuclear-text {
+    font-size: 4.72rem; 
+    width: 550px;
+    margin-left: 24.5%;
+    margin-top: 520px;
+  }  
+
+  .trophy--text-excess {
+    margin-left: 28.75%;
+    margin-top: 20.8%;
+    height: 27.5px;
+    width: 27.5px;
+  }
+    
+  .trophy--text-elderly {
+    margin-left: 28.75%;
+    margin-top: 41.6%;
+    height: 27.5px;
+    width: 27.5px;
+  }
+    
+  .trophy--text-nuclear {
+    margin-left: 28.75%;
+    margin-top: 61.8%;
+    height: 27.5px;
+    width: 27.5px;
+  }
+
+  .trophy-req--excess {
+    margin-left: 26%;
+    margin-top: 22%;
+    font-size: 15.75px;
+  }
+    
+  .trophy-req--elderly {
+    margin-left: 26%;
+    margin-top: 42.75%;
+    font-size: 15.75px;
+  }
+    
+  .trophy-req--nuclear {
+    margin-left: 26%;
+    margin-top: 63%;
+    font-size: 15.75px;
+  }
+    
+}
+
+@media screen and (max-width: 63.75em) and (orientation: landscape) {
+
+  .text-title {
+    font-size: 70px; 
+    margin-top: 15px;
+  }
+     
+  .trophy-number--text {
+    font-size: 45px;
+    right: 12.5%;
+  }
+    
+  .trophy-outline--text-select {
+    height: 60px;
+    width: 60px;
+    right: 4%;
+  }
+    
+  .icon--text-select {
+    height: 60px; 
+    width: 60px;
+    left: 5%;
+  }
+  
+  .excess-text {
+    font-size: 5rem;
+    width: 550px;
+    margin-left: 23.5%; 
+    margin-top: 80px;
+  }
+      
+  .elderly-text {
+    font-size: 5rem; 
+    width: 550px;
+    margin-left: 23.5%;
+    margin-top: 300px;
+  }
+      
+  .nuclear-text {
+    font-size: 4.72rem; 
+    width: 550px;
+    margin-left: 23.5%;
+    margin-top: 520px;
+  }  
+
+  .trophy--text-excess {
+    margin-left: 28.75%;
+    margin-top: 21.6%;
+    height: 27.5px;
+    width: 27.5px;
+  }
+    
+  .trophy--text-elderly {
+    margin-left: 28.75%;
+    margin-top: 43.2%;
+    height: 27.5px;
+    width: 27.5px;
+  }
+    
+  .trophy--text-nuclear {
+    margin-left: 28.75%;
+    margin-top: 64.2%;
+    height: 27.5px;
+    width: 27.5px;
+  }
+
+  .trophy-req--excess {
+    margin-left: 26%;
+    margin-top: 22.8%;
+    font-size: 15.75px;
+  }
+    
+  .trophy-req--elderly {
+    margin-left: 26%;
+    margin-top: 44.3%;
+    font-size: 15.75px;
+  }
+    
+  .trophy-req--nuclear {
+    margin-left: 26%;
+    margin-top: 65.5%;
+    font-size: 15.75px;
+  }
+    
+}
+
+/****************/
+
+/****************/
+/* Below 992px */
+/****************/
+  
+@media screen and (max-width: 62em) and (orientation: landscape) {
+
+    .text-title {
+      font-size: 70px; 
+      margin-top: 15px;
+    }
+       
+    .trophy-number--text {
+      font-size: 30px;
+      right: 11%;
+    }
+      
+    .trophy-outline--text-select {
+      height: 40px;
+      width: 40px;
+      right: 4%;
+    }
+      
+    .icon--text-select {
+      height: 40px; 
+      width: 40px;
+      left: 5%;
+    }
+    
+    .excess-text {
+        font-size: 5rem;
+        width: 390px;
+        margin-left: 30.75%; 
+        margin-top: 80px;
+    }
+        
+    .elderly-text {
+        font-size: 5rem; 
+        width: 390px;
+        margin-left: 30.75%;
+        margin-top: 300px;
+    }
+        
+    .nuclear-text {
+        font-size: 4.72rem; 
+        width: 390px;
+        margin-left: 30.75%;
+        margin-top: 520px;
+    }  
+
+    .trophy--text-excess {
+        margin-left: 35.25%;
+        margin-top: 22.5%;
+        height: 25px;
+        width: 25px;
+    }
+      
+    .trophy--text-elderly {
+        margin-left: 35.25%;
+        margin-top: 44.75%;
+        height: 25px;
+        width: 25px;
+    }
+      
+    .trophy--text-nuclear {
+        margin-left: 35.25%;
+        margin-top: 66.4%;
+        height: 25px;
+        width: 25px;
+    }
+
+    .trophy-req--excess {
+        margin-left: 32.5%;
+        margin-top: 23.5%;
+        font-size: 15px;
+    }
+      
+    .trophy-req--elderly {
+        margin-left: 32.5%;
+        margin-top: 45.75%;
+        font-size: 15px;
+    }
+      
+    .trophy-req--nuclear {
+        margin-left: 32.5%;
+        margin-top: 67.5%;
+        font-size: 15px;
+    }
+      
+    }
+
+    /****************/
+
+    @media screen and (max-width: 60em) and (orientation: landscape) {
+
+      .text-title {
+        font-size: 70px; 
+        margin-top: 15px;
+      }
+         
+      .trophy-number--text {
+        font-size: 30px;
+        right: 11%;
+      }
+        
+      .trophy-outline--text-select {
+        height: 40px;
+        width: 40px;
+        right: 4%;
+      }
+        
+      .icon--text-select {
+        height: 40px; 
+        width: 40px;
+        left: 5%;
+      }
+      
+      .excess-text {
+          font-size: 5rem;
+          width: 390px;
+          margin-left: 30.75%; 
+          margin-top: 80px;
+      }
+          
+      .elderly-text {
+          font-size: 5rem; 
+          width: 390px;
+          margin-left: 30.75%;
+          margin-top: 300px;
+      }
+          
+      .nuclear-text {
+          font-size: 4.72rem; 
+          width: 390px;
+          margin-left: 30.75%;
+          margin-top: 520px;
+      }  
+  
+      .trophy--text-excess {
+          margin-left: 35%;
+          margin-top: 23.25%;
+          height: 25px;
+          width: 25px;
+      }
+        
+      .trophy--text-elderly {
+          margin-left: 35%;
+          margin-top: 46.25%;
+          height: 25px;
+          width: 25px;
+      }
+        
+      .trophy--text-nuclear {
+          margin-left: 35%;
+          margin-top: 68.6%;
+          height: 25px;
+          width: 25px;
+      }
+  
+      .trophy-req--excess {
+          margin-left: 32%;
+          margin-top: 24.25%;
+          font-size: 15px;
+      }
+        
+      .trophy-req--elderly {
+          margin-left: 32%;
+          margin-top: 47.25%;
+          font-size: 15px;
+      }
+        
+      .trophy-req--nuclear {
+          margin-left: 32%;
+          margin-top: 69.7%;
+          font-size: 15px;
+      }
+        
+    }
+
+    @media screen and (max-width: 58.4375em) and (orientation: landscape) {
+
+      .text-title {
+        font-size: 70px; 
+        margin-top: 15px;
+      }
+         
+      .trophy-number--text {
+        font-size: 30px;
+        right: 11%;
+      }
+        
+      .trophy-outline--text-select {
+        height: 40px;
+        width: 40px;
+        right: 4%;
+      }
+        
+      .icon--text-select {
+        height: 40px; 
+        width: 40px;
+        left: 5%;
+      }
+      
+      .excess-text {
+          font-size: 5rem;
+          width: 390px;
+          margin-left: 28.5%; 
+          margin-top: 80px;
+      }
+          
+      .elderly-text {
+          font-size: 5rem; 
+          width: 390px;
+          margin-left: 28.5%;
+          margin-top: 300px;
+      }
+          
+      .nuclear-text {
+          font-size: 4.72rem; 
+          width: 390px;
+          margin-left: 28.5%;
+          margin-top: 520px;
+      }  
+  
+      .trophy--text-excess {
+          margin-left: 33%;
+          margin-top: 24%;
+          height: 25px;
+          width: 25px;
+      }
+        
+      .trophy--text-elderly {
+          margin-left: 33%;
+          margin-top: 47.75%;
+          height: 25px;
+          width: 25px;
+      }
+        
+      .trophy--text-nuclear {
+          margin-left: 33%;
+          margin-top: 70.75%;
+          height: 25px;
+          width: 25px;
+      }
+  
+      .trophy-req--excess {
+          margin-left: 30%;
+          margin-top: 25.1%;
+          font-size: 15px;
+      }
+        
+      .trophy-req--elderly {
+          margin-left: 30%;
+          margin-top: 48.75%;
+          font-size: 15px;
+      }
+        
+      .trophy-req--nuclear {
+          margin-left: 30%;
+          margin-top: 72%;
+          font-size: 15px;
+      }
+        
+    }
+
+    @media screen and (max-width: 56.25em) and (orientation: landscape) {
+
+      .text-title {
+        font-size: 70px; 
+        margin-top: 15px;
+      }
+         
+      .trophy-number--text {
+        font-size: 30px;
+        right: 11%;
+      }
+        
+      .trophy-outline--text-select {
+        height: 40px;
+        width: 40px;
+        right: 4%;
+      }
+        
+      .icon--text-select {
+        height: 40px; 
+        width: 40px;
+        left: 5%;
+      }
+      
+      .excess-text {
+          font-size: 5rem;
+          width: 390px;
+          margin-left: 28.5%; 
+          margin-top: 80px;
+      }
+          
+      .elderly-text {
+          font-size: 5rem; 
+          width: 390px;
+          margin-left: 28.5%;
+          margin-top: 300px;
+      }
+          
+      .nuclear-text {
+          font-size: 4.72rem; 
+          width: 390px;
+          margin-left: 28.5%;
+          margin-top: 520px;
+      }  
+  
+      .trophy--text-excess {
+          margin-left: 33%;
+          margin-top: 24.75%;
+          height: 25px;
+          width: 25px;
+      }
+        
+      .trophy--text-elderly {
+          margin-left: 33%;
+          margin-top: 49.25%;
+          height: 25px;
+          width: 25px;
+      }
+        
+      .trophy--text-nuclear {
+          margin-left: 33%;
+          margin-top: 73.2%;
+          height: 25px;
+          width: 25px;
+      }
+  
+      .trophy-req--excess {
+          margin-left: 30%;
+          margin-top: 26%;
+          font-size: 15px;
+      }
+        
+      .trophy-req--elderly {
+          margin-left: 30%;
+          margin-top: 50.5%;
+          font-size: 15px;
+      }
+        
+      .trophy-req--nuclear {
+          margin-left: 30%;
+          margin-top: 74.25%;
+          font-size: 15px;
+      }
+        
+    }
+
+    @media screen and (max-width: 54.375em) and (orientation: landscape) {
+
+      .text-title {
+        font-size: 70px; 
+        margin-top: 15px;
+      }
+         
+      .trophy-number--text {
+        font-size: 30px;
+        right: 11%;
+      }
+        
+      .trophy-outline--text-select {
+        height: 40px;
+        width: 40px;
+        right: 4%;
+      }
+        
+      .icon--text-select {
+        height: 40px; 
+        width: 40px;
+        left: 5%;
+      }
+      
+      .excess-text {
+          font-size: 5rem;
+          width: 390px;
+          margin-left: 28.5%; 
+          margin-top: 80px;
+      }
+          
+      .elderly-text {
+          font-size: 5rem; 
+          width: 390px;
+          margin-left: 28.5%;
+          margin-top: 300px;
+      }
+          
+      .nuclear-text {
+          font-size: 4.72rem; 
+          width: 390px;
+          margin-left: 28.5%;
+          margin-top: 520px;
+      }  
+  
+      .trophy--text-excess {
+          margin-left: 33%;
+          margin-top: 25.6%;
+          height: 25px;
+          width: 25px;
+      }
+        
+      .trophy--text-elderly {
+          margin-left: 33%;
+          margin-top: 51%;
+          height: 25px;
+          width: 25px;
+      }
+        
+      .trophy--text-nuclear {
+          margin-left: 33%;
+          margin-top: 75.7%;
+          height: 25px;
+          width: 25px;
+      }
+  
+      .trophy-req--excess {
+          margin-left: 30%;
+          margin-top: 26.8%;
+          font-size: 15px;
+      }
+        
+      .trophy-req--elderly {
+          margin-left: 30%;
+          margin-top: 52.15%;
+          font-size: 15px;
+      }
+        
+      .trophy-req--nuclear {
+          margin-left: 30%;
+          margin-top: 76.85%;
+          font-size: 15px;
+      }
+        
+    }
+
+    @media screen and (max-width: 52.5em) and (orientation: landscape) {
+
+      .text-title {
+        font-size: 70px; 
+        margin-top: 15px;
+      }
+         
+      .trophy-number--text {
+        font-size: 30px;
+        right: 12%;
+      }
+        
+      .trophy-outline--text-select {
+        height: 40px;
+        width: 40px;
+        right: 4%;
+      }
+        
+      .icon--text-select {
+        height: 40px; 
+        width: 40px;
+        left: 5%;
+      }
+      
+      .excess-text {
+          font-size: 5rem;
+          width: 390px;
+          margin-left: 26%; 
+          margin-top: 80px;
+      }
+          
+      .elderly-text {
+          font-size: 5rem; 
+          width: 390px;
+          margin-left: 26%;
+          margin-top: 300px;
+      }
+          
+      .nuclear-text {
+          font-size: 4.72rem; 
+          width: 390px;
+          margin-left: 26%;
+          margin-top: 520px;
+      }  
+  
+      .trophy--text-excess {
+          margin-left: 31.25%;
+          margin-top: 26.6%;
+          height: 25px;
+          width: 25px;
+      }
+        
+      .trophy--text-elderly {
+          margin-left: 31.25%;
+          margin-top: 52.85%;
+          height: 25px;
+          width: 25px;
+      }
+        
+      .trophy--text-nuclear {
+          margin-left: 31.25%;
+          margin-top: 78.5%;
+          height: 25px;
+          width: 25px;
+      }
+  
+      .trophy-req--excess {
+          margin-left: 28%;
+          margin-top: 27.75%;
+          font-size: 15px;
+      }
+        
+      .trophy-req--elderly {
+          margin-left: 28%;
+          margin-top: 54%;
+          font-size: 15px;
+      }
+        
+      .trophy-req--nuclear {
+          margin-left: 28%;
+          margin-top: 79.6%;
+          font-size: 15px;
+      }
+        
+    }
+
+    @media screen and (max-width: 50.625em) and (orientation: landscape) {
+
+      .text-title {
+        font-size: 70px; 
+        margin-top: 15px;
+      }
+         
+      .trophy-number--text {
+        font-size: 30px;
+        right: 12%;
+      }
+        
+      .trophy-outline--text-select {
+        height: 40px;
+        width: 40px;
+        right: 4%;
+      }
+        
+      .icon--text-select {
+        height: 40px; 
+        width: 40px;
+        left: 5%;
+      }
+      
+      .excess-text {
+          font-size: 5rem;
+          width: 390px;
+          margin-left: 26%; 
+          margin-top: 80px;
+      }
+          
+      .elderly-text {
+          font-size: 5rem; 
+          width: 390px;
+          margin-left: 26%;
+          margin-top: 300px;
+      }
+          
+      .nuclear-text {
+          font-size: 4.72rem; 
+          width: 390px;
+          margin-left: 26%;
+          margin-top: 520px;
+      }  
+  
+      .trophy--text-excess {
+          margin-left: 31.25%;
+          margin-top: 27.5%;
+          height: 25px;
+          width: 25px;
+      }
+        
+      .trophy--text-elderly {
+          margin-left: 31.25%;
+          margin-top: 54.75%;
+          height: 25px;
+          width: 25px;
+      }
+        
+      .trophy--text-nuclear {
+          margin-left: 31.25%;
+          margin-top: 81.25%;
+          height: 25px;
+          width: 25px;
+      }
+  
+      .trophy-req--excess {
+          margin-left: 28%;
+          margin-top: 28.75%;
+          font-size: 15px;
+      }
+        
+      .trophy-req--elderly {
+          margin-left: 28%;
+          margin-top: 56%;
+          font-size: 15px;
+      }
+        
+      .trophy-req--nuclear {
+          margin-left: 28%;
+          margin-top: 82.5%;
+          font-size: 15px;
+      }
+        
+    }
+
+    @media screen and (max-width: 48.75em) and (orientation: landscape) {
+
+      .text-title {
+        font-size: 70px; 
+        margin-top: 15px;
+      }
+         
+      .trophy-number--text {
+        font-size: 30px;
+        right: 12%;
+      }
+        
+      .trophy-outline--text-select {
+        height: 40px;
+        width: 40px;
+        right: 4%;
+      }
+        
+      .icon--text-select {
+        height: 40px; 
+        width: 40px;
+        left: 5%;
+      }
+      
+      .excess-text {
+          font-size: 5rem;
+          width: 390px;
+          margin-left: 24%; 
+          margin-top: 80px;
+      }
+          
+      .elderly-text {
+          font-size: 5rem; 
+          width: 390px;
+          margin-left: 24%;
+          margin-top: 300px;
+      }
+          
+      .nuclear-text {
+          font-size: 4.72rem; 
+          width: 390px;
+          margin-left: 24%;
+          margin-top: 520px;
+      }  
+  
+      .trophy--text-excess {
+          margin-left: 30%;
+          margin-top: 28.6%;
+          height: 25px;
+          width: 25px;
+      }
+        
+      .trophy--text-elderly {
+          margin-left: 30%;
+          margin-top: 56.85%;
+          height: 25px;
+          width: 25px;
+      }
+        
+      .trophy--text-nuclear {
+          margin-left: 30%;
+          margin-top: 84.35%;
+          height: 25px;
+          width: 25px;
+      }
+  
+      .trophy-req--excess {
+          margin-left: 26.5%;
+          margin-top: 30%;
+          font-size: 15px;
+      }
+        
+      .trophy-req--elderly {
+          margin-left: 26.5%;
+          margin-top: 58.25%;
+          font-size: 15px;
+      }
+        
+      .trophy-req--nuclear {
+          margin-left: 26.5%;
+          margin-top: 85.75%;
+          font-size: 15px;
+      }
+        
+    }
+
+    @media screen and (max-width: 46.875em) and (orientation: landscape) {
+
+      .text-title {
+        font-size: 70px; 
+        margin-top: 15px;
+      }
+         
+      .trophy-number--text {
+        font-size: 30px;
+        right: 13%;
+      }
+        
+      .trophy-outline--text-select {
+        height: 40px;
+        width: 40px;
+        right: 4%;
+      }
+        
+      .icon--text-select {
+        height: 40px; 
+        width: 40px;
+        left: 5%;
+      }
+      
+      .excess-text {
+          font-size: 5rem;
+          width: 390px;
+          margin-left: 24%; 
+          margin-top: 80px;
+      }
+          
+      .elderly-text {
+          font-size: 5rem; 
+          width: 390px;
+          margin-left: 24%;
+          margin-top: 300px;
+      }
+          
+      .nuclear-text {
+          font-size: 4.72rem; 
+          width: 390px;
+          margin-left: 24%;
+          margin-top: 520px;
+      }  
+  
+      .trophy--text-excess {
+          margin-left: 30%;
+          margin-top: 29.75%;
+          height: 25px;
+          width: 25px;
+      }
+        
+      .trophy--text-elderly {
+          margin-left: 30%;
+          margin-top: 59.4%;
+          height: 25px;
+          width: 25px;
+      }
+        
+      .trophy--text-nuclear {
+          margin-left: 30%;
+          margin-top: 88%;
+          height: 25px;
+          width: 25px;
+      }
+  
+      .trophy-req--excess {
+          margin-left: 26.5%;
+          margin-top: 31.1%;
+          font-size: 15px;
+      }
+        
+      .trophy-req--elderly {
+          margin-left: 26.5%;
+          margin-top: 60.75%;
+          font-size: 15px;
+      }
+        
+      .trophy-req--nuclear {
+          margin-left: 26.5%;
+          margin-top: 89.5%;
+          font-size: 15px;
+      }
+        
+    }
+
+    /****************/
+    
+    
+    /****************/
+    /* Below 713px */
+    /****************/
+    
+    @media screen and (max-width: 44.5625em) and (orientation: landscape) {
+    
+        .text-title {
+          font-size: 60px; 
+          margin-top: 15px;
+        }
+             
+        .trophy-number--text {
+          font-size: 25px;
+          right: 12%;
+        }
+            
+        .trophy-outline--text-select {
+          height: 35px;
+          width: 35px;
+          right: 4%;
+        }
+            
+        .icon--text-select {
+          height: 35px; 
+          width: 35px;
+          left: 5%;
+        }
+          
+        .excess-text {
+          font-size: 5rem;
+          width: 350px;
+          margin-left: 25.5%; 
+          margin-top: 80px;
+        }
+              
+        .elderly-text {
+          font-size: 5rem; 
+          width: 350px;
+          margin-left: 25.5%;
+          margin-top: 300px;
+        }
+              
+        .nuclear-text {
+          font-size: 4.72rem; 
+          width: 350px;
+          margin-left: 25.5%;
+          margin-top: 520px;
+        }  
+      
+        .trophy--text-excess {
+          margin-left: 31%;
+          margin-top: 31.4%;
+          height: 22.5px;
+          width: 22.5px;
+        }
+            
+        .trophy--text-elderly {
+          margin-left: 31%;
+          margin-top: 62.3%;
+          height: 22.5px;
+          width: 22.5px;
+        }
+            
+        .trophy--text-nuclear {
+          margin-left: 31%;
+          margin-top: 92.35%;
+          height: 22.5px;
+          width: 22.5px;
+        }
+      
+        .trophy-req--excess {
+          margin-left: 27.5%;
+          margin-top: 32.75%;
+          font-size: 12.5px;
+        }
+            
+        .trophy-req--elderly {
+          margin-left: 27.5%;
+          margin-top: 63.5%;
+          font-size: 12.5px;
+        }
+            
+        .trophy-req--nuclear {
+          margin-left: 27.5%;
+          margin-top: 93.6%;
+          font-size: 12.5px;
+        } 
+    
+    }
+
+      /****************/
+
+      @media screen and (max-width: 43.125em) and (orientation: landscape) {
+    
+        .text-title {
+          font-size: 60px; 
+          margin-top: 15px;
+        }
+             
+        .trophy-number--text {
+          font-size: 25px;
+          right: 12%;
+        }
+            
+        .trophy-outline--text-select {
+          height: 35px;
+          width: 35px;
+          right: 4%;
+        }
+            
+        .icon--text-select {
+          height: 35px; 
+          width: 35px;
+          left: 5%;
+        }
+          
+        .excess-text {
+          font-size: 5rem;
+          width: 350px;
+          margin-left: 25.5%; 
+          margin-top: 80px;
+        }
+              
+        .elderly-text {
+          font-size: 5rem; 
+          width: 350px;
+          margin-left: 25.5%;
+          margin-top: 300px;
+        }
+              
+        .nuclear-text {
+          font-size: 4.72rem; 
+          width: 350px;
+          margin-left: 25.5%;
+          margin-top: 520px;
+        }  
+      
+        .trophy--text-excess {
+          margin-left: 31%;
+          margin-top: 32.5%;
+          height: 22.5px;
+          width: 22.5px;
+        }
+            
+        .trophy--text-elderly {
+          margin-left: 31%;
+          margin-top: 64.65%;
+          height: 22.5px;
+          width: 22.5px;
+        }
+            
+        .trophy--text-nuclear {
+          margin-left: 31%;
+          margin-top: 95.8%;
+          height: 22.5px;
+          width: 22.5px;
+        }
+      
+        .trophy-req--excess {
+          margin-left: 27.5%;
+          margin-top: 34%;
+          font-size: 12.5px;
+        }
+            
+        .trophy-req--elderly {
+          margin-left: 27.5%;
+          margin-top: 66%;
+          font-size: 12.5px;
+        }
+            
+        .trophy-req--nuclear {
+          margin-left: 27.5%;
+          margin-top: 97.25%;
+          font-size: 12.5px;
+        } 
+    
+      }
+
+      @media screen and (max-width: 41.25em) and (orientation: landscape) {
+    
+        .text-title {
+          font-size: 60px; 
+          margin-top: 15px;
+        }
+             
+        .trophy-number--text {
+          font-size: 25px;
+          right: 12%;
+        }
+            
+        .trophy-outline--text-select {
+          height: 35px;
+          width: 35px;
+          right: 4%;
+        }
+            
+        .icon--text-select {
+          height: 35px; 
+          width: 35px;
+          left: 5%;
+        }
+          
+        .excess-text {
+          font-size: 5rem;
+          width: 350px;
+          margin-left: 25.5%; 
+          margin-top: 80px;
+        }
+              
+        .elderly-text {
+          font-size: 5rem; 
+          width: 350px;
+          margin-left: 25.5%;
+          margin-top: 300px;
+        }
+              
+        .nuclear-text {
+          font-size: 4.72rem; 
+          width: 350px;
+          margin-left: 25.5%;
+          margin-top: 520px;
+        }  
+      
+        .trophy--text-excess {
+          margin-left: 31%;
+          margin-top: 34.1%;
+          height: 22.5px;
+          width: 22.5px;
+        }
+            
+        .trophy--text-elderly {
+          margin-left: 31%;
+          margin-top: 67.5%;
+          height: 22.5px;
+          width: 22.5px;
+        }
+            
+        .trophy--text-nuclear {
+          margin-left: 31%;
+          margin-top: 100%;
+          height: 22.5px;
+          width: 22.5px;
+        }
+      
+        .trophy-req--excess {
+          margin-left: 27.5%;
+          margin-top: 35.75%;
+          font-size: 12.5px;
+        }
+            
+        .trophy-req--elderly {
+          margin-left: 27.5%;
+          margin-top: 69%;
+          font-size: 12.5px;
+        }
+            
+        .trophy-req--nuclear {
+          margin-left: 27.5%;
+          margin-top: 101.5%;
+          font-size: 12.5px;
+        } 
+    
+      }
+
+      @media screen and (max-width: 39.375em) and (orientation: landscape) {
+    
+        .text-title {
+          font-size: 60px; 
+          margin-top: 15px;
+        }
+             
+        .trophy-number--text {
+          font-size: 25px;
+          right: 12%;
+        }
+            
+        .trophy-outline--text-select {
+          height: 35px;
+          width: 35px;
+          right: 4%;
+        }
+            
+        .icon--text-select {
+          height: 35px; 
+          width: 35px;
+          left: 5%;
+        }
+          
+        .excess-text {
+          font-size: 5rem;
+          width: 350px;
+          margin-left: 21.5%; 
+          margin-top: 80px;
+        }
+              
+        .elderly-text {
+          font-size: 5rem; 
+          width: 350px;
+          margin-left: 21.5%;
+          margin-top: 300px;
+        }
+              
+        .nuclear-text {
+          font-size: 4.72rem; 
+          width: 350px;
+          margin-left: 21.5%;
+          margin-top: 520px;
+        }  
+      
+        .trophy--text-excess {
+          margin-left: 27.5%;
+          margin-top: 35.75%;
+          height: 22.5px;
+          width: 22.5px;
+        }
+            
+        .trophy--text-elderly {
+          margin-left: 27.5%;
+          margin-top: 70.8%;
+          height: 22.5px;
+          width: 22.5px;
+        }
+            
+        .trophy--text-nuclear {
+          margin-left: 27.5%;
+          margin-top: 105%;
+          height: 22.5px;
+          width: 22.5px;
+        }
+      
+        .trophy-req--excess {
+          margin-left: 24%;
+          margin-top: 37.4%;
+          font-size: 12.5px;
+        }
+            
+        .trophy-req--elderly {
+          margin-left: 24%;
+          margin-top: 72.5%;
+          font-size: 12.5px;
+        }
+            
+        .trophy-req--nuclear {
+          margin-left: 24%;
+          margin-top: 106.5%;
+          font-size: 12.5px;
+        } 
+    
+      }
+
+      @media screen and (max-width: 37.5em) and (orientation: landscape) {
+    
+        .text-title {
+          font-size: 60px; 
+          margin-top: 15px;
+        }
+             
+        .trophy-number--text {
+          font-size: 25px;
+          right: 12.5%;
+        }
+            
+        .trophy-outline--text-select {
+          height: 35px;
+          width: 35px;
+          right: 4%;
+        }
+            
+        .icon--text-select {
+          height: 35px; 
+          width: 35px;
+          left: 5%;
+        }
+          
+        .excess-text {
+          font-size: 5rem;
+          width: 350px;
+          margin-left: 19.5%; 
+          margin-top: 80px;
+        }
+              
+        .elderly-text {
+          font-size: 5rem; 
+          width: 350px;
+          margin-left: 19.5%;
+          margin-top: 300px;
+        }
+              
+        .nuclear-text {
+          font-size: 4.72rem; 
+          width: 350px;
+          margin-left: 19.5%;
+          margin-top: 520px;
+        }  
+      
+        .trophy--text-excess {
+          margin-left: 26%;
+          margin-top: 37.5%;
+          height: 22.5px;
+          width: 22.5px;
+        }
+            
+        .trophy--text-elderly {
+          margin-left: 26%;
+          margin-top: 74.3%;
+          height: 22.5px;
+          width: 22.5px;
+        }
+            
+        .trophy--text-nuclear {
+          margin-left: 26%;
+          margin-top: 110.25%;
+          height: 22.5px;
+          width: 22.5px;
+        }
+      
+        .trophy-req--excess {
+          margin-left: 22%;
+          margin-top: 39.25%;
+          font-size: 12.5px;
+        }
+            
+        .trophy-req--elderly {
+          margin-left: 22%;
+          margin-top: 76%;
+          font-size: 12.5px;
+        }
+            
+        .trophy-req--nuclear {
+          margin-left: 22%;
+          margin-top: 112%;
+          font-size: 12.5px;
+        } 
+    
+      }
+
+      @media screen and (max-width: 35.9375em) and (orientation: landscape) {
+    
+        .text-title {
+          font-size: 60px; 
+          margin-top: 15px;
+        }
+             
+        .trophy-number--text {
+          font-size: 25px;
+          right: 13%;
+        }
+            
+        .trophy-outline--text-select {
+          height: 35px;
+          width: 35px;
+          right: 4%;
+        }
+            
+        .icon--text-select {
+          height: 35px; 
+          width: 35px;
+          left: 5%;
+        }
+          
+        .excess-text {
+          font-size: 5rem;
+          width: 350px;
+          margin-left: 19.5%; 
+          margin-top: 80px;
+        }
+              
+        .elderly-text {
+          font-size: 5rem; 
+          width: 350px;
+          margin-left: 19.5%;
+          margin-top: 300px;
+        }
+              
+        .nuclear-text {
+          font-size: 4.72rem; 
+          width: 350px;
+          margin-left: 19.5%;
+          margin-top: 520px;
+        }  
+      
+        .trophy--text-excess {
+          margin-left: 26%;
+          margin-top: 39.25%;
+          height: 22.5px;
+          width: 22.5px;
+        }
+            
+        .trophy--text-elderly {
+          margin-left: 26%;
+          margin-top: 77.7%;
+          height: 22.5px;
+          width: 22.5px;
+        }
+            
+        .trophy--text-nuclear {
+          margin-left: 26%;
+          margin-top: 115%;
+          height: 22.5px;
+          width: 22.5px;
+        }
+      
+        .trophy-req--excess {
+          margin-left: 22%;
+          margin-top: 40.9%;
+          font-size: 12.5px;
+        }
+            
+        .trophy-req--elderly {
+          margin-left: 22%;
+          margin-top: 79.5%;
+          font-size: 12.5px;
+        }
+            
+        .trophy-req--nuclear {
+          margin-left: 22%;
+          margin-top: 116.75%;
+          font-size: 12.5px;
+        } 
+    
+      }
+
+      /****************/
+    
+    
+    /****************/
+    /* Below 544px */
+    /****************/
+    
+    @media screen and (max-width: 34em) and (orientation: portrait) {
+    
+        .text-title {
+          font-size: 45px; 
+          margin-top: 15px;
+        }
+               
+        .trophy-number--text {
+          font-size: 20px;
+          right: 13%;
+        }
+              
+        .trophy-outline--text-select {
+          height: 30px;
+          width: 30px;
+          right: 4%;
+        }
+              
+        .icon--text-select {
+          height: 30px; 
+          width: 30px;
+          left: 5%;
+        }
+            
+        .excess-text {
+          font-size: 4.5rem;
+          width: 300px;
+          margin-left: 22%; 
+          margin-top: 80px;
+        }
+                
+        .elderly-text {
+          font-size: 4.5rem; 
+          width: 300px;
+          margin-left: 22%;
+          margin-top: 300px;
+        }
+                
+        .nuclear-text {
+          font-size: 4.248rem; 
+          width: 300px;
+          margin-left: 22%;
+          margin-top: 520px;
+        }  
+        
+        .trophy--text-excess {
+          margin-left: 29%;
+          margin-top: 39.5%;
+          height: 22.5px;
+          width: 22.5px;
+        }
+              
+        .trophy--text-elderly {
+          margin-left: 29%;
+          margin-top: 80.25%;
+          height: 22.5px;
+          width: 22.5px;
+        }
+              
+        .trophy--text-nuclear {
+          margin-left: 29%;
+          margin-top: 119.75%;
+          height: 22.5px;
+          width: 22.5px;
+        }
+        
+        .trophy-req--excess {
+          margin-left: 24.25%;
+          margin-top: 41.25%;
+          font-size: 12.5px;
+        }
+              
+        .trophy-req--elderly {
+          margin-left: 24.25%;
+          margin-top: 81.75%;
+          font-size: 12.5px;
+        }
+              
+        .trophy-req--nuclear {
+          margin-left: 24.25%;
+          margin-top: 121.25%;
+          font-size: 12.5px;
+        } 
+
+    }
+
+
+    /****************/
+
+    @media screen and (max-width: 32.8125em) and (orientation: portrait) {
+    
+      .text-title {
+        font-size: 45px; 
+        margin-top: 15px;
+      }
+             
+      .trophy-number--text {
+        font-size: 20px;
+        right: 13%;
+      }
+            
+      .trophy-outline--text-select {
+        height: 30px;
+        width: 30px;
+        right: 4%;
+      }
+            
+      .icon--text-select {
+        height: 30px; 
+        width: 30px;
+        left: 5%;
+      }
+          
+      .excess-text {
+        font-size: 4.5rem;
+        width: 300px;
+        margin-left: 22%; 
+        margin-top: 80px;
+      }
+              
+      .elderly-text {
+        font-size: 4.5rem; 
+        width: 300px;
+        margin-left: 22%;
+        margin-top: 300px;
+      }
+              
+      .nuclear-text {
+        font-size: 4.248rem; 
+        width: 300px;
+        margin-left: 22%;
+        margin-top: 520px;
+      }  
+      
+      .trophy--text-excess {
+        margin-left: 29%;
+        margin-top: 41.5%;
+        height: 22.5px;
+        width: 22.5px;
+      }
+            
+      .trophy--text-elderly {
+        margin-left: 29%;
+        margin-top: 83.75%;
+        height: 22.5px;
+        width: 22.5px;
+      }
+            
+      .trophy--text-nuclear {
+        margin-left: 29%;
+        margin-top: 124.5%;
+        height: 22.5px;
+        width: 22.5px;
+      }
+      
+      .trophy-req--excess {
+        margin-left: 24.25%;
+        margin-top: 43.4%;
+        font-size: 12.5px;
+      }
+            
+      .trophy-req--elderly {
+        margin-left: 24.25%;
+        margin-top: 85.7%;
+        font-size: 12.5px;
+      }
+            
+      .trophy-req--nuclear {
+        margin-left: 24.25%;
+        margin-top: 126.7%;
+        font-size: 12.5px;
+      } 
+
+  } 
+  
+  @media screen and (max-width: 31.5em) and (orientation: portrait) {
+    
+    .text-title {
+      font-size: 45px; 
+      margin-top: 15px;
+    }
+           
+    .trophy-number--text {
+      font-size: 20px;
+      right: 13%;
+    }
+          
+    .trophy-outline--text-select {
+      height: 30px;
+      width: 30px;
+      right: 4%;
+    }
+          
+    .icon--text-select {
+      height: 30px; 
+      width: 30px;
+      left: 5%;
+    }
+        
+    .excess-text {
+      font-size: 4.5rem;
+      width: 300px;
+      margin-left: 22%; 
+      margin-top: 80px;
+    }
+            
+    .elderly-text {
+      font-size: 4.5rem; 
+      width: 300px;
+      margin-left: 22%;
+      margin-top: 300px;
+    }
+            
+    .nuclear-text {
+      font-size: 4.248rem; 
+      width: 300px;
+      margin-left: 22%;
+      margin-top: 520px;
+    }  
+    
+    .trophy--text-excess {
+      margin-left: 29%;
+      margin-top: 43.25%;
+      height: 22.5px;
+      width: 22.5px;
+    }
+          
+    .trophy--text-elderly {
+      margin-left: 29%;
+      margin-top: 87.2%;
+      height: 22.5px;
+      width: 22.5px;
+    }
+          
+    .trophy--text-nuclear {
+      margin-left: 29%;
+      margin-top: 129.75%;
+      height: 22.5px;
+      width: 22.5px;
+    }
+    
+    .trophy-req--excess {
+      margin-left: 24.25%;
+      margin-top: 45%;
+      font-size: 12.5px;
+    }
+          
+    .trophy-req--elderly {
+      margin-left: 24.25%;
+      margin-top: 89%;
+      font-size: 12.5px;
+    }
+          
+    .trophy-req--nuclear {
+      margin-left: 24.25%;
+      margin-top: 131.75%;
+      font-size: 12.5px;
+    } 
+
+  } 
+
+  @media screen and (max-width: 30.25em) and (orientation: portrait) {
+    
+    .text-title {
+      font-size: 45px; 
+      margin-top: 15px;
+    }
+           
+    .trophy-number--text {
+      font-size: 20px;
+      right: 13%;
+    }
+          
+    .trophy-outline--text-select {
+      height: 30px;
+      width: 30px;
+      right: 4%;
+    }
+          
+    .icon--text-select {
+      height: 30px; 
+      width: 30px;
+      left: 5%;
+    }
+        
+    .excess-text {
+      font-size: 4.5rem;
+      width: 300px;
+      margin-left: 18.5%; 
+      margin-top: 80px;
+    }
+            
+    .elderly-text {
+      font-size: 4.5rem; 
+      width: 300px;
+      margin-left: 18.5%;
+      margin-top: 300px;
+    }
+            
+    .nuclear-text {
+      font-size: 4.248rem; 
+      width: 300px;
+      margin-left: 18.5%;
+      margin-top: 520px;
+    }  
+    
+    .trophy--text-excess {
+      margin-left: 26.75%;
+      margin-top: 44.9%;
+      height: 22.5px;
+      width: 22.5px;
+    }
+          
+    .trophy--text-elderly {
+      margin-left: 26.75%;
+      margin-top: 90.75%;
+      height: 22.5px;
+      width: 22.5px;
+    }
+          
+    .trophy--text-nuclear {
+      margin-left: 26.75%;
+      margin-top: 135%;
+      height: 22.5px;
+      width: 22.5px;
+    }
+    
+    .trophy-req--excess {
+      margin-left: 22%;
+      margin-top: 47.1%;
+      font-size: 12.5px;
+    }
+          
+    .trophy-req--elderly {
+      margin-left: 22%;
+      margin-top: 92.75%;
+      font-size: 12.5px;
+    }
+          
+    .trophy-req--nuclear {
+      margin-left: 22%;
+      margin-top: 137.2%;
+      font-size: 12.5px;
+    } 
+
+  } 
+
+  @media screen and (max-width: 29em) and (orientation: portrait) {
+    
+    .text-title {
+      font-size: 45px; 
+      margin-top: 15px;
+    }
+           
+    .trophy-number--text {
+      font-size: 20px;
+      right: 13%;
+    }
+          
+    .trophy-outline--text-select {
+      height: 30px;
+      width: 30px;
+      right: 4%;
+    }
+          
+    .icon--text-select {
+      height: 30px; 
+      width: 30px;
+      left: 5%;
+    }
+        
+    .excess-text {
+      font-size: 4.5rem;
+      width: 300px;
+      margin-left: 18.5%; 
+      margin-top: 80px;
+    }
+            
+    .elderly-text {
+      font-size: 4.5rem; 
+      width: 300px;
+      margin-left: 18.5%;
+      margin-top: 300px;
+    }
+            
+    .nuclear-text {
+      font-size: 4.248rem; 
+      width: 300px;
+      margin-left: 18.5%;
+      margin-top: 520px;
+    }  
+    
+    .trophy--text-excess {
+      margin-left: 26.75%;
+      margin-top: 47%;
+      height: 22.5px;
+      width: 22.5px;
+    }
+          
+    .trophy--text-elderly {
+      margin-left: 26.75%;
+      margin-top: 94.75%;
+      height: 22.5px;
+      width: 22.5px;
+    }
+          
+    .trophy--text-nuclear {
+      margin-left: 26.75%;
+      margin-top: 141%;
+      height: 22.5px;
+      width: 22.5px;
+    }
+    
+    .trophy-req--excess {
+      margin-left: 22%;
+      margin-top: 49%;
+      font-size: 12.5px;
+    }
+          
+    .trophy-req--elderly {
+      margin-left: 22%;
+      margin-top: 96.75%;
+      font-size: 12.5px;
+    }
+          
+    .trophy-req--nuclear {
+      margin-left: 22%;
+      margin-top: 143.25%;
+      font-size: 12.5px;
+    } 
+
+  } 
+
+  @media screen and (max-width: 27.75em) and (orientation: portrait) {
+    
+    .text-title {
+      font-size: 45px; 
+      margin-top: 15px;
+    }
+           
+    .trophy-number--text {
+      font-size: 20px;
+      right: 13.5%;
+    }
+          
+    .trophy-outline--text-select {
+      height: 30px;
+      width: 30px;
+      right: 4%;
+    }
+          
+    .icon--text-select {
+      height: 30px; 
+      width: 30px;
+      left: 5%;
+    }
+        
+    .excess-text {
+      font-size: 4.5rem;
+      width: 300px;
+      margin-left: 18.5%; 
+      margin-top: 80px;
+    }
+            
+    .elderly-text {
+      font-size: 4.5rem; 
+      width: 300px;
+      margin-left: 18.5%;
+      margin-top: 300px;
+    }
+            
+    .nuclear-text {
+      font-size: 4.248rem; 
+      width: 300px;
+      margin-left: 18.5%;
+      margin-top: 520px;
+    }  
+    
+    .trophy--text-excess {
+      margin-left: 26.75%;
+      margin-top: 49%;
+      height: 22.5px;
+      width: 22.5px;
+    }
+          
+    .trophy--text-elderly {
+      margin-left: 26.75%;
+      margin-top: 98.75%;
+      height: 22.5px;
+      width: 22.5px;
+    }
+          
+    .trophy--text-nuclear {
+      margin-left: 26.75%;
+      margin-top: 147.15%;
+      height: 22.5px;
+      width: 22.5px;
+    }
+    
+    .trophy-req--excess {
+      margin-left: 22%;
+      margin-top: 51.25%;
+      font-size: 12.5px;
+    }
+          
+    .trophy-req--elderly {
+      margin-left: 22%;
+      margin-top: 101.1%;
+      font-size: 12.5px;
+    }
+          
+    .trophy-req--nuclear {
+      margin-left: 22%;
+      margin-top: 149.5%;
+      font-size: 12.5px;
+    } 
+
+  } 
+
+  @media screen and (max-width: 26.5em) and (orientation: portrait) {
+    
+    .text-title {
+      font-size: 45px; 
+      margin-top: 15px;
+    }
+           
+    .trophy-number--text {
+      font-size: 20px;
+      right: 13.5%;
+    }
+          
+    .trophy-outline--text-select {
+      height: 30px;
+      width: 30px;
+      right: 4%;
+    }
+          
+    .icon--text-select {
+      height: 30px; 
+      width: 30px;
+      left: 5%;
+    }
+        
+    .excess-text {
+      font-size: 4.5rem;
+      width: 300px;
+      margin-left: 14%; 
+      margin-top: 80px;
+    }
+            
+    .elderly-text {
+      font-size: 4.5rem; 
+      width: 300px;
+      margin-left: 14%;
+      margin-top: 300px;
+    }
+            
+    .nuclear-text {
+      font-size: 4.248rem; 
+      width: 300px;
+      margin-left: 14%;
+      margin-top: 520px;
+    }  
+    
+    .trophy--text-excess {
+      margin-left: 24%;
+      margin-top: 51.25%;
+      height: 22.5px;
+      width: 22.5px;
+    }
+          
+    .trophy--text-elderly {
+      margin-left: 24%;
+      margin-top: 103.4%;
+      height: 22.5px;
+      width: 22.5px;
+    }
+          
+    .trophy--text-nuclear {
+      margin-left: 24%;
+      margin-top: 154.25%;
+      height: 22.5px;
+      width: 22.5px;
+    }
+    
+    .trophy-req--excess {
+      margin-left: 19%;
+      margin-top: 53.75%;
+      font-size: 12.5px;
+    }
+          
+    .trophy-req--elderly {
+      margin-left: 19%;
+      margin-top: 105.9%;
+      font-size: 12.5px;
+    }
+          
+    .trophy-req--nuclear {
+      margin-left: 19%;
+      margin-top: 157%;
+      font-size: 12.5px;
+    } 
+
+  } 
+
+  @media screen and (max-width: 25.25em) and (orientation: portrait) {
+    
+    .text-title {
+      font-size: 45px; 
+      margin-top: 15px;
+    }
+           
+    .trophy-number--text {
+      font-size: 20px;
+      right: 14%;
+    }
+          
+    .trophy-outline--text-select {
+      height: 30px;
+      width: 30px;
+      right: 4%;
+    }
+          
+    .icon--text-select {
+      height: 30px; 
+      width: 30px;
+      left: 5%;
+    }
+        
+    .excess-text {
+      font-size: 4.5rem;
+      width: 275px;
+      margin-left: 14%; 
+      margin-top: 80px;
+    }
+            
+    .elderly-text {
+      font-size: 4.5rem; 
+      width: 275px;
+      margin-left: 14%;
+      margin-top: 300px;
+    }
+            
+    .nuclear-text {
+      font-size: 3.9rem; 
+      width: 275px;
+      margin-left: 14%;
+      margin-top: 520px;
+    }  
+    
+    .trophy--text-excess {
+      margin-left: 24%;
+      margin-top: 54.25%;
+      height: 20.5px;
+      width: 20.5px;
+    }
+          
+    .trophy--text-elderly {
+      margin-left: 24%;
+      margin-top: 109%;
+      height: 20.5px;
+      width: 20.5px;
+    }
+          
+    .trophy--text-nuclear {
+      margin-left: 24%;
+      margin-top: 161%;
+      height: 20.5px;
+      width: 20.5px;
+    }
+    
+    .trophy-req--excess {
+      margin-left: 19%;
+      margin-top: 56.5%;
+      font-size: 11.5px;
+    }
+          
+    .trophy-req--elderly {
+      margin-left: 19%;
+      margin-top: 111.25%;
+      font-size: 11.5px;
+    }
+          
+    .trophy-req--nuclear {
+      margin-left: 19%;
+      margin-top: 163.3%;
+      font-size: 11.5px;
+    } 
+
+  } 
+
+  @media screen and (max-width: 24em) and (orientation: portrait) {
+    
+    .text-title {
+      font-size: 40px; 
+      margin-top: 15px;
+    }
+           
+    .trophy-number--text {
+      font-size: 20px;
+      right: 15%;
+    }
+          
+    .trophy-outline--text-select {
+      height: 30px;
+      width: 30px;
+      right: 4%;
+    }
+          
+    .icon--text-select {
+      height: 30px; 
+      width: 30px;
+      left: 5%;
+    }
+        
+    .excess-text {
+      font-size: 4.5rem;
+      width: 275px;
+      margin-left: 12.5%; 
+      margin-top: 80px;
+    }
+            
+    .elderly-text {
+      font-size: 4.5rem; 
+      width: 275px;
+      margin-left: 12.5%;
+      margin-top: 300px;
+    }
+            
+    .nuclear-text {
+      font-size: 3.9rem; 
+      width: 275px;
+      margin-left: 12.5%;
+      margin-top: 520px;
+    }  
+    
+    .trophy--text-excess {
+      margin-left: 22.75%;
+      margin-top: 57.05%;
+      height: 20.5px;
+      width: 20.5px;
+    }
+          
+    .trophy--text-elderly {
+      margin-left: 22.75%;
+      margin-top: 114.75%;
+      height: 20.5px;
+      width: 20.5px;
+    }
+          
+    .trophy--text-nuclear {
+      margin-left: 22.75%;
+      margin-top: 169.25%;
+      height: 20.5px;
+      width: 20.5px;
+    }
+    
+    .trophy-req--excess {
+      margin-left: 17.5%;
+      margin-top: 59.5%;
+      font-size: 11.5px;
+    }
+          
+    .trophy-req--elderly {
+      margin-left: 17.5%;
+      margin-top: 117.2%;
+      font-size: 11.5px;
+    }
+          
+    .trophy-req--nuclear {
+      margin-left: 17.5%;
+      margin-top: 171.75%;
+      font-size: 11.5px;
+    } 
+
+  } 
+
+  @media screen and (max-width: 22.5em) and (orientation: portrait) {
+    
+    .text-title {
+      font-size: 35px; 
+      margin-top: 28px;
+    }
+           
+    .trophy-number--text {
+      font-size: 15px;
+      right: 14%;
+    }
+          
+    .trophy-outline--text-select {
+      height: 25px;
+      width: 25px;
+      right: 4%;
+    }
+          
+    .icon--text-select {
+      height: 25px; 
+      width: 25px;
+      left: 5%;
+    }
+        
+    .excess-text {
+      font-size: 4rem;
+      width: 250px;
+      margin-left: 13.5%; 
+      margin-top: 80px;
+    }
+            
+    .elderly-text {
+      font-size: 4.5rem; 
+      width: 250px;
+      margin-left: 13.5%;
+      margin-top: 300px;
+    }
+            
+    .nuclear-text {
+      font-size: 3.4rem; 
+      width: 250px;
+      margin-left: 13.5%;
+      margin-top: 520px;
+    }  
+    
+    .trophy--text-excess {
+      margin-left: 22.75%;
+      margin-top: 59.1%;
+      height: 19px;
+      width: 19px;
+    }
+          
+    .trophy--text-elderly {
+      margin-left: 22.75%;
+      margin-top: 122.6%;
+      height: 19px;
+      width: 19px;
+    }
+          
+    .trophy--text-nuclear {
+      margin-left: 22.75%;
+      margin-top: 179%;
+      height: 19px;
+      width: 19px;
+    }
+    
+    .trophy-req--excess {
+      margin-left: 18%;
+      margin-top: 61.65%;
+      font-size: 10px;
+    }
+          
+    .trophy-req--elderly {
+      margin-left: 18%;
+      margin-top: 125.2%;
+      font-size: 10px;
+    }
+          
+    .trophy-req--nuclear {
+      margin-left: 18%;
+      margin-top: 181.35%;
+      font-size: 10px;
+    } 
+
+  } 
+
+  @media screen and (max-width: 21.875em) and (orientation: portrait) {
+    
+    .text-title {
+      font-size: 35px; 
+      margin-top: 28px;
+    }
+           
+    .trophy-number--text {
+      font-size: 15px;
+      right: 14%;
+    }
+          
+    .trophy-outline--text-select {
+      height: 25px;
+      width: 25px;
+      right: 4%;
+    }
+          
+    .icon--text-select {
+      height: 25px; 
+      width: 25px;
+      left: 5%;
+    }
+        
+    .excess-text {
+      font-size: 4rem;
+      width: 250px;
+      margin-left: 13.5%; 
+      margin-top: 80px;
+    }
+            
+    .elderly-text {
+      font-size: 4.5rem; 
+      width: 250px;
+      margin-left: 13.5%;
+      margin-top: 300px;
+    }
+            
+    .nuclear-text {
+      font-size: 3.4rem; 
+      width: 250px;
+      margin-left: 13.5%;
+      margin-top: 520px;
+    }  
+    
+    .trophy--text-excess {
+      margin-left: 22.75%;
+      margin-top: 60.75%;
+      height: 19px;
+      width: 19px;
+    }
+          
+    .trophy--text-elderly {
+      margin-left: 22.75%;
+      margin-top: 126.25%;
+      height: 19px;
+      width: 19px;
+    }
+          
+    .trophy--text-nuclear {
+      margin-left: 22.75%;
+      margin-top: 184%;
+      height: 19px;
+      width: 19px;
+    }
+    
+    .trophy-req--excess {
+      margin-left: 18%;
+      margin-top: 63.25%;
+      font-size: 10px;
+    }
+          
+    .trophy-req--elderly {
+      margin-left: 18%;
+      margin-top: 128.75%;
+      font-size: 10px;
+    }
+          
+    .trophy-req--nuclear {
+      margin-left: 18%;
+      margin-top: 186.75%;
+      font-size: 10px;
+    } 
+
+  } 
+
+  @media screen and (max-width: 21.25em) and (orientation: portrait) {
+    
+    .text-title {
+      font-size: 35px; 
+      margin-top: 28px;
+    }
+           
+    .trophy-number--text {
+      font-size: 15px;
+      right: 14%;
+    }
+          
+    .trophy-outline--text-select {
+      height: 25px;
+      width: 25px;
+      right: 4%;
+    }
+          
+    .icon--text-select {
+      height: 25px; 
+      width: 25px;
+      left: 5%;
+    }
+        
+    .excess-text {
+      font-size: 4rem;
+      width: 250px;
+      margin-left: 13.5%; 
+      margin-top: 80px;
+    }
+            
+    .elderly-text {
+      font-size: 4.5rem; 
+      width: 250px;
+      margin-left: 13.5%;
+      margin-top: 300px;
+    }
+            
+    .nuclear-text {
+      font-size: 3.4rem; 
+      width: 250px;
+      margin-left: 13.5%;
+      margin-top: 520px;
+    }  
+    
+    .trophy--text-excess {
+      margin-left: 22.75%;
+      margin-top: 62.5%;
+      height: 19px;
+      width: 19px;
+    }
+          
+    .trophy--text-elderly {
+      margin-left: 22.75%;
+      margin-top: 130%;
+      height: 19px;
+      width: 19px;
+    }
+          
+    .trophy--text-nuclear {
+      margin-left: 22.75%;
+      margin-top: 189.25%;
+      height: 19px;
+      width: 19px;
+    }
+    
+    .trophy-req--excess {
+      margin-left: 18%;
+      margin-top: 65.25%;
+      font-size: 10px;
+    }
+          
+    .trophy-req--elderly {
+      margin-left: 18%;
+      margin-top: 132.75%;
+      font-size: 10px;
+    }
+          
+    .trophy-req--nuclear {
+      margin-left: 18%;
+      margin-top: 192%;
+      font-size: 10px;
+    } 
+
+  } 
+
+  @media screen and (max-width: 20.625em) and (orientation: portrait) {
+    
+    .text-title {
+      font-size: 35px; 
+      margin-top: 28px;
+    }
+           
+    .trophy-number--text {
+      font-size: 15px;
+      right: 14.5%;
+    }
+          
+    .trophy-outline--text-select {
+      height: 25px;
+      width: 25px;
+      right: 4%;
+    }
+          
+    .icon--text-select {
+      height: 25px; 
+      width: 25px;
+      left: 5%;
+    }
+        
+    .excess-text {
+      font-size: 4rem;
+      width: 250px;
+      margin-left: 13.5%; 
+      margin-top: 80px;
+    }
+            
+    .elderly-text {
+      font-size: 4.5rem; 
+      width: 250px;
+      margin-left: 13.5%;
+      margin-top: 300px;
+    }
+            
+    .nuclear-text {
+      font-size: 3.4rem; 
+      width: 250px;
+      margin-left: 13.5%;
+      margin-top: 520px;
+    }  
+    
+    .trophy--text-excess {
+      margin-left: 22.75%;
+      margin-top: 64.4%;
+      height: 19px;
+      width: 19px;
+    }
+          
+    .trophy--text-elderly {
+      margin-left: 22.75%;
+      margin-top: 133.75%;
+      height: 19px;
+      width: 19px;
+    }
+          
+    .trophy--text-nuclear {
+      margin-left: 22.75%;
+      margin-top: 195%;
+      height: 19px;
+      width: 19px;
+    }
+    
+    .trophy-req--excess {
+      margin-left: 18%;
+      margin-top: 67.25%;
+      font-size: 10px;
+    }
+          
+    .trophy-req--elderly {
+      margin-left: 18%;
+      margin-top: 136.5%;
+      font-size: 10px;
+    }
+          
+    .trophy-req--nuclear {
+      margin-left: 18%;
+      margin-top: 197.5%;
+      font-size: 10px;
+    } 
+
+  } 
+
+  @media screen and (max-width: 20em) and (orientation: portrait) {
+    
+    .text-title {
+      font-size: 35px; 
+      margin-top: 28px;
+    }
+           
+    .trophy-number--text {
+      font-size: 15px;
+      right: 15%;
+    }
+          
+    .trophy-outline--text-select {
+      height: 25px;
+      width: 25px;
+      right: 4%;
+    }
+          
+    .icon--text-select {
+      height: 25px; 
+      width: 25px;
+      left: 5%;
+    }
+        
+    .excess-text {
+      font-size: 4rem;
+      width: 250px;
+      margin-left: 13.5%; 
+      margin-top: 80px;
+    }
+            
+    .elderly-text {
+      font-size: 4.5rem; 
+      width: 250px;
+      margin-left: 13.5%;
+      margin-top: 300px;
+    }
+            
+    .nuclear-text {
+      font-size: 3.4rem; 
+      width: 250px;
+      margin-left: 13.5%;
+      margin-top: 520px;
+    }  
+    
+    .trophy--text-excess {
+      margin-left: 22.75%;
+      margin-top: 64.4%;
+      height: 19px;
+      width: 19px;
+    }
+          
+    .trophy--text-elderly {
+      margin-left: 22.75%;
+      margin-top: 133.75%;
+      height: 19px;
+      width: 19px;
+    }
+          
+    .trophy--text-nuclear {
+      margin-left: 22.75%;
+      margin-top: 195%;
+      height: 19px;
+      width: 19px;
+    }
+    
+    .trophy-req--excess {
+      margin-left: 18%;
+      margin-top: 67.25%;
+      font-size: 10px;
+    }
+          
+    .trophy-req--elderly {
+      margin-left: 18%;
+      margin-top: 136.5%;
+      font-size: 10px;
+    }
+          
+    .trophy-req--nuclear {
+      margin-left: 18%;
+      margin-top: 197.5%;
+      font-size: 10px;
+    } 
+
+  } 
+
+    /****************/

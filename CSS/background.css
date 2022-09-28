@@ -1,0 +1,147 @@
+.background-title {
+    text-align: center;
+    font-size: 45px; 
+    text-transform: uppercase;
+    margin-top: 15px;
+}
+   
+.trophy-number--background {
+    position: absolute; 
+    color: #b2bf22;
+    font-size: 30px;
+    top: 20px;
+    right: 11%;
+}
+    
+.trophy-outline--background-select {
+    color: #b2bf22;  
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    top: 8px;
+    right: 4%;
+}
+    
+.icon--background-select {
+    height: 40px; 
+    width: 40px;
+    position: absolute;
+    top: 15px;
+    left: 5%;
+}
+  
+.icon--background-select:hover {
+    height: 45px; 
+    width: 45px;
+    position: absolute;
+    top: 15px;
+    left: 5%;
+}
+  
+.icon--background-select:active {
+    height: 42.5px; 
+    width: 42.5px;
+    position: absolute;
+    top: 15px;
+    left: 5%;
+}
+  
+.background-main {
+    position: relative;  
+}
+  
+.btn--background {
+    position: absolute; 
+    border: 7.5px ridge #e3e3e3;
+    color: #eee;
+    background-color: #222;
+    font-family: inherit;
+}
+  
+.btn--background:hover {
+    transform: scale(1.03);  
+}
+  
+.btn--background:active {
+    transform: scale(1.02);  
+}
+  
+.simple-background {
+    font-size: 5.5rem;
+    padding: 4rem 3rem;
+    margin-left: 21%; 
+    margin-top: 80px;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(96,66,41,1) 100%, rgba(142,191,78,1) 100%, rgba(0,212,255,1) 100%);
+}
+  
+.vibrant-background {
+    font-size: 4.72rem; 
+    padding: 4.35rem 3rem;
+    margin-left: 21%;
+    margin-top: 300px;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(194,33,89,1) 0%, rgba(142,191,78,1) 52%, rgba(0,212,255,1) 71%);
+}
+  
+.premium-background {
+    font-size: 4.72rem; 
+    padding: 4.35rem 3rem;
+    margin-left: 21%;
+    margin-top: 520px;
+    background-color: #000000;
+    opacity: 0.8; 
+    background-image:  radial-gradient(#ffffff 1.75px, transparent 1.75px), radial-gradient(#ffffff 1.75px, #000000 1.75px);
+    background-size: 70px 70px;
+    background-position: 0 0,35px 35px;
+}
+  
+  
+.trophy-outline {
+    position: absolute;
+    color: #b2bf22;
+}
+  
+  
+.trophy-req {
+    color: #b2bf22; 
+    position: absolute;
+} 
+  
+.trophy-req--simple {
+    margin-left: 23%; 
+    margin-top: 28.75%;
+    font-size: 15px;
+}
+  
+.trophy-req-vibrant {
+    margin-left: 23%; 
+    margin-top: 59.5%;
+    font-size: 15px;
+}
+  
+.trophy-req--premium {
+    margin-left: 23%;
+    margin-top: 91%;  
+    font-size: 11px;
+} 
+  
+  
+.trophy-outline {
+    color: #b2bf22; 
+    position: absolute;
+}
+  
+.trophy--background-simple {
+    margin-left: 27.5%;
+    margin-top: 28.3%;
+    height: 18px;
+    width: 18px;
+}
+  
+.trophy--background-vibrant {
+    margin-left: 27.5%;
+    margin-top: 59%;
+    height: 18px;
+    width: 18px;
+}    

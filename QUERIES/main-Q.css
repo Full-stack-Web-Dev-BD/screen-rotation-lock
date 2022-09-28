@@ -1,0 +1,432 @@
+/****************/
+/* Below 1366px */
+/****************/
+  
+@media screen and (max-width: 85.375em) and (orientation: landscape) {
+  .main-title {
+    font-size: 9.5rem;
+  }
+
+  .btn--play {
+    font-size: 8.5rem;
+    right: 34%;
+  }
+    
+  .btn--shop {
+    font-size: 8.5rem;
+    right: 34%;
+  }
+    
+  .author-name {
+    font-size: 3rem;
+    right: 5%;
+  }  
+}
+
+/*****************************/
+
+@media screen and (max-width: 75em) and (orientation: landscape) {
+  .main-title {
+    font-size: 9.5rem;
+  }
+
+  .btn--play {
+    font-size: 8.5rem;
+    right: 32%;
+  }
+    
+  .btn--shop {
+    font-size: 8.5rem;
+    right: 32%;
+  }
+    
+  .author-name {
+    font-size: 3rem;
+    right: 5%;
+  }  
+}
+
+@media screen and (max-width: 65.625em) and (orientation: landscape) {
+  .main-title {
+    font-size: 9.5rem;
+  }
+
+  .btn--play {
+    font-size: 8.5rem;
+    right: 29.5%;
+  }
+    
+  .btn--shop {
+    font-size: 8.5rem;
+    right: 29.5%;
+  }
+    
+  .author-name {
+    font-size: 3rem;
+    right: 5%;
+  }  
+}
+
+/*****************************/
+
+/****************/
+/* Below 992px */
+/****************/
+  
+@media screen and (max-width: 62em) and (orientation: landscape) {
+    .main-title {
+      font-size: 8.5rem;
+    }
+
+    .btn--play {
+      font-size: 7.5rem;
+      right: 31%;
+    }
+      
+    .btn--shop {
+      font-size: 7.5rem;
+      right: 31.5%;
+    }
+      
+    .author-name {
+      font-size: 2rem;
+      right: 5%;
+    }  
+}
+
+/*****************************/
+
+@media screen and (max-width: 58.125em) and (orientation: landscape) {
+  .main-title {
+    font-size: 8.5rem;
+  }
+
+  .btn--play {
+    font-size: 7.5rem;
+    right: 30%;
+  }
+    
+  .btn--shop {
+    font-size: 7.5rem;
+    right: 30%;
+  }
+    
+  .author-name {
+    font-size: 2rem;
+    right: 5%;
+  }  
+}
+
+@media screen and (max-width: 53.125em) and (orientation: landscape) {
+  .main-title {
+    font-size: 8.5rem;
+  }
+
+  .btn--play {
+    font-size: 7.5rem;
+    right: 28.5%;
+  }
+    
+  .btn--shop {
+    font-size: 7.5rem;
+    right: 28.5%;
+  }
+    
+  .author-name {
+    font-size: 2rem;
+    right: 5%;
+  }  
+}
+
+@media screen and (max-width: 50em) and (orientation: landscape) {
+  .main-title {
+    font-size: 8.5rem;
+  }
+
+  .btn--play {
+    font-size: 7.5rem;
+    right: 26.5%;
+  }
+    
+  .btn--shop {
+    font-size: 7.5rem;
+    right: 26.5%;
+  }
+    
+  .author-name {
+    font-size: 2rem;
+    right: 5%;
+  }  
+}
+
+@media screen and (max-width: 56.875em) and (orientation: landscape) {
+  .main-title {
+    font-size: 8.5rem;
+  }
+
+  .btn--play {
+    font-size: 7.5rem;
+    right: 25.5%;
+  }
+    
+  .btn--shop {
+    font-size: 7.5rem;
+    right: 25.5%;
+  }
+    
+  .author-name {
+    font-size: 2rem;
+    right: 5%;
+  }  
+}
+
+/*****************************/
+  
+  
+/****************/
+/* Below 713px */
+/****************/
+  
+  @media screen and (max-width: 44.5625em) and (orientation: landscape) {
+    .main-title {
+      font-size: 7.75rem;
+    }
+  
+    .btn--play {
+      font-size: 6.75rem;
+      right: 26%;
+    }
+        
+    .btn--shop {
+      font-size: 6.75rem;
+      right: 26%;
+    }
+        
+    .author-name {
+      font-size: 1.75rem;
+      right: 5%;
+    }  
+}
+
+/*****************************/
+
+@media screen and (max-width: 41.25em) and (orientation: landscape) {
+  .main-title {
+    font-size: 7.75rem;
+  }
+
+  .btn--play {
+    font-size: 6.75rem;
+    right: 24.5%;
+  }
+      
+  .btn--shop {
+    font-size: 6.75rem;
+    right: 24.5%;
+  }
+      
+  .author-name {
+    font-size: 1.75rem;
+    right: 5%;
+  }  
+}
+ 
+@media screen and (max-width: 38.125em) and (orientation: landscape) {
+  .main-title {
+    font-size: 7.75rem;
+  }
+
+  .btn--play {
+    font-size: 6.75rem;
+    right: 23%;
+  }
+      
+  .btn--shop {
+    font-size: 6.75rem;
+    right: 23%;
+  }
+      
+  .author-name {
+    font-size: 1.75rem;
+    right: 5%;
+  }  
+}
+
+@media screen and (max-width: 35.625em) and (orientation: landscape) {
+  .main-title {
+    font-size: 7.75rem;
+  }
+
+  .btn--play {
+    font-size: 6.75rem;
+    right: 20.5%;
+  }
+      
+  .btn--shop {
+    font-size: 6.75rem;
+    right: 20.5%;
+  }
+      
+  .author-name {
+    font-size: 1.75rem;
+    right: 5%;
+  }  
+}
+
+/*****************************/
+  
+  
+/****************/
+/* Below 544px */
+/****************/
+  
+  @media screen and (max-width: 34em) and (orientation: portrait) {
+    .main-title {
+      font-size: 5.5rem;
+    }
+    
+    .btn--play {
+      font-size: 5rem;
+      right: 24.5%;
+    }
+          
+    .btn--shop {
+      font-size: 5rem;
+      right: 24.5%;
+    }
+          
+    .author-name {
+      font-size: 1.5rem;
+      right: 5%;
+    }   
+}
+  
+/*****************************/
+
+@media screen and (max-width: 31.25em) and (orientation: portrait) {
+  .main-title {
+    font-size: 5.5rem;
+  }
+  
+  .btn--play {
+    font-size: 5rem;
+    right: 23%;
+  }
+        
+  .btn--shop {
+    font-size: 5rem;
+    right: 23%;
+  }
+        
+  .author-name {
+    font-size: 1.5rem;
+    right: 5%;
+  }   
+}
+
+@media screen and (max-width: 28.125em) and (orientation: portrait) {
+  .main-title {
+    font-size: 5.5rem;
+  }
+  
+  .btn--play {
+    font-size: 5rem;
+    right: 20%;
+  }
+        
+  .btn--shop {
+    font-size: 5rem;
+    right: 20%;
+  }
+        
+  .author-name {
+    font-size: 1.5rem;
+    right: 5%;
+  }   
+}
+
+@media screen and (max-width: 25em) and (orientation: portrait) {
+  .main-title {
+    font-size: 5.5rem;
+  }
+  
+  .btn--play {
+    font-size: 5rem;
+    right: 16%;
+  }
+        
+  .btn--shop {
+    font-size: 5rem;
+    right: 16%;
+  }
+        
+  .author-name {
+    font-size: 1.5rem;
+    right: 5%;
+  }   
+}
+
+@media screen and (max-width: 21.875em) and (orientation: portrait) {
+  .main-title {
+    font-size: 5rem;
+  }
+  
+  .btn--play {
+    font-size: 4rem;
+    right: 17%;
+  }
+        
+  .btn--shop {
+    font-size: 4rem;
+    right: 17%;
+  }
+        
+  .author-name {
+    font-size: 1.25rem;
+    right: 5%;
+  }   
+}
+
+@media screen and (max-width: 18.75em) and (orientation: portrait) {
+  .main-title {
+    font-size: 5rem;
+  }
+  
+  .btn--play {
+    font-size: 3.5rem;
+    right: 15%;
+  }
+        
+  .btn--shop {
+    font-size: 3.5rem;
+    right: 15%;
+  }
+        
+  .author-name {
+    font-size: 1.25rem;
+    right: 5%;
+  }   
+}
+
+@media screen and (max-width: 15.625em) and (orientation: portrait) {
+  .main-title {
+    font-size: 3rem;
+  }
+  
+  .btn--play {
+    font-size: 2rem;
+    right: 17%;
+  }
+        
+  .btn--shop {
+    font-size: 2rem;
+    right: 17%;
+  }
+        
+  .author-name {
+    font-size: 1.25rem;
+    right: 5%;
+  }   
+}
+
+/*****************************/

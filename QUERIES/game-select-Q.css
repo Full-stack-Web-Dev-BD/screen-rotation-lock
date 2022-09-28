@@ -1,0 +1,135 @@
+/****************/
+/* Below 1500px */
+/****************/
+
+@media screen and (max-width: 93.75em) and (orientation: landscape) { 
+  .icon--game-select {
+    height: 50px; 
+    width: 50px;
+  } 
+
+  .trophy-number {
+    font-size: 40px;
+    margin-left: 84.5%;
+  }
+     
+  .trophy-outline--select-menu {
+    height: 50px;
+    width: 50px;
+  }  
+
+  .btn--game {
+    font-size: 5rem;  
+    width: 500px;
+  }
+} 
+
+
+/****************/
+/* Below 1010px */
+/****************/
+
+@media screen and (max-width: 63.125em) and (orientation: landscape) {
+  .icon--game-select {
+    height: 50px;
+    width: 50px;
+  }
+
+  .trophy-number {
+    font-size: 40px;
+    margin-left: 83.5%;
+  }
+
+  .trophy-outline--select-menu {
+    height: 50px;
+    width: 50px;
+  }
+
+  .btn--game {
+    font-size: 5rem; 
+    width: 465.5px;
+  }   
+} 
+
+
+
+/****************/
+/* Below 992px */
+/****************/
+
+@media screen and (max-width: 62em) and (orientation: landscape) {
+  .icon--game-select {
+    height: 40px;
+    width: 40px;
+  }
+
+  .trophy-number {
+    font-size: 30px;
+    margin-left: 84%;
+  }
+
+  .trophy-outline--select-menu {
+    height: 40px;
+    width: 40px;
+  }
+
+  .btn--game {
+    font-size: 4.5rem; 
+    width: 367.5px;
+  }   
+}
+
+
+/****************/
+/* Below 713px */
+/****************/
+
+@media screen and (max-width: 44.5625em) and (orientation: landscape) {
+  .icon--game-select {
+    height: 35px;
+    width: 35px;
+  }
+
+  .trophy-number {
+    font-size: 25px;
+    margin-left: 83%;
+  }
+
+  .trophy-outline--select-menu {
+    height: 35px;
+    width: 35px;
+  }
+
+  .btn--game {
+    width: 350px;
+    font-size: 4rem; 
+  }   
+}
+
+
+/****************/
+/* Below 544px */
+/****************/
+
+@media screen and (max-width: 34em) and (orientation: portrait) {
+  .icon--game-select {
+    height: 30px;
+    width: 30px;
+  }
+
+  .trophy-number {
+    font-size: 20px;
+    margin-left: 82%;
+  }
+
+  .trophy-outline--select-menu {
+    height: 30px;
+    width: 30px;
+  }
+
+  .btn--game {
+    font-size: 3rem; 
+    width: 275px;
+  }   
+}
+

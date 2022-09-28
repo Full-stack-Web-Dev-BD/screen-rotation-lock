@@ -1,0 +1,66 @@
+.icon--fifty {
+    height: 30px;
+    width: 30px;
+    margin-top: 15px;
+    margin-left: 10px;
+}
+      
+.icon--fifty:hover {
+    transform: scale(1.025);
+    margin-top: 10px;
+    margin-left: 10px;
+}
+  
+.fifty-fifty { 
+    display: flex;  
+    flex-direction: row;
+    justify-content: center;
+}
+  
+.btn--five {
+    font-family: inherit;
+    border: 4px solid #eee;
+    border-radius: 5px;
+    background-color: #222;
+    color: #eee;
+    margin-top: 30px;
+    width: 45%;
+    height: 595px;
+    font-size: 8rem;
+}
+  
+.btn--five:hover {
+    /* transform: scale(1.05);  */
+    border-radius: 5px;
+    cursor: pointer;
+}
+  
+.btn--five:active {
+    transform: scale(1.04); 
+    border-radius: 5px;
+}
+  
+.score-container {
+     display: flex; 
+     flex-direction: row;
+     justify-content: center;
+}
+  
+.score-design--five {
+     border: 4px double #eee;
+     margin-top: 3rem;
+     width: 45%;
+     height: 100px;
+     text-align: center;
+     padding-top: 40px;
+     font-size: 18px;
+}  
+  
+.setting-icon--fifty {
+    color: #D3D3D3;
+    height: 30px;
+    width: 30px;
+    margin-top: 15px;
+    margin-left: 85%;
+}
+  

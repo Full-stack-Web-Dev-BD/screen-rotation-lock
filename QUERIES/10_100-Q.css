@@ -1,0 +1,144 @@
+/****************/
+/* Below 1344px */
+/****************/
+
+@media screen and (max-width: 85.375em) and (orientation: landscape) {
+    .icon--ten-hundred {
+      height: 50px;
+      width: 50px;
+    }
+
+    .setting-icon--ten {
+      height: 50px;
+      width: 50px;
+    }
+
+    .btn--ten {
+      font-size: 8.5rem;
+    }
+
+    .score-design--ten {
+      font-size: 22px; 
+    }  
+} 
+
+
+/****************/
+/* Below 1010px */
+/****************/
+
+@media screen and (max-width: 63.125em) and (orientation: landscape) {
+    .icon--ten-hundred {
+      height: 45px;
+      width: 45px;
+    }
+
+    .setting-icon--ten {
+      height: 45px;
+      width: 45px;
+    }
+
+    .btn--ten {
+      font-size: 8.25rem;
+    }
+
+    .score-design--ten {
+      font-size: 20px; 
+    }  
+} 
+
+
+/****************/
+/* Below 992px */
+/****************/
+
+@media screen and (max-width: 62em) and (orientation: landscape) {
+    .icon--ten-hundred {
+      height: 40px;
+      width: 40px;
+    }
+
+    .setting-icon--ten {
+      height: 40px;
+      width: 40px;
+    }
+
+    .btn--ten {
+      font-size: 8rem;
+    }
+
+    .score-design--ten {
+      font-size: 19px; 
+    }  
+}
+
+
+/****************/
+/* Below 713px */
+/****************/
+
+@media screen and (max-width: 50em) and (orientation: landscape) {
+    .icon--ten-hundred {
+      height: 30px;
+      width: 30px;
+    }
+
+    .setting-icon--ten {
+      height: 30px;
+      width: 30px;
+    }
+
+    .btn--ten {
+      font-size: 6rem;
+    }
+
+    .score-design--ten {
+      font-size: 18px; 
+    }  
+}
+
+/****************/
+/* Below 544px */
+/****************/
+
+@media screen and (max-width: 50em) and (orientation: portrait) {
+    .icon--ten-hundred {
+      height: 22.5px;
+      width: 22.5px;
+    }
+
+    .setting-icon--ten {
+      height: 22.5px;
+      width: 22.5px;
+    }
+
+    .btn--ten {
+      font-size: 5rem;
+    }
+
+    .score-design--ten {
+      font-size: 13px; 
+    }  
+}
+
+
+@media screen and (max-width: 24.625em) and (orientation: portrait) {
+  .icon--ten-hundred {
+    height: 22.5px;
+    width: 22.5px;
+  }
+
+  .setting-icon--ten {
+    height: 22.5px;
+    width: 22.5px;
+    margin-left: 80%;
+  }
+
+  .btn--ten {
+    font-size: 5rem;
+  }
+
+  .score-design--ten {
+    font-size: 13px; 
+  }  
+}
